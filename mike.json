@@ -3,69 +3,56 @@
         "description": "Breakfast",
         "list": [
             {
-                "description": "Cem Porcento - Bolachas Marinheiras Chia 200g",
-                "pid": "5181067",
-                "target": 1.9
-            },
-            {
-                "description": "Cem Porcento - Bolachas Marinheiras Chia 200g",
-                "pid": "6555420",
-                "target": 1.9
-            },
-            {
-                "description": "Continente - Broa d'avintes",
                 "pid": "2163626",
                 "target": 2.49
             },
             {
-                "description": "Continente - Broa d'avintes",
                 "pid": "2388282",
                 "target": 2.49
             },
             {
-                "description": "Continente - Miolo de Noz 200g",
-                "pid": "6044439",
-                "target": 2.0
+                "pid": "2410868",
+                "target": 3.49
             },
             {
-                "description": "Continente - Miolo de Noz metades 200g",
-                "pid": "5241661",
-                "target": 2.0
-            },
-            {
-                "description": "Continente - Miolo de Noz peda\u00e7os 200g",
-                "pid": "5244679",
-                "target": 2.0
-            },
-            {
-                "description": "Lipton Detox",
-                "pid": "5638223",
-                "target": 2.0
-            },
-            {
-                "description": "Lipton Silhueta Cavalinha Pyramid",
-                "pid": "6691826",
-                "target": 2.0
-            },
-            {
-                "description": "Philadelphia Light 175g",
-                "pid": "6439065",
-                "target": 1.99
-            },
-            {
-                "description": "Philadelphia Light 270g",
-                "pid": "6409881",
-                "target": 2.59
-            },
-            {
-                "description": "Prisca - Doce Morango 250g",
                 "pid": "4951044",
                 "target": 2.99
             },
             {
-                "description": "St.Dalfour - Doce Morango 284g",
-                "pid": "2410868",
-                "target": 3.49
+                "pid": "5638223",
+                "target": 2.0
+            },
+            {
+                "pid": "6691826",
+                "target": 2.0
+            },
+            {
+                "pid": "6439065",
+                "target": 1.99
+            },
+            {
+                "pid": "6409881",
+                "target": 2.59
+            },
+            {
+                "pid": "5241661",
+                "target": 2.0
+            },
+            {
+                "pid": "5244679",
+                "target": 2.0
+            },
+            {
+                "pid": "6044439",
+                "target": 2.0
+            },
+            {
+                "pid": "5181067",
+                "target": 1.9
+            },
+            {
+                "pid": "6555420",
+                "target": 1.9
             }
         ],
         "title": "Breakfast"
@@ -74,77 +61,62 @@
         "description": "Cleaning",
         "list": [
             {
-                "description": "Cif - Hygiene 570ml",
-                "pid": "4050886",
-                "target": 2.99
-            },
-            {
-                "description": "Fairy Maq.60doses",
-                "pid": "5923288",
-                "target": 10.99
-            },
-            {
-                "description": "Fairy Original Maq.60doses",
-                "pid": "6244185",
-                "target": 10.99
-            },
-            {
-                "description": "Fairy Plat.3 Maq.56doses",
-                "pid": "6821692",
-                "target": 10.99
-            },
-            {
-                "description": "Fairy m\u00e3o 1.5l",
-                "pid": "5708424",
-                "target": 4.99
-            },
-            {
-                "description": "Kasa - Estendal Alum\u00ednio com Abas Comprimento \u00datil 18mt Condor",
-                "pid": "6467548",
-                "target": 18.0
-            },
-            {
-                "description": "Kasa - Estendal Alum\u00ednio e A\u00e7o Comprimento \u00datil 18mt",
-                "pid": "5322907",
-                "target": 22.0
-            },
-            {
-                "description": "Kasa - Estendal A\u00e7o Inoxid\u00e1vel Comprimento \u00datil 18mt",
-                "pid": "5669720",
-                "target": 20.0
-            },
-            {
-                "description": "Kasa - Estendal Ch\u00e3o A\u00e7o Comprimento \u00datil 18mt",
-                "pid": "2895615",
-                "target": 8.0
-            },
-            {
-                "description": "Sacos para Lixo 30 lt",
-                "pid": "4895385",
-                "target": 1.5
-            },
-            {
-                "description": "Vanish - Tira N\u00f3doas P\u00f3 Oxi Action Pink 1.3kg",
                 "pid": "6938892",
                 "target": 10.99
             },
             {
-                "description": "Vanish - Tira N\u00f3doas P\u00f3 Oxi Action Pink 450g",
                 "pid": "6938861",
                 "target": 10.99
             },
             {
-                "description": "Vileda - Estendal 100% Alum\u00ednio Comprimento \u00datil 20mt",
+                "pid": "4050886",
+                "target": 2.99
+            },
+            {
+                "pid": "5708424",
+                "target": 4.99
+            },
+            {
+                "pid": "5923288",
+                "target": 10.99
+            },
+            {
+                "pid": "6244185",
+                "target": 10.99
+            },
+            {
+                "pid": "6821692",
+                "target": 10.99
+            },
+            {
+                "pid": "4895385",
+                "target": 1.5
+            },
+            {
+                "pid": "2895615",
+                "target": 8.0
+            },
+            {
+                "pid": "6467548",
+                "target": 18.0
+            },
+            {
+                "pid": "5669720",
+                "target": 20.0
+            },
+            {
+                "pid": "5322907",
+                "target": 22.0
+            },
+            {
                 "pid": "6206357",
                 "target": 47.0
             },
             {
-                "description": "Vileda - Estendal Universal X-Legs Comprimento \u00datil 18mt",
                 "pid": "4723486",
                 "target": 28.0
             },
             {
-                "description": "Vilega - Estendal 100% Resina Comprimento \u00datil 20mt Solar",
                 "pid": "6205863",
                 "target": 36.0
             }
@@ -155,38 +127,31 @@
         "description": "Diary",
         "list": [
             {
-                "description": "Babybel - Mini Babybel Light 12 x 20 gr",
-                "pid": "6579062",
-                "target": 2.99
-            },
-            {
-                "description": "Babybel - Mini Babybel Lightl 6 x 20 gr",
-                "pid": "2915648",
-                "target": 1.99
-            },
-            {
-                "description": "Babybel - Queijo Mini Original 12 x 20 gr",
-                "pid": "5608649",
-                "target": 2.99
-            },
-            {
-                "description": "Babybel - Queijo Mini Original 6 x 20 gr",
                 "pid": "2163597",
                 "target": 1.99
             },
             {
-                "description": "Iog.Light&Free.Coco",
+                "pid": "5608649",
+                "target": 2.99
+            },
+            {
+                "pid": "2915648",
+                "target": 1.99
+            },
+            {
+                "pid": "6579062",
+                "target": 2.99
+            },
+            {
                 "pid": "6691078",
                 "target": 2.0
             },
             {
-                "description": "Iog.Light&Free.Framboesa",
-                "pid": "6691038",
+                "pid": "6691036",
                 "target": 2.0
             },
             {
-                "description": "Iog.Light&Free.Pessego",
-                "pid": "6691036",
+                "pid": "6691038",
                 "target": 2.0
             }
         ],
@@ -196,37 +161,30 @@
         "description": "Fruta",
         "list": [
             {
-                "description": "Continente - Abacate Hass 3.99/kg",
                 "pid": "2076390",
                 "target": 3.99
             },
             {
-                "description": "Continente - Abacate Hass Emb.500g",
                 "pid": "6896870",
                 "target": 3.0
             },
             {
-                "description": "Continente - Mam\u00e3o 3.95/kg",
-                "pid": "2216170",
-                "target": 3.0
-            },
-            {
-                "description": "Continente - Papaia 3.95/kg",
                 "pid": "2076576",
                 "target": 3.0
             },
             {
-                "description": "Manga",
+                "pid": "2216170",
+                "target": 3.0
+            },
+            {
                 "pid": "6896876",
                 "target": 2.99
             },
             {
-                "description": "Manga",
                 "pid": "4480831",
                 "target": 2.99
             },
             {
-                "description": "Manga Palmer",
                 "pid": "2504465",
                 "target": 3.99
             }
@@ -237,439 +195,352 @@
         "description": "Garrafeira",
         "list": [
             {
-                "description": "Adega De Borba DOC Alentejo Tinto",
-                "pid": "4297399",
-                "target": 3.69
-            },
-            {
-                "description": "Albenaz Jardim Secreto Premium DOC Vinho Verde Branco 75 cl",
-                "pid": "6526646",
-                "target": 12.99
-            },
-            {
-                "description": "Anselmo Mendes Contacto DOC Vinho Verde Branco 75 cl",
-                "pid": "5031496",
-                "target": 9.99
-            },
-            {
-                "description": "Anselmo Mendes Curtimenta DOC Vinho Verde Branco 75 cl",
-                "pid": "5423873",
-                "target": 25.8
-            },
-            {
-                "description": "Anselmo Mendes Curtimenta DOC Vinho Verde Branco 75 cl",
-                "pid": "6804223",
-                "target": 24.9
-            },
-            {
-                "description": "Anselmo Mendes Parcela \u00danica DOC Vinho Verde Branco 75 cl",
-                "pid": "5423886",
-                "target": 31.5
-            },
-            {
-                "description": "Bumester 40 Anos Porto 75 cl",
-                "pid": "5424924",
-                "target": 99.0
-            },
-            {
-                "description": "Cabaz de Vinhos Verdes",
-                "pid": "6994613",
-                "target": 20.97
-            },
-            {
-                "description": "Cabaz de Vinhos de Lisboa",
-                "pid": "6994612",
-                "target": 33.97
-            },
-            {
-                "description": "Cabaz de Vinhos de Set\u00fabal",
-                "pid": "7011843",
-                "target": 11.99
-            },
-            {
-                "description": "Cabaz de Vinhos do Alentejo",
-                "pid": "6995603",
-                "target": 11.99
-            },
-            {
-                "description": "Cabaz de Vinhos do Douro",
-                "pid": "6994611",
-                "target": 38.97
-            },
-            {
-                "description": "Cabaz de Vinhos do D\u00e3o",
-                "pid": "6995671",
-                "target": 38.97
-            },
-            {
-                "description": "Cabaz de Vinhos do Tejo",
-                "pid": "7055248",
-                "target": 34.37
-            },
-            {
-                "description": "Cabaz de Vinhos para Doces de Chocolate",
-                "pid": "7055243",
-                "target": 47.97
-            },
-            {
-                "description": "Cabaz de Vinhos para Doces de Ovos",
-                "pid": "7055244",
-                "target": 29.67
-            },
-            {
-                "description": "Cabaz de Vinhos para Enchidos",
-                "pid": "7055236",
-                "target": 25.97
-            },
-            {
-                "description": "Cabaz de Vinhos para Pratos Intensos de Aves",
-                "pid": "7055237",
-                "target": 24.57
-            },
-            {
-                "description": "Cabaz de Vinhos para Pratos Intensos de Marisco",
-                "pid": "7055238",
-                "target": 29.47
-            },
-            {
-                "description": "Cabaz de Vinhos para Pratos Intensos de Peixe",
-                "pid": "7055239",
-                "target": 40.98
-            },
-            {
-                "description": "Cabaz de Vinhos para Pratos Simples de Aves",
-                "pid": "7055240",
-                "target": 28.47
-            },
-            {
-                "description": "Cabaz de Vinhos para Pratos Simples de Carnes Vermelhas",
-                "pid": "7055241",
-                "target": 15.49
-            },
-            {
-                "description": "Cabaz para Partilhar com a Fam\u00edlia",
-                "pid": "6995612",
-                "target": 45.18
-            },
-            {
-                "description": "Casa Vila Verde Loureiro DOC Verde Branco 75 cl",
-                "pid": "6917358",
-                "target": 8.99
-            },
-            {
-                "description": "Castello D'Alba DOC Tinto Douro",
-                "pid": "5339630",
-                "target": 5.99
-            },
-            {
-                "description": "Colete Velho Premium Regional Tejo Tinto",
-                "pid": "6653476",
-                "target": 9.99
-            },
-            {
-                "description": "Conjunto 2 Tinto + 1 Branco Vidigueira Premium Alentejo",
-                "pid": "5928747",
-                "target": 10.99
-            },
-            {
-                "description": "Cruz Vinho do Porto 30 Anos 75 cl",
-                "pid": "5424261",
-                "target": 89.15
-            },
-            {
-                "description": "Cruz Vinho do Porto 40 Anos 75 cl",
-                "pid": "5425345",
-                "target": 120.0
-            },
-            {
-                "description": "Cruz Vinho do Porto L\u00e1grima Branco 75 cl",
-                "pid": "5363637",
-                "target": 8.49
-            },
-            {
-                "description": "Dalva Vinho do Porto Dry White 40 Anos 75 cl",
-                "pid": "5425338",
-                "target": 129.0
-            },
-            {
-                "description": "Dow's Trademark Vinho do Porto Reserve",
-                "pid": "5723446",
-                "target": 14.99
-            },
-            {
-                "description": "Duas Encostas Signature D\u00e3o Branco",
-                "pid": "6858444",
-                "target": 15.99
-            },
-            {
-                "description": "Emin\u00eancia Branco Loureiro 75 cl",
-                "pid": "5422881",
-                "target": 22.9
-            },
-            {
-                "description": "Guarda Rios Signature Regional Alentejano Branco",
-                "pid": "6175051",
-                "target": 14.99
-            },
-            {
-                "description": "Guarda Rios Signature Regional Alentejano Tinto",
-                "pid": "6037014",
-                "target": 14.99
-            },
-            {
-                "description": "Monte Dos Amigos Regional Alentejano Tinto",
-                "pid": "5273143",
-                "target": 5.99
-            },
-            {
-                "description": "Pal\u00e1cio Da Brejoeira Alvarinho DOC Vinho Verde Branco",
-                "pid": "2050355",
-                "target": 16.99
-            },
-            {
-                "description": "Pal\u00e1cio Da Brejoeira Alvarinho DOC Vinho Verde Branco 75 cl",
-                "pid": "2050355",
-                "target": 16.99
-            },
-            {
-                "description": "Porto Martha's 10 Anos com Copo 50 cl",
-                "pid": "6751264",
-                "target": 16.99
-            },
-            {
-                "description": "Porto Martha's Benfica com Cachecol 75 cl",
-                "pid": "6751138",
-                "target": 15.99
-            },
-            {
-                "description": "QM Nature Alvarinho DOC Verde Branco 75 cl",
-                "pid": "6804224",
-                "target": 17.5
-            },
-            {
-                "description": "Qm Alvarinho Vinhas Velhas DOC Vinho Verde Branco 75 cl",
-                "pid": "5448330",
-                "target": 16.5
-            },
-            {
-                "description": "Quinta Do Regueiro Primitivo DOC Vinho Verde Branco 75 cl",
-                "pid": "6589802",
-                "target": 15.99
-            },
-            {
-                "description": "Quinta Do Vallado Vinho do Porto 30 Anos 75 cl",
-                "pid": "5425376",
-                "target": 65.0
-            },
-            {
-                "description": "Quinta da Pedra Alvarinho Branco 75 cl",
-                "pid": "5425837",
-                "target": 23.6
-            },
-            {
-                "description": "Quinta do Noval Vinho do Porto Vintage 2008 75 cl",
-                "pid": "5427547",
-                "target": 138.0
-            },
-            {
-                "description": "Rovisco Pais Premium Regional Pen\u00ednsula De Set\u00fabal Tinto",
-                "pid": "5575484",
-                "target": 12.99
-            },
-            {
-                "description": "Royal Branco Palmeira Loureiro 75 cl",
-                "pid": "5422880",
-                "target": 13.7
-            },
-            {
-                "description": "Royal Oporto Vinho do Porto 10 Anos 75 cl",
-                "pid": "2225229",
-                "target": 17.99
-            },
-            {
-                "description": "Sagres - Cerveja com \u00c1lcool Radler emb. 10 x 33 cl",
-                "pid": "5549117",
-                "target": 9.99
-            },
-            {
-                "description": "Sobreiro De Peg\u00f5es Premium Regional Pen\u00ednsula De Set\u00fabal Tinto",
-                "pid": "5575493",
-                "target": 9.99
-            },
-            {
-                "description": "Somersby - Sidra com \u00c1lcool Backberry emb. 4 x 33 cl",
-                "pid": "5484340",
-                "target": 4.99
-            },
-            {
-                "description": "Somersby - Sidra com \u00c1lcool Ma\u00e7\u00e3 emb. 10 x 33 cl",
-                "pid": "5406732",
-                "target": 11.99
-            },
-            {
-                "description": "Somersby - Sidra com \u00c1lcool Ma\u00e7\u00e3 emb. 4 x 33 cl",
-                "pid": "5130983",
-                "target": 4.99
-            },
-            {
-                "description": "Super Bock - Cerveja com \u00c1lcool emb. 1 x 33 cl",
-                "pid": "2050345",
-                "target": 0.6
-            },
-            {
-                "description": "Super Bock - Cerveja com \u00c1lcool emb. 15 x 33 cl",
-                "pid": "4247247",
-                "target": 8.99
-            },
-            {
-                "description": "Super Bock - Cerveja com \u00c1lcool emb. 24 x 33 cl",
                 "pid": "5198604",
                 "target": 13.99
             },
             {
-                "description": "Taylor'S Vinho do Porto 30 Anos 75 cl",
-                "pid": "5423723",
-                "target": 137.0
+                "pid": "4247247",
+                "target": 8.99
             },
             {
-                "description": "Taylor'S Vinho do Porto Vintage 2009 75 cl",
+                "pid": "2050345",
+                "target": 0.6
+            },
+            {
+                "pid": "5549117",
+                "target": 9.99
+            },
+            {
+                "pid": "5406732",
+                "target": 11.99
+            },
+            {
+                "pid": "5130983",
+                "target": 4.99
+            },
+            {
+                "pid": "5484340",
+                "target": 4.99
+            },
+            {
+                "pid": "5363637",
+                "target": 8.49
+            },
+            {
+                "pid": "6751138",
+                "target": 15.99
+            },
+            {
+                "pid": "6751264",
+                "target": 16.99
+            },
+            {
+                "pid": "2225229",
+                "target": 17.99
+            },
+            {
+                "pid": "5425376",
+                "target": 65.0
+            },
+            {
+                "pid": "5424261",
+                "target": 89.15
+            },
+            {
+                "pid": "5424924",
+                "target": 99.0
+            },
+            {
                 "pid": "5423760",
                 "target": 103.0
             },
             {
-                "description": "Taylors Porto 40 Anos 75 cl",
+                "pid": "5425345",
+                "target": 120.0
+            },
+            {
+                "pid": "5425338",
+                "target": 129.0
+            },
+            {
+                "pid": "5423723",
+                "target": 137.0
+            },
+            {
+                "pid": "5427547",
+                "target": 138.0
+            },
+            {
                 "pid": "5423615",
                 "target": 187.0
             },
             {
-                "description": "Undefined",
+                "pid": "5423886",
+                "target": 31.5
+            },
+            {
+                "pid": "5423873",
+                "target": 25.8
+            },
+            {
+                "pid": "6804223",
+                "target": 24.9
+            },
+            {
+                "pid": "5425837",
+                "target": 23.6
+            },
+            {
+                "pid": "5422881",
+                "target": 22.9
+            },
+            {
+                "pid": "6804224",
+                "target": 17.5
+            },
+            {
+                "pid": "2050355",
+                "target": 16.99
+            },
+            {
+                "pid": "5448330",
+                "target": 16.5
+            },
+            {
+                "pid": "6589802",
+                "target": 15.99
+            },
+            {
+                "pid": "5422880",
+                "target": 13.7
+            },
+            {
+                "pid": "6526646",
+                "target": 12.99
+            },
+            {
+                "pid": "6917358",
+                "target": 8.99
+            },
+            {
+                "pid": "5031496",
+                "target": 9.99
+            },
+            {
                 "pid": "6168148",
                 "target": 100.0
             },
             {
-                "description": "Undefined",
                 "pid": "5795289",
                 "target": 100.0
             },
             {
-                "description": "Undefined",
                 "pid": "6037014",
                 "target": 100.0
             },
             {
-                "description": "Undefined",
                 "pid": "6175051",
                 "target": 100.0
             },
             {
-                "description": "Undefined",
                 "pid": "2051409",
                 "target": 100.0
             },
             {
-                "description": "Undefined",
                 "pid": "5129833",
                 "target": 100.0
             },
             {
-                "description": "Undefined",
                 "pid": "6340482",
                 "target": 100.0
             },
             {
-                "description": "Undefined",
                 "pid": "6057873",
                 "target": 100.0
             },
             {
-                "description": "Undefined",
                 "pid": "5651702",
                 "target": 100.0
             },
             {
-                "description": "Undefined",
                 "pid": "6741249",
                 "target": 100.0
             },
             {
-                "description": "Undefined",
                 "pid": "6741267",
                 "target": 100.0
             },
             {
-                "description": "Undefined",
                 "pid": "5422635",
                 "target": 100.0
             },
             {
-                "description": "Undefined",
                 "pid": "6156388",
                 "target": 100.0
             },
             {
-                "description": "Undefined",
                 "pid": "5426985",
                 "target": 100.0
             },
             {
-                "description": "Undefined",
                 "pid": "5425565",
                 "target": 100.0
             },
             {
-                "description": "Undefined",
                 "pid": "5422879",
                 "target": 100.0
             },
             {
-                "description": "Undefined",
                 "pid": "5421804",
                 "target": 14.99
             },
             {
-                "description": "Undefined",
                 "pid": "6346401",
                 "target": 11.99
             },
             {
-                "description": "Ven\u00e2ncio Costa Lima Moscatel Roxo Reserva da Fam\u00edlia",
-                "pid": "6966320",
-                "target": 19.99
-            },
-            {
-                "description": "Vidigueira Ant\u00e3o Vaz Premium DOC Alentejo Branco",
-                "pid": "6808601",
+                "pid": "5928747",
                 "target": 10.99
             },
             {
-                "description": "Vidigueira Premium DOC Alentejo Branco",
-                "pid": "5796579",
-                "target": 9.99
+                "pid": "7055241",
+                "target": 15.49
             },
             {
-                "description": "Vidigueira Premium Doc Alentejo Vinho Branco",
-                "pid": "6589014",
-                "target": 19.99
+                "pid": "7055237",
+                "target": 24.57
             },
             {
-                "description": "Vimioso Premium Regional Tejo Tinto",
-                "pid": "6886417",
-                "target": 9.99
+                "pid": "7055238",
+                "target": 29.47
             },
             {
-                "description": "Vinha Da Valentina Premium Regional Pen\u00ednsula De Set\u00fabal Branco",
-                "pid": "6177018",
+                "pid": "7055240",
+                "target": 28.47
+            },
+            {
+                "pid": "7055239",
+                "target": 40.98
+            },
+            {
+                "pid": "6995612",
+                "target": 45.18
+            },
+            {
+                "pid": "6995671",
+                "target": 38.97
+            },
+            {
+                "pid": "6994613",
+                "target": 20.97
+            },
+            {
+                "pid": "6994612",
+                "target": 33.97
+            },
+            {
+                "pid": "6994611",
+                "target": 38.97
+            },
+            {
+                "pid": "7055248",
+                "target": 34.37
+            },
+            {
+                "pid": "6995603",
+                "target": 11.99
+            },
+            {
+                "pid": "6414326",
                 "target": 12.99
             },
             {
-                "description": "Vinhas Da Coutada Velha Regional Alentejano Branco",
                 "pid": "6561178",
                 "target": 12.99
             },
             {
-                "description": "Vinhas Da Coutada Velha Regional Alentejano Tinto",
-                "pid": "6414326",
+                "pid": "6037014",
+                "target": 14.99
+            },
+            {
+                "pid": "6175051",
+                "target": 14.99
+            },
+            {
+                "pid": "5796579",
+                "target": 9.99
+            },
+            {
+                "pid": "6808601",
+                "target": 10.99
+            },
+            {
+                "pid": "6589014",
+                "target": 19.99
+            },
+            {
+                "pid": "7011843",
+                "target": 11.99
+            },
+            {
+                "pid": "6177018",
                 "target": 12.99
+            },
+            {
+                "pid": "5575493",
+                "target": 9.99
+            },
+            {
+                "pid": "5575484",
+                "target": 12.99
+            },
+            {
+                "pid": "7055236",
+                "target": 25.97
+            },
+            {
+                "pid": "5339630",
+                "target": 5.99
+            },
+            {
+                "pid": "6886417",
+                "target": 9.99
+            },
+            {
+                "pid": "6653476",
+                "target": 9.99
+            },
+            {
+                "pid": "7055244",
+                "target": 29.67
+            },
+            {
+                "pid": "6966320",
+                "target": 19.99
+            },
+            {
+                "pid": "5273143",
+                "target": 5.99
+            },
+            {
+                "pid": "4297399",
+                "target": 3.69
+            },
+            {
+                "pid": "7055243",
+                "target": 47.97
+            },
+            {
+                "pid": "5723446",
+                "target": 14.99
+            },
+            {
+                "pid": "6858444",
+                "target": 15.99
+            },
+            {
+                "pid": "2050355",
+                "target": 16.99
             }
         ],
         "title": "Garrafeira"
@@ -678,34 +549,28 @@
         "description": "Health",
         "list": [
             {
-                "description": "Harmony - Preservativo Double",
-                "pid": "2122833",
-                "target": 4.99
-            },
-            {
-                "description": "Harmony - Preservativo G",
-                "pid": "3071986",
-                "target": 4.99
-            },
-            {
-                "description": "Harmony - Preservativo Long",
-                "pid": "4164334",
-                "target": 4.99
-            },
-            {
-                "description": "Harmony - Preservativo Normal",
                 "pid": "2121509",
                 "target": 4.29
             },
             {
-                "description": "Harmony - Preservativo Perfect Fit",
+                "pid": "2122831",
+                "target": 4.29
+            },
+            {
                 "pid": "4461661",
                 "target": 4.99
             },
             {
-                "description": "Harmony - Preservativo Sensitive",
-                "pid": "2122831",
-                "target": 4.29
+                "pid": "3071986",
+                "target": 4.99
+            },
+            {
+                "pid": "2122833",
+                "target": 4.99
+            },
+            {
+                "pid": "4164334",
+                "target": 4.99
             }
         ],
         "title": "Health"
@@ -714,17 +579,14 @@
         "description": "Kitchen",
         "list": [
             {
-                "description": "Alho seco",
                 "pid": "4599477",
                 "target": 1.7
             },
             {
-                "description": "Alho seco moido",
                 "pid": "6046630",
                 "target": 0.99
             },
             {
-                "description": "Caixa Herm\u00e9tica para Snacks 0,4 lt",
                 "pid": "5128100",
                 "target": 3.7
             }
@@ -735,64 +597,52 @@
         "description": "Peixaria",
         "list": [
             {
-                "description": "Continente - Del\u00edcias do Mar Ultracongeladas 250g",
-                "pid": "2759050",
-                "target": 0.99
-            },
-            {
-                "description": "Continente - Dourada Extra +1kg",
-                "pid": "6764693",
-                "target": 11.99
-            },
-            {
-                "description": "Continente - Dourada Grande",
-                "pid": "2147601",
-                "target": 6.45
-            },
-            {
-                "description": "Continente - Dourada M\u00e9dia",
-                "pid": "4636366",
-                "target": 4.99
-            },
-            {
-                "description": "Continente - Lata Atum ao Natural",
                 "pid": "3697795",
                 "target": 0.8
             },
             {
-                "description": "Continente - Miolo Camar\u00e3o 80/100 250g",
-                "pid": "4750959",
-                "target": 2.99
-            },
-            {
-                "description": "Continente - Robalo Extra +1 Kg",
-                "pid": "6340475",
-                "target": 11.99
-            },
-            {
-                "description": "Continente - Robalo Grande",
-                "pid": "4302565",
-                "target": 6.45
-            },
-            {
-                "description": "Continente - Robalo M\u00e9dio (200-600 gr))",
-                "pid": "2147671",
-                "target": 4.99
-            },
-            {
-                "description": "Continente - Salm\u00e3o inteiro /kg",
-                "pid": "2148068",
-                "target": 9.99
-            },
-            {
-                "description": "Continente - Salm\u00e3o lombo /kg",
                 "pid": "4883651",
                 "target": 16.99
             },
             {
-                "description": "Continente - Salm\u00e3o posta /kg",
                 "pid": "4405983",
                 "target": 11.99
+            },
+            {
+                "pid": "2148068",
+                "target": 9.99
+            },
+            {
+                "pid": "2147671",
+                "target": 4.99
+            },
+            {
+                "pid": "4302565",
+                "target": 6.45
+            },
+            {
+                "pid": "6340475",
+                "target": 11.99
+            },
+            {
+                "pid": "4636366",
+                "target": 4.99
+            },
+            {
+                "pid": "2147601",
+                "target": 6.45
+            },
+            {
+                "pid": "6764693",
+                "target": 11.99
+            },
+            {
+                "pid": "2759050",
+                "target": 0.99
+            },
+            {
+                "pid": "4750959",
+                "target": 2.99
             }
         ],
         "title": "Peixaria"
@@ -801,44 +651,36 @@
         "description": "Pharmacy",
         "list": [
             {
-                "description": "Arcos Dent\u00e1rios 30 u",
-                "pid": "6648075",
-                "target": 2.49
-            },
-            {
-                "description": "Bisolnatural 2 em 1 Crian\u00e7a e Adulto",
                 "pid": "5662252",
                 "target": 9.95
             },
             {
-                "description": "Omega 3 Tripla A\u00e7\u00e3o 700Mg 90u",
-                "pid": "3900374",
-                "target": 24.9
-            },
-            {
-                "description": "Soro Fisiol\u00f3gico 500 ml",
-                "pid": "4964633",
-                "target": 2.29
-            },
-            {
-                "description": "Valdispert Noite",
                 "pid": "5232489",
                 "target": 14.89
             },
             {
-                "description": "Valdispert Noite Magn\u00e9sio 40u",
-                "pid": "6896814",
-                "target": 13.99
+                "pid": "4964633",
+                "target": 2.29
             },
             {
-                "description": "Valdispert Noite Total 30 u",
                 "pid": "6256439",
                 "target": 13.75
             },
             {
-                "description": "Valdispro Memo 30u",
+                "pid": "3900374",
+                "target": 24.9
+            },
+            {
+                "pid": "6896814",
+                "target": 13.99
+            },
+            {
                 "pid": "6744998",
                 "target": 23.7
+            },
+            {
+                "pid": "6648075",
+                "target": 2.49
             }
         ],
         "title": "Pharmacy"
@@ -847,34 +689,28 @@
         "description": "Special Events",
         "list": [
             {
-                "description": "Fundue",
-                "pid": "5112764",
-                "target": 4.99
-            },
-            {
-                "description": "Quinta Do Infantado Vinho do Porto Conjunto 3 Miniaturas",
-                "pid": "3612673",
-                "target": 4.49
-            },
-            {
-                "description": "Quinta Do Infantado Vinho do Porto Conjunto 5 Miniaturas",
-                "pid": "2050686",
-                "target": 8.79
-            },
-            {
-                "description": "Quinta Do Infantado Vinho do Porto Conjunto Madeira 5 Miniaturas",
-                "pid": "2500156",
-                "target": 9.39
-            },
-            {
-                "description": "Sagres - Cerveja com \u00c1lcool Preta emb. 6 x 33 cl",
                 "pid": "3036037",
                 "target": 3.99
             },
             {
-                "description": "Super Bock - Cerveja com \u00c1lcool Preta emb. 6 x 33 cl",
                 "pid": "3036104",
                 "target": 3.99
+            },
+            {
+                "pid": "5112764",
+                "target": 4.99
+            },
+            {
+                "pid": "3612673",
+                "target": 4.49
+            },
+            {
+                "pid": "2050686",
+                "target": 8.79
+            },
+            {
+                "pid": "2500156",
+                "target": 9.39
             }
         ],
         "title": "Special Events"
@@ -883,17 +719,14 @@
         "description": "Talho",
         "list": [
             {
-                "description": "Continente - Peito de Frango",
-                "pid": "6950358",
-                "target": 3.99
-            },
-            {
-                "description": "Kilom - Peito de Frango Emb.1kg",
                 "pid": "2428221",
                 "target": 5.79
             },
             {
-                "description": "Selec\u00e7\u00e3o Continente - Peito de Frango do Campo",
+                "pid": "6950358",
+                "target": 3.99
+            },
+            {
                 "pid": "2818798",
                 "target": 8.99
             }
