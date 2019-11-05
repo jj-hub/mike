@@ -11,7 +11,7 @@
                 "name": "Bolachas Marinheiras Chia",
                 "pid": "5181067",
                 "target": 1.9,
-                "target.ai": 2.69
+                "target_ai": 2.69
             },
             {
                 "avg": 2.745,
@@ -23,7 +23,7 @@
                 "name": "Marinheiras de Chia Bio",
                 "pid": "6555420",
                 "target": 1.9,
-                "target.ai": 2.745
+                "target_ai": 2.745
             },
             {
                 "avg": 2.4899999999999998,
@@ -35,7 +35,7 @@
                 "name": "Broa de Avintes",
                 "pid": "2163626",
                 "target": 2.49,
-                "target.ai": 2.49
+                "target_ai": 2.49
             },
             {
                 "avg": 2.4899999999999998,
@@ -47,7 +47,7 @@
                 "name": "Broa de Avintes",
                 "pid": "2388282",
                 "target": 2.49,
-                "target.ai": 2.49
+                "target_ai": 2.49
             },
             {
                 "avg": 2.9899999999999998,
@@ -59,7 +59,7 @@
                 "name": "Miolo de Noz",
                 "pid": "6044439",
                 "target": 2.0,
-                "target.ai": 2.99
+                "target_ai": 2.99
             },
             {
                 "avg": 2.9899999999999998,
@@ -71,7 +71,7 @@
                 "name": "Miolo de Noz Metades",
                 "pid": "5241661",
                 "target": 2.0,
-                "target.ai": 2.99
+                "target_ai": 2.99
             },
             {
                 "avg": 3.1900000000000004,
@@ -83,7 +83,7 @@
                 "name": "Miolo de Noz Peda\u00e7os",
                 "pid": "5244679",
                 "target": 2.0,
-                "target.ai": 3.19
+                "target_ai": 3.19
             },
             {
                 "avg": 1.59,
@@ -95,7 +95,7 @@
                 "name": "Infus\u00e3o Do the Detox",
                 "pid": "5638223",
                 "target": 2.0,
-                "target.ai": 1.59
+                "target_ai": 1.59
             },
             {
                 "avg": 1.59,
@@ -107,7 +107,7 @@
                 "name": "Infus\u00e3o Silhueta Cavalinha Pyramid",
                 "pid": "6691826",
                 "target": 2.0,
-                "target.ai": 1.59
+                "target_ai": 1.59
             },
             {
                 "avg": 1.8471428571428572,
@@ -119,7 +119,7 @@
                 "name": "Queijo Creme para Barrar Fresco Light",
                 "pid": "6439065",
                 "target": 1.99,
-                "target.ai": 1.74
+                "target_ai": 1.74
             },
             {
                 "avg": 2.59,
@@ -131,7 +131,7 @@
                 "name": "Queijo Creme para Barrar Fresco Light",
                 "pid": "6409881",
                 "target": 2.59,
-                "target.ai": 2.59
+                "target_ai": 2.59
             },
             {
                 "avg": 2.9899999999999998,
@@ -143,7 +143,7 @@
                 "name": "Doce sem A\u00e7\u00facar Morango Nature",
                 "pid": "4951044",
                 "target": 2.99,
-                "target.ai": 2.99
+                "target_ai": 2.99
             },
             {
                 "avg": 3.238571428571429,
@@ -155,7 +155,7 @@
                 "name": "Doce Morango sem Adi\u00e7\u00e3o A\u00e7\u00facar",
                 "pid": "2410868",
                 "target": 3.49,
-                "target.ai": 3.05
+                "target_ai": 3.05
             }
         ],
         "title": "Breakfast"
@@ -172,7 +172,7 @@
                 "name": "Spray Power & Hygiene Antibacteriano Multiusos",
                 "pid": "4050886",
                 "target": 2.99,
-                "target.ai": 2.8449999999999998
+                "target_ai": 2.8449999999999998
             },
             {
                 "avg": 17.99,
@@ -184,7 +184,7 @@
                 "name": "Detergente M\u00e1quina Loi\u00e7a Pastilhas Orange",
                 "pid": "5923288",
                 "target": 10.99,
-                "target.ai": 17.99
+                "target_ai": 17.99
             },
             {
                 "avg": 19.99,
@@ -196,7 +196,7 @@
                 "name": "Detergente M\u00e1quina Loi\u00e7a Tudo em 1 Regular",
                 "pid": "6244185",
                 "target": 10.99,
-                "target.ai": 19.99
+                "target_ai": 19.99
             },
             {
                 "avg": 16.068571428571428,
@@ -208,7 +208,7 @@
                 "name": "Detergente M\u00e1quina Loi\u00e7a Pastilhas Platinum Plus Lim\u00e3o",
                 "pid": "6821692",
                 "target": 10.99,
-                "target.ai": 18.744999999999997
+                "target_ai": 18.744999999999997
             },
             {
                 "avg": 4.144285714285715,
@@ -220,7 +220,7 @@
                 "name": "Detergente Manual Loi\u00e7a Original",
                 "pid": "5708424",
                 "target": 4.99,
-                "target.ai": 4.635
+                "target_ai": 4.635
             },
             {
                 "avg": 18.0,
@@ -232,7 +232,7 @@
                 "name": "Estendal Alum\u00ednio com Abas Comprimento \u00datil 18mt Condor",
                 "pid": "6467548",
                 "target": 18.0,
-                "target.ai": 18.0
+                "target_ai": 18.0
             },
             {
                 "avg": 22.0,
@@ -244,7 +244,7 @@
                 "name": "Estendal Alum\u00ednio e A\u00e7o Comprimento \u00datil 18mt",
                 "pid": "5322907",
                 "target": 22.0,
-                "target.ai": 22.0
+                "target_ai": 22.0
             },
             {
                 "avg": 20.0,
@@ -256,7 +256,7 @@
                 "name": "Estendal A\u00e7o Inoxid\u00e1vel Comprimento \u00datil 18mt",
                 "pid": "5669720",
                 "target": 20.0,
-                "target.ai": 20.0
+                "target_ai": 20.0
             },
             {
                 "avg": 8.0,
@@ -268,7 +268,7 @@
                 "name": "Estendal Ch\u00e3o A\u00e7o Comprimento \u00datil 18mt",
                 "pid": "2895615",
                 "target": 8.0,
-                "target.ai": 8.0
+                "target_ai": 8.0
             },
             {
                 "avg": 1.59,
@@ -280,7 +280,7 @@
                 "name": "Sacos para Lixo 30 lt",
                 "pid": "4895385",
                 "target": 1.5,
-                "target.ai": 1.59
+                "target_ai": 1.59
             },
             {
                 "avg": 9.93857142857143,
@@ -292,7 +292,7 @@
                 "name": "Tira N\u00f3doas P\u00f3 Oxi Action Pink",
                 "pid": "6938892",
                 "target": 10.99,
-                "target.ai": 12.55
+                "target_ai": 12.55
             },
             {
                 "avg": 5.990000000000001,
@@ -304,7 +304,7 @@
                 "name": "Tira N\u00f3doas P\u00f3 Oxi Action Pink",
                 "pid": "6938861",
                 "target": 10.99,
-                "target.ai": 6.59
+                "target_ai": 6.59
             },
             {
                 "avg": 47.0,
@@ -316,7 +316,7 @@
                 "name": "Estendal 100% Alum\u00ednio Comprimento \u00datil 20mt",
                 "pid": "6206357",
                 "target": 47.0,
-                "target.ai": 47.0
+                "target_ai": 47.0
             },
             {
                 "avg": 19.6,
@@ -328,7 +328,7 @@
                 "name": "Estendal Universal X-Legs Comprimento \u00datil 18mt",
                 "pid": "4723486",
                 "target": 28.0,
-                "target.ai": 19.6
+                "target_ai": 19.6
             },
             {
                 "avg": 36.0,
@@ -340,7 +340,7 @@
                 "name": "Estendal 100% Resina Comprimento \u00datil 20mt Solar",
                 "pid": "6205863",
                 "target": 36.0,
-                "target.ai": 36.0
+                "target_ai": 36.0
             }
         ],
         "title": "Cleaning"
@@ -357,7 +357,7 @@
                 "name": "Mini Babybel Light",
                 "pid": "6579062",
                 "target": 2.99,
-                "target.ai": 3.89
+                "target_ai": 3.89
             },
             {
                 "avg": 1.8766666666666667,
@@ -369,7 +369,7 @@
                 "name": "Queijo Magro Mini",
                 "pid": "2915648",
                 "target": 1.99,
-                "target.ai": 1.93
+                "target_ai": 1.93
             },
             {
                 "avg": 3.89,
@@ -381,7 +381,7 @@
                 "name": "Queijo Mini Original",
                 "pid": "5608649",
                 "target": 2.99,
-                "target.ai": 3.89
+                "target_ai": 3.89
             },
             {
                 "avg": 1.7899999999999998,
@@ -393,7 +393,7 @@
                 "name": "Queijo Mini Original",
                 "pid": "2163597",
                 "target": 1.99,
-                "target.ai": 1.8399999999999999
+                "target_ai": 1.8399999999999999
             },
             {
                 "avg": 1.75,
@@ -405,7 +405,7 @@
                 "name": "Iogurte Magro Peda\u00e7os Coco Light&Free",
                 "pid": "6691078",
                 "target": 2.0,
-                "target.ai": 1.75
+                "target_ai": 1.75
             },
             {
                 "avg": 1.75,
@@ -417,7 +417,7 @@
                 "name": "Iogurte Magro Peda\u00e7os Framboesa Light&Free",
                 "pid": "6691038",
                 "target": 2.0,
-                "target.ai": 1.75
+                "target_ai": 1.75
             },
             {
                 "avg": 1.75,
@@ -429,7 +429,7 @@
                 "name": "Iogurte Magro Peda\u00e7os de P\u00eassego e Maracuj\u00e1 Light& Free",
                 "pid": "6691036",
                 "target": 2.0,
-                "target.ai": 1.75
+                "target_ai": 1.75
             }
         ],
         "title": "Diary"
@@ -446,7 +446,7 @@
                 "name": "Abacate Hass",
                 "pid": "2076390",
                 "target": 3.99,
-                "target.ai": 4.59
+                "target_ai": 4.59
             },
             {
                 "avg": 3.0,
@@ -458,7 +458,7 @@
                 "name": "Abacate Hass",
                 "pid": "6896870",
                 "target": 3.0,
-                "target.ai": 3.0
+                "target_ai": 3.0
             },
             {
                 "avg": 2.99,
@@ -470,7 +470,7 @@
                 "name": "Mam\u00e3o (Via A\u00e9rea)",
                 "pid": "2216170",
                 "target": 3.0,
-                "target.ai": 2.99
+                "target_ai": 2.99
             },
             {
                 "avg": 2.99,
@@ -482,7 +482,7 @@
                 "name": "Papaia",
                 "pid": "2076576",
                 "target": 3.0,
-                "target.ai": 2.99
+                "target_ai": 2.99
             },
             {
                 "avg": 3.0,
@@ -494,7 +494,7 @@
                 "name": "Manga",
                 "pid": "6896876",
                 "target": 2.99,
-                "target.ai": 3.0
+                "target_ai": 3.0
             },
             {
                 "avg": 2.7566666666666664,
@@ -506,7 +506,7 @@
                 "name": "Manga",
                 "pid": "4480831",
                 "target": 2.99,
-                "target.ai": 2.64
+                "target_ai": 2.64
             },
             {
                 "avg": 3.623333333333333,
@@ -518,7 +518,7 @@
                 "name": "Manga Palmer",
                 "pid": "2504465",
                 "target": 3.99,
-                "target.ai": 3.79
+                "target_ai": 3.79
             }
         ],
         "title": "Fruta"
@@ -535,7 +535,7 @@
                 "name": "Adega De Borba DOC Alentejo Tinto",
                 "pid": "4297399",
                 "target": 3.69,
-                "target.ai": 2.79
+                "target_ai": 2.79
             },
             {
                 "avg": 12.99,
@@ -547,7 +547,7 @@
                 "name": "Albenaz Jardim Secreto Premium DOC Vinho Verde Branco",
                 "pid": "6526646",
                 "target": 12.99,
-                "target.ai": 12.99
+                "target_ai": 12.99
             },
             {
                 "avg": 7.99,
@@ -559,7 +559,7 @@
                 "name": "Anselmo Mendes Contacto DOC Vinho Verde Branco",
                 "pid": "5031496",
                 "target": 9.99,
-                "target.ai": 7.99
+                "target_ai": 7.99
             },
             {
                 "avg": 25.8,
@@ -571,7 +571,7 @@
                 "name": "Anselmo Mendes Curtimenta DOC Vinho Verde Branco",
                 "pid": "5423873",
                 "target": 25.8,
-                "target.ai": 25.8
+                "target_ai": 25.8
             },
             {
                 "avg": 22.39,
@@ -583,7 +583,7 @@
                 "name": "QM Homenagem Reserva Alvarinho DOC Verde Branco",
                 "pid": "6804223",
                 "target": 24.9,
-                "target.ai": 22.39
+                "target_ai": 22.39
             },
             {
                 "avg": 31.5,
@@ -595,7 +595,7 @@
                 "name": "Anselmo Mendes Parcela \u00danica DOC Vinho Verde Branco",
                 "pid": "5423886",
                 "target": 31.5,
-                "target.ai": 31.5
+                "target_ai": 31.5
             },
             {
                 "avg": 79.0,
@@ -607,7 +607,7 @@
                 "name": "Ant\u00f3nia Adelaide Ferreira DOC Tinto Douro",
                 "pid": "5426985",
                 "target": 79.0,
-                "target.ai": 79.0
+                "target_ai": 79.0
             },
             {
                 "avg": 99.0,
@@ -619,7 +619,7 @@
                 "name": "Bumester 40 Anos Porto",
                 "pid": "5424924",
                 "target": 99.0,
-                "target.ai": 99.0
+                "target_ai": 99.0
             },
             {
                 "avg": 8.5,
@@ -631,7 +631,7 @@
                 "name": "Cabaz de Vinhos Verdes",
                 "pid": "6994613",
                 "target": 20.97,
-                "target.ai": 8.5
+                "target_ai": 8.5
             },
             {
                 "avg": 12.0,
@@ -643,7 +643,7 @@
                 "name": "Cabaz de Vinhos de Lisboa",
                 "pid": "6994612",
                 "target": 33.97,
-                "target.ai": 12.0
+                "target_ai": 12.0
             },
             {
                 "avg": 11.0,
@@ -655,7 +655,7 @@
                 "name": "Cabaz de Vinhos de Set\u00fabal",
                 "pid": "7011843",
                 "target": 11.99,
-                "target.ai": 11.0
+                "target_ai": 11.0
             },
             {
                 "avg": 11.5,
@@ -667,7 +667,7 @@
                 "name": "Cabaz de Vinhos do Alentejo",
                 "pid": "6995603",
                 "target": 11.99,
-                "target.ai": 11.5
+                "target_ai": 11.5
             },
             {
                 "avg": 13.5,
@@ -679,7 +679,7 @@
                 "name": "Cabaz de Vinhos do Douro",
                 "pid": "6994611",
                 "target": 38.97,
-                "target.ai": 13.5
+                "target_ai": 13.5
             },
             {
                 "avg": 14.5,
@@ -691,7 +691,7 @@
                 "name": "Cabaz de Vinhos do D\u00e3o",
                 "pid": "6995671",
                 "target": 38.97,
-                "target.ai": 14.5
+                "target_ai": 14.5
             },
             {
                 "avg": 17.0,
@@ -703,7 +703,7 @@
                 "name": "Cabaz de Vinhos do Tejo",
                 "pid": "7055248",
                 "target": 34.37,
-                "target.ai": 17.0
+                "target_ai": 17.0
             },
             {
                 "avg": 28.5,
@@ -715,7 +715,7 @@
                 "name": "Cabaz de Vinhos para Doces de Chocolate",
                 "pid": "7055243",
                 "target": 47.97,
-                "target.ai": 28.5
+                "target_ai": 28.5
             },
             {
                 "avg": 15.5,
@@ -727,7 +727,7 @@
                 "name": "Cabaz de Vinhos para Doces de Ovos",
                 "pid": "7055244",
                 "target": 29.67,
-                "target.ai": 15.5
+                "target_ai": 15.5
             },
             {
                 "avg": 11.5,
@@ -739,7 +739,7 @@
                 "name": "Cabaz de Vinhos para Enchidos",
                 "pid": "7055236",
                 "target": 25.97,
-                "target.ai": 11.5
+                "target_ai": 11.5
             },
             {
                 "avg": 18.0,
@@ -751,7 +751,7 @@
                 "name": "Cabaz de Vinhos para Pratos Intensos de Aves",
                 "pid": "7055237",
                 "target": 24.57,
-                "target.ai": 18.0
+                "target_ai": 18.0
             },
             {
                 "avg": 12.5,
@@ -763,7 +763,7 @@
                 "name": "Cabaz de Vinhos para Pratos Intensos de Marisco",
                 "pid": "7055238",
                 "target": 29.47,
-                "target.ai": 12.5
+                "target_ai": 12.5
             },
             {
                 "avg": 13.0,
@@ -775,7 +775,7 @@
                 "name": "Cabaz de Vinhos para Pratos Intensos de Peixe",
                 "pid": "7055239",
                 "target": 40.98,
-                "target.ai": 13.0
+                "target_ai": 13.0
             },
             {
                 "avg": 17.0,
@@ -787,7 +787,7 @@
                 "name": "Cabaz de Vinhos para Pratos Simples de Aves",
                 "pid": "7055240",
                 "target": 28.47,
-                "target.ai": 17.0
+                "target_ai": 17.0
             },
             {
                 "avg": 8.5,
@@ -799,7 +799,7 @@
                 "name": "Cabaz de Vinhos para Pratos Simples de Carnes Vermelhas",
                 "pid": "7055241",
                 "target": 15.49,
-                "target.ai": 8.5
+                "target_ai": 8.5
             },
             {
                 "avg": 19.5,
@@ -811,7 +811,7 @@
                 "name": "Cabaz para Partilhar com a Fam\u00edlia",
                 "pid": "6995612",
                 "target": 45.18,
-                "target.ai": 19.5
+                "target_ai": 19.5
             },
             {
                 "avg": 8.99,
@@ -823,7 +823,7 @@
                 "name": "Casa Vila Verde Loureiro DOC Verde Branco",
                 "pid": "6917358",
                 "target": 8.99,
-                "target.ai": 8.99
+                "target_ai": 8.99
             },
             {
                 "avg": 5.99,
@@ -835,7 +835,7 @@
                 "name": "Castello D'Alba DOC Tinto Douro",
                 "pid": "5339630",
                 "target": 5.99,
-                "target.ai": 5.99
+                "target_ai": 5.99
             },
             {
                 "avg": 9.99,
@@ -847,7 +847,7 @@
                 "name": "Colete Velho Premium Regional Tejo Tinto",
                 "pid": "6653476",
                 "target": 9.99,
-                "target.ai": 9.99
+                "target_ai": 9.99
             },
             {
                 "avg": 9.99,
@@ -859,7 +859,7 @@
                 "name": "Conjunto 2 Tinto + 1 Branco Vidigueira Premium Alentejo",
                 "pid": "5928747",
                 "target": 10.99,
-                "target.ai": 9.99
+                "target_ai": 9.99
             },
             {
                 "avg": 7.99,
@@ -871,7 +871,7 @@
                 "name": "Conjunto Guarda Rios Alentejo",
                 "pid": "6340482",
                 "target": 19.99,
-                "target.ai": 7.99
+                "target_ai": 7.99
             },
             {
                 "avg": 6.99,
@@ -883,7 +883,7 @@
                 "name": "Conjunto Sobreiro de Peg\u00f5es Premium Tinto",
                 "pid": "5651702",
                 "target": 19.99,
-                "target.ai": 6.99
+                "target_ai": 6.99
             },
             {
                 "avg": 59.0,
@@ -895,7 +895,7 @@
                 "name": "Conjunto Vinho Tinto Callabriga + Herdade Peso Reserva + Carvalhais",
                 "pid": "6741267",
                 "target": 59.0,
-                "target.ai": 59.0
+                "target_ai": 59.0
             },
             {
                 "avg": 21.49,
@@ -907,7 +907,7 @@
                 "name": "Conjunto Vinho Tinto Papa Figos, Bolotas e Carvalhais",
                 "pid": "6741249",
                 "target": 21.49,
-                "target.ai": 21.49
+                "target_ai": 21.49
             },
             {
                 "avg": 89.15,
@@ -919,7 +919,7 @@
                 "name": "Ramos Pinto Vinho do Porto 30 Anos",
                 "pid": "5424261",
                 "target": 89.15,
-                "target.ai": 89.15
+                "target_ai": 89.15
             },
             {
                 "avg": 120.0,
@@ -931,7 +931,7 @@
                 "name": "Cruz Vinho do Porto 40 Anos",
                 "pid": "5425345",
                 "target": 120.0,
-                "target.ai": 120.0
+                "target_ai": 120.0
             },
             {
                 "avg": 8.49,
@@ -943,7 +943,7 @@
                 "name": "Cruz Vinho do Porto L\u00e1grima Branco",
                 "pid": "5363637",
                 "target": 8.49,
-                "target.ai": 8.49
+                "target_ai": 8.49
             },
             {
                 "avg": 129.0,
@@ -955,7 +955,7 @@
                 "name": "Dalva Vinho do Porto Dry White 40 Anos",
                 "pid": "5425338",
                 "target": 129.0,
-                "target.ai": 129.0
+                "target_ai": 129.0
             },
             {
                 "avg": 7.49,
@@ -967,7 +967,7 @@
                 "name": "Dow's Trademark Vinho do Porto Reserve",
                 "pid": "5723446",
                 "target": 14.99,
-                "target.ai": 7.49
+                "target_ai": 7.49
             },
             {
                 "avg": 4.79,
@@ -979,7 +979,7 @@
                 "name": "Duas Encostas Signature D\u00e3o Branco",
                 "pid": "6858444",
                 "target": 15.99,
-                "target.ai": 4.79
+                "target_ai": 4.79
             },
             {
                 "avg": 22.9,
@@ -991,7 +991,7 @@
                 "name": "Emin\u00eancia Branco Loureiro",
                 "pid": "5422881",
                 "target": 22.9,
-                "target.ai": 22.9
+                "target_ai": 22.9
             },
             {
                 "avg": 12.99,
@@ -1003,7 +1003,7 @@
                 "name": "Grande Amareleja Tinto Alentejo Reserva",
                 "pid": "5421804",
                 "target": 14.99,
-                "target.ai": 12.99
+                "target_ai": 12.99
             },
             {
                 "avg": 64.5,
@@ -1015,7 +1015,7 @@
                 "name": "Grande Rocim Reserva Regional Alentejano Tinto",
                 "pid": "5422635",
                 "target": 64.5,
-                "target.ai": 64.5
+                "target_ai": 64.5
             },
             {
                 "avg": 8.99,
@@ -1027,7 +1027,7 @@
                 "name": "Granja Amareleja Premium DOC Alentejo Tinto",
                 "pid": "5129833",
                 "target": 17.99,
-                "target.ai": 8.99
+                "target_ai": 8.99
             },
             {
                 "avg": 14.99,
@@ -1039,7 +1039,7 @@
                 "name": "Granja Amareleja Reserva DOC Alentejo Tinto",
                 "pid": "2051409",
                 "target": 14.99,
-                "target.ai": 14.99
+                "target_ai": 14.99
             },
             {
                 "avg": 14.989999999999998,
@@ -1051,7 +1051,7 @@
                 "name": "Guarda Rios Signature Regional Alentejano Branco",
                 "pid": "6175051",
                 "target": 14.99,
-                "target.ai": 14.99
+                "target_ai": 14.99
             },
             {
                 "avg": 14.989999999999998,
@@ -1063,7 +1063,7 @@
                 "name": "Guarda Rios Signature Regional Alentejano Branco",
                 "pid": "6175051",
                 "target": 14.99,
-                "target.ai": 14.99
+                "target_ai": 14.99
             },
             {
                 "avg": 5.59,
@@ -1075,7 +1075,7 @@
                 "name": "Guarda Rios Signature Regional Alentejano Tinto",
                 "pid": "6037014",
                 "target": 14.99,
-                "target.ai": 5.59
+                "target_ai": 5.59
             },
             {
                 "avg": 5.59,
@@ -1087,7 +1087,7 @@
                 "name": "Guarda Rios Signature Regional Alentejano Tinto",
                 "pid": "6037014",
                 "target": 14.99,
-                "target.ai": 5.59
+                "target_ai": 5.59
             },
             {
                 "avg": 11.19,
@@ -1099,7 +1099,7 @@
                 "name": "Guarda Rios Signature Tinto Alentejo",
                 "pid": "6346401",
                 "target": 11.99,
-                "target.ai": 11.19
+                "target_ai": 11.19
             },
             {
                 "avg": 94.5,
@@ -1111,7 +1111,7 @@
                 "name": "Jo\u00e3o Portugal Ramos DOC Estremus Tinto Alentejo",
                 "pid": "5425565",
                 "target": 94.5,
-                "target.ai": 94.5
+                "target_ai": 94.5
             },
             {
                 "avg": 2.99,
@@ -1123,7 +1123,7 @@
                 "name": "Monte Dos Amigos Regional Alentejano Tinto",
                 "pid": "5273143",
                 "target": 5.99,
-                "target.ai": 2.99
+                "target_ai": 2.99
             },
             {
                 "avg": 16.99,
@@ -1135,7 +1135,7 @@
                 "name": "Pal\u00e1cio Da Brejoeira Alvarinho DOC Vinho Verde Branco",
                 "pid": "2050355",
                 "target": 16.99,
-                "target.ai": 16.99
+                "target_ai": 16.99
             },
             {
                 "avg": 16.99,
@@ -1147,7 +1147,7 @@
                 "name": "Pal\u00e1cio Da Brejoeira Alvarinho DOC Vinho Verde Branco",
                 "pid": "2050355",
                 "target": 16.99,
-                "target.ai": 16.99
+                "target_ai": 16.99
             },
             {
                 "avg": 16.99,
@@ -1159,7 +1159,7 @@
                 "name": "Porto Martha's 10 Anos com Copo",
                 "pid": "6751264",
                 "target": 16.99,
-                "target.ai": 16.99
+                "target_ai": 16.99
             },
             {
                 "avg": 15.99,
@@ -1171,7 +1171,7 @@
                 "name": "Porto Martha's Benfica com Cachecol",
                 "pid": "6751138",
                 "target": 15.99,
-                "target.ai": 15.99
+                "target_ai": 15.99
             },
             {
                 "avg": 99.0,
@@ -1183,7 +1183,7 @@
                 "name": "Principal DOC Grande Reserva Tinto Bairrada",
                 "pid": "5422879",
                 "target": 99.0,
-                "target.ai": 99.0
+                "target_ai": 99.0
             },
             {
                 "avg": 15.75,
@@ -1195,7 +1195,7 @@
                 "name": "QM Nature Alvarinho DOC Verde Branco",
                 "pid": "6804224",
                 "target": 17.5,
-                "target.ai": 15.75
+                "target_ai": 15.75
             },
             {
                 "avg": 14.85,
@@ -1207,7 +1207,7 @@
                 "name": "Qm Alvarinho Vinhas Velhas DOC Vinho Verde Branco",
                 "pid": "5448330",
                 "target": 16.5,
-                "target.ai": 14.85
+                "target_ai": 14.85
             },
             {
                 "avg": 15.99,
@@ -1219,7 +1219,7 @@
                 "name": "Quinta Do Regueiro Primitivo DOC Vinho Verde Branco",
                 "pid": "6589802",
                 "target": 15.99,
-                "target.ai": 15.99
+                "target_ai": 15.99
             },
             {
                 "avg": 65.0,
@@ -1231,7 +1231,7 @@
                 "name": "Quinta Do Vallado Vinho do Porto 30 Anos",
                 "pid": "5425376",
                 "target": 65.0,
-                "target.ai": 65.0
+                "target_ai": 65.0
             },
             {
                 "avg": 23.6,
@@ -1243,7 +1243,7 @@
                 "name": "Quinta da Pedra Alvarinho Branco",
                 "pid": "5425837",
                 "target": 23.6,
-                "target.ai": 23.6
+                "target_ai": 23.6
             },
             {
                 "avg": 138.0,
@@ -1255,7 +1255,7 @@
                 "name": "Quinta do Noval Vinho do Porto Vintage 2008",
                 "pid": "5427547",
                 "target": 138.0,
-                "target.ai": 138.0
+                "target_ai": 138.0
             },
             {
                 "avg": 12.99,
@@ -1267,7 +1267,7 @@
                 "name": "Rovisco Pais Premium Regional Pen\u00ednsula De Set\u00fabal Tinto",
                 "pid": "5575484",
                 "target": 12.99,
-                "target.ai": 12.99
+                "target_ai": 12.99
             },
             {
                 "avg": 13.7,
@@ -1279,7 +1279,7 @@
                 "name": "Royal Branco Palmeira Loureiro",
                 "pid": "5422880",
                 "target": 13.7,
-                "target.ai": 13.7
+                "target_ai": 13.7
             },
             {
                 "avg": 17.99,
@@ -1291,7 +1291,7 @@
                 "name": "Royal Oporto Vinho do Porto 10 Anos",
                 "pid": "2225229",
                 "target": 17.99,
-                "target.ai": 17.99
+                "target_ai": 17.99
             },
             {
                 "avg": 5.99,
@@ -1303,7 +1303,7 @@
                 "name": "Cerveja com \u00c1lcool Radler",
                 "pid": "5549117",
                 "target": 9.99,
-                "target.ai": 5.99
+                "target_ai": 5.99
             },
             {
                 "avg": 3.49,
@@ -1315,7 +1315,7 @@
                 "name": "Sobreiro De Peg\u00f5es Premium Regional Pen\u00ednsula De Set\u00fabal Tinto",
                 "pid": "5575493",
                 "target": 9.99,
-                "target.ai": 3.49
+                "target_ai": 3.49
             },
             {
                 "avg": 3.74,
@@ -1327,7 +1327,7 @@
                 "name": "Sidra com \u00c1lcool Blackberry",
                 "pid": "5484340",
                 "target": 4.99,
-                "target.ai": 3.74
+                "target_ai": 3.74
             },
             {
                 "avg": 8.99,
@@ -1339,7 +1339,7 @@
                 "name": "Sidra com \u00c1lcool Ma\u00e7\u00e3",
                 "pid": "5406732",
                 "target": 11.99,
-                "target.ai": 8.99
+                "target_ai": 8.99
             },
             {
                 "avg": 3.74,
@@ -1351,7 +1351,7 @@
                 "name": "Sidra com \u00c1lcool Ma\u00e7\u00e3",
                 "pid": "5130983",
                 "target": 4.99,
-                "target.ai": 3.74
+                "target_ai": 3.74
             },
             {
                 "avg": 0.8899999999999999,
@@ -1363,7 +1363,7 @@
                 "name": "Cerveja com \u00c1lcool Lata",
                 "pid": "2050345",
                 "target": 0.6,
-                "target.ai": 0.8899999999999999
+                "target_ai": 0.8899999999999999
             },
             {
                 "avg": 8.49,
@@ -1375,7 +1375,7 @@
                 "name": "Cerveja com \u00c1lcool",
                 "pid": "4247247",
                 "target": 8.99,
-                "target.ai": 8.49
+                "target_ai": 8.49
             },
             {
                 "avg": 18.39,
@@ -1387,7 +1387,7 @@
                 "name": "Cerveja com \u00c1lcool",
                 "pid": "5198604",
                 "target": 13.99,
-                "target.ai": 18.39
+                "target_ai": 18.39
             },
             {
                 "avg": 3.89,
@@ -1399,7 +1399,7 @@
                 "name": "Tapada Das Lebres Reserva Premium Regional Alentejano Branco",
                 "pid": "6168148",
                 "target": 12.99,
-                "target.ai": 3.89
+                "target_ai": 3.89
             },
             {
                 "avg": 3.89,
@@ -1411,7 +1411,7 @@
                 "name": "Tapada Das Lebres Reserva Premium Regional Alentejano Tinto",
                 "pid": "5795289",
                 "target": 12.99,
-                "target.ai": 3.89
+                "target_ai": 3.89
             },
             {
                 "avg": 137.0,
@@ -1423,7 +1423,7 @@
                 "name": "Taylor'S Vinho do Porto 30 Anos",
                 "pid": "5423723",
                 "target": 137.0,
-                "target.ai": 137.0
+                "target_ai": 137.0
             },
             {
                 "avg": 103.0,
@@ -1435,7 +1435,7 @@
                 "name": "Taylor'S Vinho do Porto Vintage 2009",
                 "pid": "5423760",
                 "target": 103.0,
-                "target.ai": 103.0
+                "target_ai": 103.0
             },
             {
                 "avg": 187.0,
@@ -1447,7 +1447,7 @@
                 "name": "Taylors Porto 40 Anos",
                 "pid": "5423615",
                 "target": 187.0,
-                "target.ai": 187.0
+                "target_ai": 187.0
             },
             {
                 "avg": 70.0,
@@ -1459,7 +1459,7 @@
                 "name": "Vale Dona Maria Vinha da Francisca Tinto Douro",
                 "pid": "6156388",
                 "target": 70.0,
-                "target.ai": 70.0
+                "target_ai": 70.0
             },
             {
                 "avg": 9.99,
@@ -1471,7 +1471,7 @@
                 "name": "Ven\u00e2ncio Costa Lima Moscatel Roxo Reserva da Fam\u00edlia",
                 "pid": "6966320",
                 "target": 19.99,
-                "target.ai": 9.99
+                "target_ai": 9.99
             },
             {
                 "avg": 3.79,
@@ -1483,7 +1483,7 @@
                 "name": "Vidigueira Ant\u00e3o Vaz Premium DOC Alentejo Branco",
                 "pid": "6808601",
                 "target": 10.99,
-                "target.ai": 3.79
+                "target_ai": 3.79
             },
             {
                 "avg": 3.49,
@@ -1495,7 +1495,7 @@
                 "name": "Vidigueira Premium DOC Alentejo Branco",
                 "pid": "5796579",
                 "target": 9.99,
-                "target.ai": 3.49
+                "target_ai": 3.49
             },
             {
                 "avg": 6.99,
@@ -1507,7 +1507,7 @@
                 "name": "Vidigueira Premium DOC Alentejo Tinto",
                 "pid": "6057873",
                 "target": 19.99,
-                "target.ai": 6.99
+                "target_ai": 6.99
             },
             {
                 "avg": 6.99,
@@ -1519,7 +1519,7 @@
                 "name": "Vidigueira Premium Doc Alentejo Vinho Branco",
                 "pid": "6589014",
                 "target": 19.99,
-                "target.ai": 6.99
+                "target_ai": 6.99
             },
             {
                 "avg": 3.99,
@@ -1531,7 +1531,7 @@
                 "name": "Vimioso Premium Regional Tejo Tinto",
                 "pid": "6886417",
                 "target": 9.99,
-                "target.ai": 3.99
+                "target_ai": 3.99
             },
             {
                 "avg": 4.49,
@@ -1543,7 +1543,7 @@
                 "name": "Vinha Da Valentina Premium Regional Pen\u00ednsula De Set\u00fabal Branco",
                 "pid": "6177018",
                 "target": 12.99,
-                "target.ai": 4.49
+                "target_ai": 4.49
             },
             {
                 "avg": 4.19,
@@ -1555,7 +1555,7 @@
                 "name": "Vinha Da Coutada Velha Regional Alentejano Branco",
                 "pid": "6561178",
                 "target": 12.99,
-                "target.ai": 4.19
+                "target_ai": 4.19
             },
             {
                 "avg": 4.19,
@@ -1567,7 +1567,7 @@
                 "name": "Vinhas Da Coutada Velha Regional Alentejano Tinto",
                 "pid": "6414326",
                 "target": 12.99,
-                "target.ai": 4.19
+                "target_ai": 4.19
             }
         ],
         "title": "Garrafeira"
@@ -1584,7 +1584,7 @@
                 "name": "Preservativo Dupla Ac\u00e7\u00e3o",
                 "pid": "2122833",
                 "target": 4.99,
-                "target.ai": 4.99
+                "target_ai": 4.99
             },
             {
                 "avg": 4.990000000000001,
@@ -1596,7 +1596,7 @@
                 "name": "Preservativos G-Sensation",
                 "pid": "3071986",
                 "target": 4.99,
-                "target.ai": 4.99
+                "target_ai": 4.99
             },
             {
                 "avg": 4.990000000000001,
@@ -1608,7 +1608,7 @@
                 "name": "Preservativos Long Pleasure",
                 "pid": "4164334",
                 "target": 4.99,
-                "target.ai": 4.99
+                "target_ai": 4.99
             },
             {
                 "avg": 4.29,
@@ -1620,7 +1620,7 @@
                 "name": "Preservativo Normal",
                 "pid": "2121509",
                 "target": 4.29,
-                "target.ai": 4.29
+                "target_ai": 4.29
             },
             {
                 "avg": 4.990000000000001,
@@ -1632,7 +1632,7 @@
                 "name": "Preservativos Ajuste Perfeito",
                 "pid": "4461661",
                 "target": 4.99,
-                "target.ai": 4.99
+                "target_ai": 4.99
             },
             {
                 "avg": 4.29,
@@ -1644,7 +1644,7 @@
                 "name": "Preservativo Sensitive",
                 "pid": "2122831",
                 "target": 4.29,
-                "target.ai": 4.29
+                "target_ai": 4.29
             }
         ],
         "title": "Health"
@@ -1661,7 +1661,7 @@
                 "name": "Alho Seco",
                 "pid": "4599477",
                 "target": 1.7,
-                "target.ai": 1.69
+                "target_ai": 1.69
             },
             {
                 "avg": 0.9900000000000001,
@@ -1673,7 +1673,7 @@
                 "name": "Alho Mo\u00eddo em Frasco",
                 "pid": "6046630",
                 "target": 0.99,
-                "target.ai": 0.99
+                "target_ai": 0.99
             },
             {
                 "avg": 3.6999999999999997,
@@ -1685,7 +1685,7 @@
                 "name": "Caixa Herm\u00e9tica para Snacks 0,4 lt",
                 "pid": "5128100",
                 "target": 3.7,
-                "target.ai": 3.7
+                "target_ai": 3.7
             }
         ],
         "title": "Kitchen"
@@ -1702,7 +1702,7 @@
                 "name": "Del\u00edcias do Mar Ultracongeladas",
                 "pid": "2759050",
                 "target": 0.99,
-                "target.ai": 0.89
+                "target_ai": 0.89
             },
             {
                 "avg": 11.99,
@@ -1714,7 +1714,7 @@
                 "name": "Dourada Extra +1kg",
                 "pid": "6764693",
                 "target": 11.99,
-                "target.ai": 11.99
+                "target_ai": 11.99
             },
             {
                 "avg": 6.45,
@@ -1726,7 +1726,7 @@
                 "name": "Dourada Grande",
                 "pid": "2147601",
                 "target": 6.45,
-                "target.ai": 6.45
+                "target_ai": 6.45
             },
             {
                 "avg": 4.99,
@@ -1738,7 +1738,7 @@
                 "name": "Dourada M\u00e9dia",
                 "pid": "4636366",
                 "target": 4.99,
-                "target.ai": 4.99
+                "target_ai": 4.99
             },
             {
                 "avg": 0.8614285714285714,
@@ -1750,7 +1750,7 @@
                 "name": "Atum ao Natural",
                 "pid": "3697795",
                 "target": 0.8,
-                "target.ai": 0.8400000000000001
+                "target_ai": 0.8400000000000001
             },
             {
                 "avg": 2.9400000000000004,
@@ -1762,7 +1762,7 @@
                 "name": "Miolo Camar\u00e3o 80/100",
                 "pid": "4750959",
                 "target": 2.99,
-                "target.ai": 2.9400000000000004
+                "target_ai": 2.9400000000000004
             },
             {
                 "avg": 11.99,
@@ -1774,7 +1774,7 @@
                 "name": "Robalo Extra +1 Kg",
                 "pid": "6340475",
                 "target": 11.99,
-                "target.ai": 11.99
+                "target_ai": 11.99
             },
             {
                 "avg": 6.266,
@@ -1786,7 +1786,7 @@
                 "name": "Robalo Grande",
                 "pid": "4302565",
                 "target": 6.45,
-                "target.ai": 6.220000000000001
+                "target_ai": 6.220000000000001
             },
             {
                 "avg": 4.99,
@@ -1798,7 +1798,7 @@
                 "name": "Robalo M\u00e9dio (200-600 gr)",
                 "pid": "2147671",
                 "target": 4.99,
-                "target.ai": 4.99
+                "target_ai": 4.99
             },
             {
                 "avg": 8.99,
@@ -1810,7 +1810,7 @@
                 "name": "Salm\u00e3o Inteiro",
                 "pid": "2148068",
                 "target": 9.99,
-                "target.ai": 8.99
+                "target_ai": 8.99
             },
             {
                 "avg": 16.99,
@@ -1822,7 +1822,7 @@
                 "name": "Lombo de Salm\u00e3o",
                 "pid": "4883651",
                 "target": 16.99,
-                "target.ai": 16.99
+                "target_ai": 16.99
             },
             {
                 "avg": 8.847142857142858,
@@ -1834,7 +1834,7 @@
                 "name": "Posta de Salm\u00e3o",
                 "pid": "4405983",
                 "target": 11.99,
-                "target.ai": 8.99
+                "target_ai": 8.99
             }
         ],
         "title": "Peixaria"
@@ -1851,7 +1851,7 @@
                 "name": "Arcos Dent\u00e1rios",
                 "pid": "6648075",
                 "target": 2.49,
-                "target.ai": 2.49
+                "target_ai": 2.49
             },
             {
                 "avg": 9.95,
@@ -1863,7 +1863,7 @@
                 "name": "Bisolnatural 2 em 1 Crian\u00e7a e Adulto",
                 "pid": "5662252",
                 "target": 9.95,
-                "target.ai": 9.95
+                "target_ai": 9.95
             },
             {
                 "avg": 24.9,
@@ -1875,7 +1875,7 @@
                 "name": "Omega 3 Tripla A\u00e7\u00e3o 700Mg",
                 "pid": "3900374",
                 "target": 24.9,
-                "target.ai": 24.9
+                "target_ai": 24.9
             },
             {
                 "avg": 2.29,
@@ -1887,7 +1887,7 @@
                 "name": "Soro Fisiol\u00f3gico",
                 "pid": "4964633",
                 "target": 2.29,
-                "target.ai": 2.29
+                "target_ai": 2.29
             },
             {
                 "avg": 14.89,
@@ -1899,7 +1899,7 @@
                 "name": "Valdispert Noite",
                 "pid": "5232489",
                 "target": 14.89,
-                "target.ai": 14.89
+                "target_ai": 14.89
             },
             {
                 "avg": 13.99,
@@ -1911,7 +1911,7 @@
                 "name": "Valdispert Noite Magn\u00e9sio",
                 "pid": "6896814",
                 "target": 13.99,
-                "target.ai": 13.99
+                "target_ai": 13.99
             },
             {
                 "avg": 13.75,
@@ -1923,7 +1923,7 @@
                 "name": "Valdispert Noite Total",
                 "pid": "6256439",
                 "target": 13.75,
-                "target.ai": 13.75
+                "target_ai": 13.75
             },
             {
                 "avg": 23.7,
@@ -1935,7 +1935,7 @@
                 "name": "Valdispro Memo",
                 "pid": "6744998",
                 "target": 23.7,
-                "target.ai": 23.7
+                "target_ai": 23.7
             }
         ],
         "title": "Pharmacy"
@@ -1952,7 +1952,7 @@
                 "name": "Queijo Fondue Sui\u00e7o",
                 "pid": "5112764",
                 "target": 4.99,
-                "target.ai": 5.89
+                "target_ai": 5.89
             },
             {
                 "avg": 4.49,
@@ -1964,7 +1964,7 @@
                 "name": "Quinta Do Infantado Vinho do Porto Conjunto 3 Miniaturas",
                 "pid": "3612673",
                 "target": 4.49,
-                "target.ai": 4.49
+                "target_ai": 4.49
             },
             {
                 "avg": 8.79,
@@ -1976,7 +1976,7 @@
                 "name": "Quinta Do Infantado Vinho do Porto Conjunto 5 Miniaturas",
                 "pid": "2050686",
                 "target": 8.79,
-                "target.ai": 8.79
+                "target_ai": 8.79
             },
             {
                 "avg": 9.39,
@@ -1988,7 +1988,7 @@
                 "name": "Quinta Do Infantado Vinho do Porto Conjunto Madeira 5 Miniaturas",
                 "pid": "2500156",
                 "target": 9.39,
-                "target.ai": 9.39
+                "target_ai": 9.39
             },
             {
                 "avg": 3.89,
@@ -2000,7 +2000,7 @@
                 "name": "Cerveja com \u00c1lcool Preta",
                 "pid": "3036037",
                 "target": 3.99,
-                "target.ai": 3.89
+                "target_ai": 3.89
             },
             {
                 "avg": 3.89,
@@ -2012,7 +2012,7 @@
                 "name": "Cerveja com \u00c1lcool Preta",
                 "pid": "3036104",
                 "target": 3.99,
-                "target.ai": 3.89
+                "target_ai": 3.89
             }
         ],
         "title": "Special Events"
@@ -2029,7 +2029,7 @@
                 "name": "Peito de Frango",
                 "pid": "6950358",
                 "target": 3.99,
-                "target.ai": 3.99
+                "target_ai": 3.99
             },
             {
                 "avg": 5.79,
@@ -2041,7 +2041,7 @@
                 "name": "Peito de Frango- Familiar (6/8 un)",
                 "pid": "2428221",
                 "target": 5.79,
-                "target.ai": 5.79
+                "target_ai": 5.79
             },
             {
                 "avg": 8.99,
@@ -2053,7 +2053,7 @@
                 "name": "Peito de Frango do Campo",
                 "pid": "2818798",
                 "target": 8.99,
-                "target.ai": 8.99
+                "target_ai": 8.99
             }
         ],
         "title": "Talho"
