@@ -1,75 +1,45 @@
 {
-    "Breakfast": {
+    "Casa e Arrumos": {
         "list": [
             {
-                "pid": "5181067",
-                "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=5181067",
-                "target": 1.9
+                "pid": "6467548",
+                "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=6467548",
+                "target": 18.0
             },
             {
-                "pid": "6555420",
-                "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=6555420",
-                "target": 1.9
+                "pid": "5322907",
+                "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=5322907",
+                "target": 22.0
             },
             {
-                "pid": "2163626",
-                "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=2163626",
-                "target": 2.49
+                "pid": "5669720",
+                "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=5669720",
+                "target": 20.0
             },
             {
-                "pid": "2388282",
-                "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=2388282",
-                "target": 2.49
+                "pid": "2895615",
+                "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=2895615",
+                "target": 8.0
             },
             {
-                "pid": "6044439",
-                "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=6044439",
-                "target": 2.0
+                "pid": "6206357",
+                "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=6206357",
+                "target": 47.0
             },
             {
-                "pid": "5241661",
-                "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=5241661",
-                "target": 2.0
+                "pid": "4723486",
+                "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=4723486",
+                "target": 28.0
             },
             {
-                "pid": "5244679",
-                "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=5244679",
-                "target": 2.0
-            },
-            {
-                "pid": "5638223",
-                "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=5638223",
-                "target": 2.0
-            },
-            {
-                "pid": "6691826",
-                "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=6691826",
-                "target": 2.0
-            },
-            {
-                "pid": "6439065",
-                "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=6439065",
-                "target": 1.99
-            },
-            {
-                "pid": "6409881",
-                "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=6409881",
-                "target": 2.59
-            },
-            {
-                "pid": "4951044",
-                "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=4951044",
-                "target": 2.99
-            },
-            {
-                "pid": "2410868",
-                "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=2410868",
-                "target": 3.49
+                "pid": "6205863",
+                "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=6205863",
+                "target": 36.0
             }
         ],
-        "title": "Breakfast"
+        "title": "Casa e Arrumos"
     },
-    "Cleaning": {
+    "Casa e Limpeza": {
         "list": [
             {
                 "pid": "4050886",
@@ -97,26 +67,6 @@
                 "target": 4.99
             },
             {
-                "pid": "6467548",
-                "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=6467548",
-                "target": 18.0
-            },
-            {
-                "pid": "5322907",
-                "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=5322907",
-                "target": 22.0
-            },
-            {
-                "pid": "5669720",
-                "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=5669720",
-                "target": 20.0
-            },
-            {
-                "pid": "2895615",
-                "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=2895615",
-                "target": 8.0
-            },
-            {
                 "pid": "4895385",
                 "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=4895385",
                 "target": 1.5
@@ -130,26 +80,111 @@
                 "pid": "6938861",
                 "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=6938861",
                 "target": 10.99
-            },
-            {
-                "pid": "6206357",
-                "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=6206357",
-                "target": 47.0
-            },
-            {
-                "pid": "4723486",
-                "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=4723486",
-                "target": 28.0
-            },
-            {
-                "pid": "6205863",
-                "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=6205863",
-                "target": 36.0
             }
         ],
-        "title": "Cleaning"
+        "title": "Casa e Limpeza"
     },
-    "Diary": {
+    "Cozinha": {
+        "list": [
+            {
+                "pid": "4599477",
+                "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=4599477",
+                "target": 1.7
+            },
+            {
+                "pid": "6046630",
+                "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=6046630",
+                "target": 0.99
+            },
+            {
+                "pid": "5128100",
+                "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=5128100",
+                "target": 3.7
+            }
+        ],
+        "title": "Cozinha"
+    },
+    "Farm\u00e1cia": {
+        "list": [
+            {
+                "pid": "3800903",
+                "source": "https://www.continente.pt/stores/wells/pt-pt/public/Pages/ProductDetail.aspx?ProductId=3800903",
+                "target": 20.0
+            },
+            {
+                "pid": "6648075",
+                "source": "https://www.continente.pt/stores/wells/pt-pt/public/Pages/ProductDetail.aspx?ProductId=6648075",
+                "target": 2.49
+            },
+            {
+                "pid": "5662252",
+                "source": "https://www.continente.pt/stores/wells/pt-pt/public/Pages/ProductDetail.aspx?ProductId=5662252",
+                "target": 9.95
+            },
+            {
+                "pid": "2122833",
+                "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=2122833",
+                "target": 4.99
+            },
+            {
+                "pid": "3071986",
+                "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=3071986",
+                "target": 4.99
+            },
+            {
+                "pid": "4164334",
+                "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=4164334",
+                "target": 4.99
+            },
+            {
+                "pid": "2121509",
+                "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=2121509",
+                "target": 4.29
+            },
+            {
+                "pid": "4461661",
+                "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=4461661",
+                "target": 4.99
+            },
+            {
+                "pid": "2122831",
+                "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=2122831",
+                "target": 4.29
+            },
+            {
+                "pid": "3900374",
+                "source": "https://www.continente.pt/stores/wells/pt-pt/public/Pages/ProductDetail.aspx?ProductId=3900374",
+                "target": 24.9
+            },
+            {
+                "pid": "4964633",
+                "source": "https://www.continente.pt/stores/wells/pt-pt/public/Pages/ProductDetail.aspx?ProductId=4964633",
+                "target": 2.29
+            },
+            {
+                "pid": "5232489",
+                "source": "https://www.continente.pt/stores/wells/pt-pt/public/Pages/ProductDetail.aspx?ProductId=5232489",
+                "target": 14.89
+            },
+            {
+                "pid": "6896814",
+                "source": "https://www.continente.pt/stores/wells/pt-pt/public/Pages/ProductDetail.aspx?ProductId=6896814",
+                "target": 13.99
+            },
+            {
+                "pid": "6256439",
+                "source": "https://www.continente.pt/stores/wells/pt-pt/public/Pages/ProductDetail.aspx?ProductId=6256439",
+                "target": 13.75
+            },
+            {
+                "pid": "6744998",
+                "source": "https://www.continente.pt/stores/wells/pt-pt/public/Pages/ProductDetail.aspx?ProductId=6744998",
+                "target": 23.7
+            }
+        ],
+        "title": "Farm\u00e1cia"
+    },
+    "Frigorifico": {
         "list": [
             {
                 "pid": "6579062",
@@ -187,7 +222,7 @@
                 "target": 2.0
             }
         ],
-        "title": "Diary"
+        "title": "Frigorifico"
     },
     "Fruta": {
         "list": [
@@ -231,46 +266,6 @@
     },
     "Garrafeira": {
         "list": [
-            {
-                "pid": "4297399",
-                "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=4297399",
-                "target": 3.69
-            },
-            {
-                "pid": "6526646",
-                "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=6526646",
-                "target": 12.99
-            },
-            {
-                "pid": "5031496",
-                "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=5031496",
-                "target": 9.99
-            },
-            {
-                "pid": "5423873",
-                "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=5423873",
-                "target": 25.8
-            },
-            {
-                "pid": "6804223",
-                "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=6804223",
-                "target": 24.9
-            },
-            {
-                "pid": "5423886",
-                "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=5423886",
-                "target": 31.5
-            },
-            {
-                "pid": "5426985",
-                "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=5426985",
-                "target": 79.0
-            },
-            {
-                "pid": "5424924",
-                "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=5424924",
-                "target": 99.0
-            },
             {
                 "pid": "6994613",
                 "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=6994613",
@@ -352,9 +347,129 @@
                 "target": 45.18
             },
             {
-                "pid": "6917358",
-                "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=6917358",
+                "pid": "5723446",
+                "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=5723446",
+                "target": 14.99
+            },
+            {
+                "pid": "6858444",
+                "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=6858444",
+                "target": 15.99
+            },
+            {
+                "pid": "2050355",
+                "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=2050355",
+                "target": 16.99
+            },
+            {
+                "pid": "6966320",
+                "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=6966320",
+                "target": 19.99
+            }
+        ],
+        "title": "Garrafeira"
+    },
+    "Garrafeira - Cerveja e Sidra": {
+        "list": [
+            {
+                "pid": "3036037",
+                "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=3036037",
+                "target": 3.99
+            },
+            {
+                "pid": "5549117",
+                "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=5549117",
+                "target": 9.99
+            },
+            {
+                "pid": "5484340",
+                "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=5484340",
+                "target": 4.99
+            },
+            {
+                "pid": "5406732",
+                "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=5406732",
+                "target": 11.99
+            },
+            {
+                "pid": "5130983",
+                "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=5130983",
+                "target": 4.99
+            },
+            {
+                "pid": "3036104",
+                "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=3036104",
+                "target": 3.99
+            },
+            {
+                "pid": "2050345",
+                "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=2050345",
+                "target": 0.6
+            },
+            {
+                "pid": "4247247",
+                "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=4247247",
                 "target": 8.99
+            },
+            {
+                "pid": "5198604",
+                "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=5198604",
+                "target": 13.99
+            }
+        ],
+        "title": "Garrafeira - Cerveja e Sidra"
+    },
+    "Garrafeira - Vinho Branco": {
+        "list": [
+            {
+                "pid": "6175051",
+                "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=6175051",
+                "target": 14.99
+            },
+            {
+                "pid": "6168148",
+                "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=6168148",
+                "target": 12.99
+            },
+            {
+                "pid": "6808601",
+                "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=6808601",
+                "target": 10.99
+            },
+            {
+                "pid": "5796579",
+                "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=5796579",
+                "target": 9.99
+            },
+            {
+                "pid": "6589014",
+                "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=6589014",
+                "target": 19.99
+            },
+            {
+                "pid": "6177018",
+                "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=6177018",
+                "target": 12.99
+            },
+            {
+                "pid": "6561178",
+                "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=6561178",
+                "target": 12.99
+            }
+        ],
+        "title": "Garrafeira - Vinho Branco"
+    },
+    "Garrafeira - Vinho Tinto": {
+        "list": [
+            {
+                "pid": "4297399",
+                "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=4297399",
+                "target": 3.69
+            },
+            {
+                "pid": "5426985",
+                "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=5426985",
+                "target": 79.0
             },
             {
                 "pid": "5339630",
@@ -392,41 +507,6 @@
                 "target": 21.49
             },
             {
-                "pid": "5424261",
-                "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=5424261",
-                "target": 89.15
-            },
-            {
-                "pid": "5425345",
-                "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=5425345",
-                "target": 120.0
-            },
-            {
-                "pid": "5363637",
-                "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=5363637",
-                "target": 8.49
-            },
-            {
-                "pid": "5425338",
-                "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=5425338",
-                "target": 129.0
-            },
-            {
-                "pid": "5723446",
-                "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=5723446",
-                "target": 14.99
-            },
-            {
-                "pid": "6858444",
-                "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=6858444",
-                "target": 15.99
-            },
-            {
-                "pid": "5422881",
-                "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=5422881",
-                "target": 22.9
-            },
-            {
                 "pid": "5421804",
                 "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=5421804",
                 "target": 14.99
@@ -452,16 +532,6 @@
                 "target": 14.99
             },
             {
-                "pid": "6175051",
-                "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=6175051",
-                "target": 14.99
-            },
-            {
-                "pid": "6037014",
-                "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=6037014",
-                "target": 14.99
-            },
-            {
                 "pid": "6037014",
                 "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=6037014",
                 "target": 14.99
@@ -482,29 +552,89 @@
                 "target": 5.99
             },
             {
-                "pid": "2050355",
-                "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=2050355",
-                "target": 16.99
-            },
-            {
-                "pid": "2050355",
-                "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=2050355",
-                "target": 16.99
-            },
-            {
-                "pid": "6751264",
-                "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=6751264",
-                "target": 16.99
-            },
-            {
-                "pid": "6751138",
-                "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=6751138",
-                "target": 15.99
-            },
-            {
                 "pid": "5422879",
                 "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=5422879",
                 "target": 99.0
+            },
+            {
+                "pid": "5575484",
+                "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=5575484",
+                "target": 12.99
+            },
+            {
+                "pid": "5575493",
+                "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=5575493",
+                "target": 9.99
+            },
+            {
+                "pid": "5795289",
+                "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=5795289",
+                "target": 12.99
+            },
+            {
+                "pid": "6156388",
+                "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=6156388",
+                "target": 70.0
+            },
+            {
+                "pid": "6057873",
+                "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=6057873",
+                "target": 19.99
+            },
+            {
+                "pid": "6886417",
+                "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=6886417",
+                "target": 9.99
+            },
+            {
+                "pid": "6414326",
+                "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=6414326",
+                "target": 12.99
+            }
+        ],
+        "title": "Garrafeira - Vinho Tinto"
+    },
+    "Garrafeira - Vinho Verde": {
+        "list": [
+            {
+                "pid": "6526646",
+                "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=6526646",
+                "target": 12.99
+            },
+            {
+                "pid": "5031496",
+                "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=5031496",
+                "target": 9.99
+            },
+            {
+                "pid": "5423873",
+                "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=5423873",
+                "target": 25.8
+            },
+            {
+                "pid": "6804223",
+                "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=6804223",
+                "target": 24.9
+            },
+            {
+                "pid": "5423886",
+                "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=5423886",
+                "target": 31.5
+            },
+            {
+                "pid": "6917358",
+                "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=6917358",
+                "target": 8.99
+            },
+            {
+                "pid": "5422881",
+                "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=5422881",
+                "target": 22.9
+            },
+            {
+                "pid": "2050355",
+                "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=2050355",
+                "target": 16.99
             },
             {
                 "pid": "6804224",
@@ -522,14 +652,59 @@
                 "target": 15.99
             },
             {
-                "pid": "5425376",
-                "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=5425376",
-                "target": 65.0
-            },
-            {
                 "pid": "5425837",
                 "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=5425837",
                 "target": 23.6
+            },
+            {
+                "pid": "5422880",
+                "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=5422880",
+                "target": 13.7
+            }
+        ],
+        "title": "Garrafeira - Vinho Verde"
+    },
+    "Garrafeira - Vinho do Porto": {
+        "list": [
+            {
+                "pid": "5424924",
+                "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=5424924",
+                "target": 99.0
+            },
+            {
+                "pid": "5424261",
+                "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=5424261",
+                "target": 89.15
+            },
+            {
+                "pid": "5425345",
+                "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=5425345",
+                "target": 120.0
+            },
+            {
+                "pid": "5363637",
+                "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=5363637",
+                "target": 8.49
+            },
+            {
+                "pid": "5425338",
+                "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=5425338",
+                "target": 129.0
+            },
+            {
+                "pid": "6751264",
+                "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=6751264",
+                "target": 16.99
+            },
+            {
+                "pid": "6751138",
+                "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=6751138",
+                "target": 15.99
+            },
+            {
+                "pid": "5425376",
+                "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=5425376",
+                "target": 65.0
             },
             {
                 "pid": "5427547",
@@ -537,69 +712,9 @@
                 "target": 138.0
             },
             {
-                "pid": "5575484",
-                "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=5575484",
-                "target": 12.99
-            },
-            {
-                "pid": "5422880",
-                "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=5422880",
-                "target": 13.7
-            },
-            {
                 "pid": "2225229",
                 "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=2225229",
                 "target": 17.99
-            },
-            {
-                "pid": "5549117",
-                "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=5549117",
-                "target": 9.99
-            },
-            {
-                "pid": "5575493",
-                "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=5575493",
-                "target": 9.99
-            },
-            {
-                "pid": "5484340",
-                "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=5484340",
-                "target": 4.99
-            },
-            {
-                "pid": "5406732",
-                "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=5406732",
-                "target": 11.99
-            },
-            {
-                "pid": "5130983",
-                "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=5130983",
-                "target": 4.99
-            },
-            {
-                "pid": "2050345",
-                "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=2050345",
-                "target": 0.6
-            },
-            {
-                "pid": "4247247",
-                "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=4247247",
-                "target": 8.99
-            },
-            {
-                "pid": "5198604",
-                "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=5198604",
-                "target": 13.99
-            },
-            {
-                "pid": "6168148",
-                "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=6168148",
-                "target": 12.99
-            },
-            {
-                "pid": "5795289",
-                "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=5795289",
-                "target": 12.99
             },
             {
                 "pid": "5423723",
@@ -615,114 +730,9 @@
                 "pid": "5423615",
                 "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=5423615",
                 "target": 187.0
-            },
-            {
-                "pid": "6156388",
-                "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=6156388",
-                "target": 70.0
-            },
-            {
-                "pid": "6966320",
-                "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=6966320",
-                "target": 19.99
-            },
-            {
-                "pid": "6808601",
-                "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=6808601",
-                "target": 10.99
-            },
-            {
-                "pid": "5796579",
-                "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=5796579",
-                "target": 9.99
-            },
-            {
-                "pid": "6057873",
-                "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=6057873",
-                "target": 19.99
-            },
-            {
-                "pid": "6589014",
-                "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=6589014",
-                "target": 19.99
-            },
-            {
-                "pid": "6886417",
-                "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=6886417",
-                "target": 9.99
-            },
-            {
-                "pid": "6177018",
-                "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=6177018",
-                "target": 12.99
-            },
-            {
-                "pid": "6561178",
-                "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=6561178",
-                "target": 12.99
-            },
-            {
-                "pid": "6414326",
-                "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=6414326",
-                "target": 12.99
             }
         ],
-        "title": "Garrafeira"
-    },
-    "Health": {
-        "list": [
-            {
-                "pid": "2122833",
-                "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=2122833",
-                "target": 4.99
-            },
-            {
-                "pid": "3071986",
-                "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=3071986",
-                "target": 4.99
-            },
-            {
-                "pid": "4164334",
-                "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=4164334",
-                "target": 4.99
-            },
-            {
-                "pid": "2121509",
-                "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=2121509",
-                "target": 4.29
-            },
-            {
-                "pid": "4461661",
-                "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=4461661",
-                "target": 4.99
-            },
-            {
-                "pid": "2122831",
-                "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=2122831",
-                "target": 4.29
-            }
-        ],
-        "title": "Health"
-    },
-    "Kitchen": {
-        "list": [
-            {
-                "pid": "4599477",
-                "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=4599477",
-                "target": 1.7
-            },
-            {
-                "pid": "6046630",
-                "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=6046630",
-                "target": 0.99
-            },
-            {
-                "pid": "5128100",
-                "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=5128100",
-                "target": 3.7
-            }
-        ],
-        "title": "Kitchen"
+        "title": "Garrafeira - Vinho do Porto"
     },
     "Peixaria": {
         "list": [
@@ -789,57 +799,97 @@
         ],
         "title": "Peixaria"
     },
-    "Pharmacy": {
+    "Pequeno Almo\u00e7o": {
         "list": [
             {
-                "pid": "3800903",
-                "source": "https://www.continente.pt/stores/wells/pt-pt/public/Pages/ProductDetail.aspx?ProductId=3800903",
-                "target": 20.0
+                "pid": "5181067",
+                "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=5181067",
+                "target": 1.9
             },
             {
-                "pid": "6648075",
-                "source": "https://www.continente.pt/stores/wells/pt-pt/public/Pages/ProductDetail.aspx?ProductId=6648075",
+                "pid": "6555420",
+                "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=6555420",
+                "target": 1.9
+            },
+            {
+                "pid": "2163626",
+                "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=2163626",
                 "target": 2.49
             },
             {
-                "pid": "5662252",
-                "source": "https://www.continente.pt/stores/wells/pt-pt/public/Pages/ProductDetail.aspx?ProductId=5662252",
-                "target": 9.95
+                "pid": "2388282",
+                "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=2388282",
+                "target": 2.49
             },
             {
-                "pid": "3900374",
-                "source": "https://www.continente.pt/stores/wells/pt-pt/public/Pages/ProductDetail.aspx?ProductId=3900374",
-                "target": 24.9
+                "pid": "6044439",
+                "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=6044439",
+                "target": 2.0
             },
             {
-                "pid": "4964633",
-                "source": "https://www.continente.pt/stores/wells/pt-pt/public/Pages/ProductDetail.aspx?ProductId=4964633",
-                "target": 2.29
+                "pid": "5241661",
+                "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=5241661",
+                "target": 2.0
             },
             {
-                "pid": "5232489",
-                "source": "https://www.continente.pt/stores/wells/pt-pt/public/Pages/ProductDetail.aspx?ProductId=5232489",
-                "target": 14.89
+                "pid": "5244679",
+                "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=5244679",
+                "target": 2.0
             },
             {
-                "pid": "6896814",
-                "source": "https://www.continente.pt/stores/wells/pt-pt/public/Pages/ProductDetail.aspx?ProductId=6896814",
-                "target": 13.99
+                "pid": "5638223",
+                "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=5638223",
+                "target": 2.0
             },
             {
-                "pid": "6256439",
-                "source": "https://www.continente.pt/stores/wells/pt-pt/public/Pages/ProductDetail.aspx?ProductId=6256439",
-                "target": 13.75
+                "pid": "6691826",
+                "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=6691826",
+                "target": 2.0
             },
             {
-                "pid": "6744998",
-                "source": "https://www.continente.pt/stores/wells/pt-pt/public/Pages/ProductDetail.aspx?ProductId=6744998",
-                "target": 23.7
+                "pid": "6439065",
+                "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=6439065",
+                "target": 1.99
+            },
+            {
+                "pid": "6409881",
+                "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=6409881",
+                "target": 2.59
+            },
+            {
+                "pid": "4951044",
+                "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=4951044",
+                "target": 2.99
+            },
+            {
+                "pid": "2410868",
+                "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=2410868",
+                "target": 3.49
             }
         ],
-        "title": "Pharmacy"
+        "title": "Pequeno Almo\u00e7o"
     },
-    "Special Events": {
+    "Talho": {
+        "list": [
+            {
+                "pid": "6950358",
+                "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=6950358",
+                "target": 3.99
+            },
+            {
+                "pid": "2428221",
+                "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=2428221",
+                "target": 5.79
+            },
+            {
+                "pid": "2818798",
+                "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=2818798",
+                "target": 8.99
+            }
+        ],
+        "title": "Talho"
+    },
+    "Tema Personalizado": {
         "list": [
             {
                 "pid": "5112764",
@@ -872,26 +922,6 @@
                 "target": 3.99
             }
         ],
-        "title": "Special Events"
-    },
-    "Talho": {
-        "list": [
-            {
-                "pid": "6950358",
-                "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=6950358",
-                "target": 3.99
-            },
-            {
-                "pid": "2428221",
-                "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=2428221",
-                "target": 5.79
-            },
-            {
-                "pid": "2818798",
-                "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=2818798",
-                "target": 8.99
-            }
-        ],
-        "title": "Talho"
+        "title": "Tema Personalizado"
     }
 }
