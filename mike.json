@@ -2,67 +2,54 @@
     "Breakfast": {
         "list": [
             {
-                "pid": "5181067",
                 "seed": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=5181067",
                 "target": 1.9
             },
             {
-                "pid": "6555420",
                 "seed": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=6555420",
                 "target": 1.9
             },
             {
-                "pid": "2163626",
                 "seed": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=2163626",
                 "target": 2.49
             },
             {
-                "pid": "2388282",
                 "seed": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=2388282",
                 "target": 2.49
             },
             {
-                "pid": "6044439",
                 "seed": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=6044439",
                 "target": 2.0
             },
             {
-                "pid": "5241661",
                 "seed": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=5241661",
                 "target": 2.0
             },
             {
-                "pid": "5244679",
                 "seed": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=5244679",
                 "target": 2.0
             },
             {
-                "pid": "5638223",
                 "seed": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=5638223",
                 "target": 2.0
             },
             {
-                "pid": "6691826",
                 "seed": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=6691826",
                 "target": 2.0
             },
             {
-                "pid": "6439065",
                 "seed": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=6439065",
                 "target": 1.99
             },
             {
-                "pid": "6409881",
                 "seed": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=6409881",
                 "target": 2.59
             },
             {
-                "pid": "4951044",
                 "seed": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=4951044",
                 "target": 2.99
             },
             {
-                "pid": "2410868",
                 "seed": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=2410868",
                 "target": 3.49
             }
@@ -72,77 +59,62 @@
     "Cleaning": {
         "list": [
             {
-                "pid": "4050886",
                 "seed": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=4050886",
                 "target": 2.99
             },
             {
-                "pid": "5923288",
                 "seed": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=5923288",
                 "target": 10.99
             },
             {
-                "pid": "6244185",
                 "seed": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=6244185",
                 "target": 10.99
             },
             {
-                "pid": "6821692",
                 "seed": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=6821692",
                 "target": 10.99
             },
             {
-                "pid": "5708424",
                 "seed": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=5708424",
                 "target": 4.99
             },
             {
-                "pid": "6467548",
                 "seed": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=6467548",
                 "target": 18.0
             },
             {
-                "pid": "5322907",
                 "seed": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=5322907",
                 "target": 22.0
             },
             {
-                "pid": "5669720",
                 "seed": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=5669720",
                 "target": 20.0
             },
             {
-                "pid": "2895615",
                 "seed": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=2895615",
                 "target": 8.0
             },
             {
-                "pid": "4895385",
                 "seed": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=4895385",
                 "target": 1.5
             },
             {
-                "pid": "6938892",
                 "seed": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=6938892",
                 "target": 10.99
             },
             {
-                "pid": "6938861",
                 "seed": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=6938861",
                 "target": 10.99
             },
             {
-                "pid": "6206357",
                 "seed": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=6206357",
                 "target": 47.0
             },
             {
-                "pid": "4723486",
                 "seed": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=4723486",
                 "target": 28.0
             },
             {
-                "pid": "6205863",
                 "seed": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=6205863",
                 "target": 36.0
             }
@@ -152,37 +124,30 @@
     "Diary": {
         "list": [
             {
-                "pid": "6579062",
                 "seed": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=6579062",
                 "target": 2.99
             },
             {
-                "pid": "2915648",
                 "seed": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=2915648",
                 "target": 1.99
             },
             {
-                "pid": "5608649",
                 "seed": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=5608649",
                 "target": 2.99
             },
             {
-                "pid": "2163597",
                 "seed": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=2163597",
                 "target": 1.99
             },
             {
-                "pid": "6691078",
                 "seed": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=6691078",
                 "target": 2.0
             },
             {
-                "pid": "6691038",
                 "seed": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=6691038",
                 "target": 2.0
             },
             {
-                "pid": "6691036",
                 "seed": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=6691036",
                 "target": 2.0
             }
@@ -192,37 +157,30 @@
     "Fruta": {
         "list": [
             {
-                "pid": "2076390",
                 "seed": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=2076390",
                 "target": 3.99
             },
             {
-                "pid": "6896870",
                 "seed": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=6896870",
                 "target": 3.0
             },
             {
-                "pid": "2216170",
                 "seed": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=2216170",
                 "target": 3.0
             },
             {
-                "pid": "2076576",
                 "seed": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=2076576",
                 "target": 3.0
             },
             {
-                "pid": "6896876",
                 "seed": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=6896876",
                 "target": 2.99
             },
             {
-                "pid": "4480831",
                 "seed": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=4480831",
                 "target": 2.99
             },
             {
-                "pid": "2504465",
                 "seed": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=2504465",
                 "target": 3.99
             }
@@ -232,437 +190,350 @@
     "Garrafeira": {
         "list": [
             {
-                "pid": "4297399",
                 "seed": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=4297399",
                 "target": 3.69
             },
             {
-                "pid": "6526646",
                 "seed": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=6526646",
                 "target": 12.99
             },
             {
-                "pid": "5031496",
                 "seed": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=5031496",
                 "target": 9.99
             },
             {
-                "pid": "5423873",
                 "seed": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=5423873",
                 "target": 25.8
             },
             {
-                "pid": "6804223",
                 "seed": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=6804223",
                 "target": 24.9
             },
             {
-                "pid": "5423886",
                 "seed": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=5423886",
                 "target": 31.5
             },
             {
-                "pid": "5426985",
                 "seed": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=5426985",
                 "target": 79.0
             },
             {
-                "pid": "5424924",
                 "seed": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=5424924",
                 "target": 99.0
             },
             {
-                "pid": "6994613",
                 "seed": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=6994613",
                 "target": 20.97
             },
             {
-                "pid": "6994612",
                 "seed": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=6994612",
                 "target": 33.97
             },
             {
-                "pid": "7011843",
                 "seed": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=7011843",
                 "target": 11.99
             },
             {
-                "pid": "6995603",
                 "seed": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=6995603",
                 "target": 11.99
             },
             {
-                "pid": "6994611",
                 "seed": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=6994611",
                 "target": 38.97
             },
             {
-                "pid": "6995671",
                 "seed": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=6995671",
                 "target": 38.97
             },
             {
-                "pid": "7055248",
                 "seed": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=7055248",
                 "target": 34.37
             },
             {
-                "pid": "7055243",
                 "seed": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=7055243",
                 "target": 47.97
             },
             {
-                "pid": "7055244",
                 "seed": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=7055244",
                 "target": 29.67
             },
             {
-                "pid": "7055236",
                 "seed": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=7055236",
                 "target": 25.97
             },
             {
-                "pid": "7055237",
                 "seed": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=7055237",
                 "target": 24.57
             },
             {
-                "pid": "7055238",
                 "seed": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=7055238",
                 "target": 29.47
             },
             {
-                "pid": "7055239",
                 "seed": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=7055239",
                 "target": 40.98
             },
             {
-                "pid": "7055240",
                 "seed": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=7055240",
                 "target": 28.47
             },
             {
-                "pid": "7055241",
                 "seed": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=7055241",
                 "target": 15.49
             },
             {
-                "pid": "6995612",
                 "seed": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=6995612",
                 "target": 45.18
             },
             {
-                "pid": "6917358",
                 "seed": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=6917358",
                 "target": 8.99
             },
             {
-                "pid": "5339630",
                 "seed": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=5339630",
                 "target": 5.99
             },
             {
-                "pid": "6653476",
                 "seed": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=6653476",
                 "target": 9.99
             },
             {
-                "pid": "5928747",
                 "seed": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=5928747",
                 "target": 10.99
             },
             {
-                "pid": "6340482",
                 "seed": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=6340482",
                 "target": 19.99
             },
             {
-                "pid": "5651702",
                 "seed": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=5651702",
                 "target": 19.99
             },
             {
-                "pid": "6741267",
                 "seed": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=6741267",
                 "target": 59.0
             },
             {
-                "pid": "6741249",
                 "seed": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=6741249",
                 "target": 21.49
             },
             {
-                "pid": "5424261",
                 "seed": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=5424261",
                 "target": 89.15
             },
             {
-                "pid": "5425345",
                 "seed": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=5425345",
                 "target": 120.0
             },
             {
-                "pid": "5363637",
                 "seed": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=5363637",
                 "target": 8.49
             },
             {
-                "pid": "5425338",
                 "seed": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=5425338",
                 "target": 129.0
             },
             {
-                "pid": "5723446",
                 "seed": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=5723446",
                 "target": 14.99
             },
             {
-                "pid": "6858444",
                 "seed": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=6858444",
                 "target": 15.99
             },
             {
-                "pid": "5422881",
                 "seed": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=5422881",
                 "target": 22.9
             },
             {
-                "pid": "5421804",
                 "seed": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=5421804",
                 "target": 14.99
             },
             {
-                "pid": "5422635",
                 "seed": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=5422635",
                 "target": 64.5
             },
             {
-                "pid": "5129833",
                 "seed": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=5129833",
                 "target": 17.99
             },
             {
-                "pid": "2051409",
                 "seed": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=2051409",
                 "target": 14.99
             },
             {
-                "pid": "6175051",
                 "seed": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=6175051",
                 "target": 14.99
             },
             {
-                "pid": "6175051",
                 "seed": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=6175051",
                 "target": 14.99
             },
             {
-                "pid": "6037014",
                 "seed": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=6037014",
                 "target": 14.99
             },
             {
-                "pid": "6037014",
                 "seed": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=6037014",
                 "target": 14.99
             },
             {
-                "pid": "6346401",
                 "seed": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=6346401",
                 "target": 11.99
             },
             {
-                "pid": "5425565",
                 "seed": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=5425565",
                 "target": 94.5
             },
             {
-                "pid": "5273143",
                 "seed": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=5273143",
                 "target": 5.99
             },
             {
-                "pid": "2050355",
                 "seed": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=2050355",
                 "target": 16.99
             },
             {
-                "pid": "2050355",
                 "seed": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=2050355",
                 "target": 16.99
             },
             {
-                "pid": "6751264",
                 "seed": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=6751264",
                 "target": 16.99
             },
             {
-                "pid": "6751138",
                 "seed": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=6751138",
                 "target": 15.99
             },
             {
-                "pid": "5422879",
                 "seed": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=5422879",
                 "target": 99.0
             },
             {
-                "pid": "6804224",
                 "seed": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=6804224",
                 "target": 17.5
             },
             {
-                "pid": "5448330",
                 "seed": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=5448330",
                 "target": 16.5
             },
             {
-                "pid": "6589802",
                 "seed": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=6589802",
                 "target": 15.99
             },
             {
-                "pid": "5425376",
                 "seed": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=5425376",
                 "target": 65.0
             },
             {
-                "pid": "5425837",
                 "seed": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=5425837",
                 "target": 23.6
             },
             {
-                "pid": "5427547",
                 "seed": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=5427547",
                 "target": 138.0
             },
             {
-                "pid": "5575484",
                 "seed": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=5575484",
                 "target": 12.99
             },
             {
-                "pid": "5422880",
                 "seed": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=5422880",
                 "target": 13.7
             },
             {
-                "pid": "2225229",
                 "seed": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=2225229",
                 "target": 17.99
             },
             {
-                "pid": "5549117",
                 "seed": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=5549117",
                 "target": 9.99
             },
             {
-                "pid": "5575493",
                 "seed": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=5575493",
                 "target": 9.99
             },
             {
-                "pid": "5484340",
                 "seed": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=5484340",
                 "target": 4.99
             },
             {
-                "pid": "5406732",
                 "seed": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=5406732",
                 "target": 11.99
             },
             {
-                "pid": "5130983",
                 "seed": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=5130983",
                 "target": 4.99
             },
             {
-                "pid": "2050345",
                 "seed": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=2050345",
                 "target": 0.6
             },
             {
-                "pid": "4247247",
                 "seed": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=4247247",
                 "target": 8.99
             },
             {
-                "pid": "5198604",
                 "seed": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=5198604",
                 "target": 13.99
             },
             {
-                "pid": "6168148",
                 "seed": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=6168148",
                 "target": 12.99
             },
             {
-                "pid": "5795289",
                 "seed": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=5795289",
                 "target": 12.99
             },
             {
-                "pid": "5423723",
                 "seed": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=5423723",
                 "target": 137.0
             },
             {
-                "pid": "5423760",
                 "seed": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=5423760",
                 "target": 103.0
             },
             {
-                "pid": "5423615",
                 "seed": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=5423615",
                 "target": 187.0
             },
             {
-                "pid": "6156388",
                 "seed": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=6156388",
                 "target": 70.0
             },
             {
-                "pid": "6966320",
                 "seed": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=6966320",
                 "target": 19.99
             },
             {
-                "pid": "6808601",
                 "seed": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=6808601",
                 "target": 10.99
             },
             {
-                "pid": "5796579",
                 "seed": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=5796579",
                 "target": 9.99
             },
             {
-                "pid": "6057873",
                 "seed": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=6057873",
                 "target": 19.99
             },
             {
-                "pid": "6589014",
                 "seed": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=6589014",
                 "target": 19.99
             },
             {
-                "pid": "6886417",
                 "seed": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=6886417",
                 "target": 9.99
             },
             {
-                "pid": "6177018",
                 "seed": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=6177018",
                 "target": 12.99
             },
             {
-                "pid": "6561178",
                 "seed": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=6561178",
                 "target": 12.99
             },
             {
-                "pid": "6414326",
                 "seed": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=6414326",
                 "target": 12.99
             }
@@ -672,32 +543,26 @@
     "Health": {
         "list": [
             {
-                "pid": "2122833",
                 "seed": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=2122833",
                 "target": 4.99
             },
             {
-                "pid": "3071986",
                 "seed": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=3071986",
                 "target": 4.99
             },
             {
-                "pid": "4164334",
                 "seed": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=4164334",
                 "target": 4.99
             },
             {
-                "pid": "2121509",
                 "seed": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=2121509",
                 "target": 4.29
             },
             {
-                "pid": "4461661",
                 "seed": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=4461661",
                 "target": 4.99
             },
             {
-                "pid": "2122831",
                 "seed": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=2122831",
                 "target": 4.29
             }
@@ -707,17 +572,14 @@
     "Kitchen": {
         "list": [
             {
-                "pid": "4599477",
                 "seed": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=4599477",
                 "target": 1.7
             },
             {
-                "pid": "6046630",
                 "seed": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=6046630",
                 "target": 0.99
             },
             {
-                "pid": "5128100",
                 "seed": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=5128100",
                 "target": 3.7
             }
@@ -727,62 +589,50 @@
     "Peixaria": {
         "list": [
             {
-                "pid": "2759050",
                 "seed": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=2759050",
                 "target": 0.99
             },
             {
-                "pid": "6764693",
                 "seed": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=6764693",
                 "target": 11.99
             },
             {
-                "pid": "2147601",
                 "seed": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=2147601",
                 "target": 6.45
             },
             {
-                "pid": "4636366",
                 "seed": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=4636366",
                 "target": 4.99
             },
             {
-                "pid": "3697795",
                 "seed": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=3697795",
                 "target": 0.8
             },
             {
-                "pid": "4750959",
                 "seed": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=4750959",
                 "target": 2.99
             },
             {
-                "pid": "6340475",
                 "seed": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=6340475",
                 "target": 11.99
             },
             {
-                "pid": "4302565",
                 "seed": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=4302565",
                 "target": 6.45
             },
             {
-                "pid": "2147671",
                 "seed": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=2147671",
                 "target": 4.99
             },
             {
-                "pid": "2148068",
                 "seed": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=2148068",
                 "target": 9.99
             },
             {
-                "pid": "4883651",
                 "seed": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=4883651",
                 "target": 16.99
             },
             {
-                "pid": "4405983",
                 "seed": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=4405983",
                 "target": 11.99
             }
@@ -792,47 +642,38 @@
     "Pharmacy": {
         "list": [
             {
-                "pid": "3800903",
                 "seed": "https://www.continente.pt/stores/wells/pt-pt/public/Pages/ProductDetail.aspx?ProductId=3800903",
                 "target": 20.0
             },
             {
-                "pid": "6648075",
                 "seed": "https://www.continente.pt/stores/wells/pt-pt/public/Pages/ProductDetail.aspx?ProductId=6648075",
                 "target": 2.49
             },
             {
-                "pid": "5662252",
                 "seed": "https://www.continente.pt/stores/wells/pt-pt/public/Pages/ProductDetail.aspx?ProductId=5662252",
                 "target": 9.95
             },
             {
-                "pid": "3900374",
                 "seed": "https://www.continente.pt/stores/wells/pt-pt/public/Pages/ProductDetail.aspx?ProductId=3900374",
                 "target": 24.9
             },
             {
-                "pid": "4964633",
                 "seed": "https://www.continente.pt/stores/wells/pt-pt/public/Pages/ProductDetail.aspx?ProductId=4964633",
                 "target": 2.29
             },
             {
-                "pid": "5232489",
                 "seed": "https://www.continente.pt/stores/wells/pt-pt/public/Pages/ProductDetail.aspx?ProductId=5232489",
                 "target": 14.89
             },
             {
-                "pid": "6896814",
                 "seed": "https://www.continente.pt/stores/wells/pt-pt/public/Pages/ProductDetail.aspx?ProductId=6896814",
                 "target": 13.99
             },
             {
-                "pid": "6256439",
                 "seed": "https://www.continente.pt/stores/wells/pt-pt/public/Pages/ProductDetail.aspx?ProductId=6256439",
                 "target": 13.75
             },
             {
-                "pid": "6744998",
                 "seed": "https://www.continente.pt/stores/wells/pt-pt/public/Pages/ProductDetail.aspx?ProductId=6744998",
                 "target": 23.7
             }
@@ -842,32 +683,26 @@
     "Special Events": {
         "list": [
             {
-                "pid": "5112764",
                 "seed": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=5112764",
                 "target": 4.99
             },
             {
-                "pid": "3612673",
                 "seed": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=3612673",
                 "target": 4.49
             },
             {
-                "pid": "2050686",
                 "seed": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=2050686",
                 "target": 8.79
             },
             {
-                "pid": "2500156",
                 "seed": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=2500156",
                 "target": 9.39
             },
             {
-                "pid": "3036037",
                 "seed": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=3036037",
                 "target": 3.99
             },
             {
-                "pid": "3036104",
                 "seed": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=3036104",
                 "target": 3.99
             }
@@ -877,17 +712,14 @@
     "Talho": {
         "list": [
             {
-                "pid": "6950358",
                 "seed": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=6950358",
                 "target": 3.99
             },
             {
-                "pid": "2428221",
                 "seed": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=2428221",
                 "target": 5.79
             },
             {
-                "pid": "2818798",
                 "seed": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=2818798",
                 "target": 8.99
             }
