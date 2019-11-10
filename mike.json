@@ -282,6 +282,11 @@
                 "target": 3.0
             },
             {
+                "pid": "2597619",
+                "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=2597619",
+                "target": 1.05
+            },
+            {
                 "pid": "2216170",
                 "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=2216170",
                 "target": 3.0
@@ -320,6 +325,16 @@
                 "pid": "6046630",
                 "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=6046630",
                 "target": 0.99
+            },
+            {
+                "pid": "4891584",
+                "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=4891584",
+                "target": 1.19
+            },
+            {
+                "pid": "3618608",
+                "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=3618608",
+                "target": 1.99
             },
             {
                 "pid": "5128100",
