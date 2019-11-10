@@ -2,9 +2,29 @@
     "k01": {
         "list": [
             {
+                "pid": "5128100",
+                "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=5128100",
+                "target": 3.7
+            },
+            {
                 "pid": "5112764",
                 "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=5112764",
                 "target": 4.99
+            },
+            {
+                "pid": "6583439",
+                "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=6583439",
+                "target": 8.99
+            },
+            {
+                "pid": "5028529",
+                "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=5028529",
+                "target": 7.49
+            },
+            {
+                "pid": "6316714",
+                "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=6316714",
+                "target": 9.99
             },
             {
                 "pid": "3612673",
@@ -117,6 +137,11 @@
     "k03": {
         "list": [
             {
+                "pid": "6104253",
+                "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=6104253",
+                "target": 12.99
+            },
+            {
                 "pid": "5181067",
                 "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=5181067",
                 "target": 1.9
@@ -135,6 +160,11 @@
                 "pid": "2388282",
                 "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=2388282",
                 "target": 2.49
+            },
+            {
+                "pid": "6231714",
+                "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=6231714",
+                "target": 3.59
             },
             {
                 "pid": "6044439",
@@ -160,6 +190,16 @@
                 "pid": "6691826",
                 "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=6691826",
                 "target": 2.0
+            },
+            {
+                "pid": "6395041",
+                "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=6395041",
+                "target": 13.99
+            },
+            {
+                "pid": "6146037",
+                "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=6146037",
+                "target": 4.39
             },
             {
                 "pid": "6439065",
@@ -335,11 +375,6 @@
                 "pid": "3618608",
                 "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=3618608",
                 "target": 1.99
-            },
-            {
-                "pid": "5128100",
-                "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=5128100",
-                "target": 3.7
             }
         ],
         "title": "Cozinha"
@@ -383,6 +418,41 @@
             }
         ],
         "title": "Cozinha - Frigor\u00edfico"
+    },
+    "k09": {
+        "list": [
+            {
+                "pid": "6847494",
+                "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=6847494",
+                "target": 1.79
+            },
+            {
+                "pid": "6046632",
+                "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=6046632",
+                "target": 1.09
+            },
+            {
+                "pid": "6690952",
+                "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=6690952",
+                "target": 0.79
+            },
+            {
+                "pid": "6046669",
+                "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=6046669",
+                "target": 0.61
+            },
+            {
+                "pid": "4026393",
+                "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=4026393",
+                "target": 2.09
+            },
+            {
+                "pid": "6831338",
+                "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=6831338",
+                "target": 2.29
+            }
+        ],
+        "title": "Especiarias"
     },
     "k10": {
         "list": [
@@ -435,6 +505,11 @@
                 "pid": "4895385",
                 "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=4895385",
                 "target": 1.5
+            },
+            {
+                "pid": "5709723",
+                "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=5709723",
+                "target": 6.99
             },
             {
                 "pid": "6938892",
@@ -722,11 +797,6 @@
                 "target": 14.99
             },
             {
-                "pid": "6175051",
-                "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=6175051",
-                "target": 14.99
-            },
-            {
                 "pid": "6037014",
                 "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=6037014",
                 "target": 14.99
@@ -795,6 +865,11 @@
                 "pid": "6175051",
                 "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=6175051",
                 "target": 14.99
+            },
+            {
+                "pid": "5816602",
+                "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=5816602",
+                "target": 9.99
             },
             {
                 "pid": "6168148",
