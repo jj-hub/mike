@@ -1008,5 +1008,70 @@
             }
         ],
         "title": "Garrafeira"
+    },
+    "k17": {
+        "list": [
+            {
+                "pid": "5707354",
+                "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=5707354",
+                "target": 4.69
+            },
+            {
+                "pid": "5879789",
+                "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=5879789",
+                "target": 3.99
+            },
+            {
+                "pid": "5708071",
+                "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=5708071",
+                "target": 9.99
+            },
+            {
+                "pid": "2053348",
+                "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=2053348",
+                "target": 8.19
+            },
+            {
+                "pid": "3612810",
+                "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=3612810",
+                "target": 4.49
+            },
+            {
+                "pid": "4689008",
+                "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=4689008",
+                "target": 3.59
+            },
+            {
+                "pid": "4689007",
+                "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=4689007",
+                "target": 2.99
+            },
+            {
+                "pid": "6580642",
+                "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=6580642",
+                "target": 3.69
+            },
+            {
+                "pid": "5725815",
+                "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=5725815",
+                "target": 3.69
+            },
+            {
+                "pid": "6076576",
+                "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=6076576",
+                "target": 3.89
+            },
+            {
+                "pid": "6076577",
+                "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=6076577",
+                "target": 3.89
+            },
+            {
+                "pid": "5864039",
+                "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=5864039",
+                "target": 3.99
+            }
+        ],
+        "title": "Higiene & Limpeza"
     }
 }
