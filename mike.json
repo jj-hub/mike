@@ -380,6 +380,16 @@
                 "pid": "2504465",
                 "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=2504465",
                 "target": 3.99
+            },
+            {
+                "pid": "5983000",
+                "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=5983000",
+                "target": 1.39
+            },
+            {
+                "pid": "5464060",
+                "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=5464060",
+                "target": 1.79
             }
         ],
         "title": "Fruta"
@@ -835,6 +845,11 @@
                 "pid": "6346401",
                 "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=6346401",
                 "target": 11.99
+            },
+            {
+                "pid": "3068081",
+                "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=3068081",
+                "target": 7.99
             },
             {
                 "pid": "5425565",
