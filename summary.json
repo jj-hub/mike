@@ -15,7 +15,7 @@
                 "target_ai": 3.7
             },
             {
-                "avg": 283.3233333333333,
+                "avg": 282.84714285714284,
                 "image": "https://www.worten.pt/i/8b4f262522b547f282c8a48ec7a5bb17bfbf8e99.jpg",
                 "latest_price": 279.99,
                 "latest_timestamp": "2019-11-23T10:21:56",
@@ -28,7 +28,7 @@
                 "target_ai": 279.99
             },
             {
-                "avg": 349.99,
+                "avg": 349.99000000000007,
                 "image": "https://www.worten.pt/i/d984461b090b4b50745b3f46ce37d5721f6a6979",
                 "latest_price": 349.99,
                 "latest_timestamp": "2019-11-23T10:22:02",
@@ -41,7 +41,7 @@
                 "target_ai": 349.99
             },
             {
-                "avg": 137.49,
+                "avg": 131.41857142857143,
                 "image": "https://www.worten.pt/i/4624e0ed11df9de75959f509ee60c4a3a6d0e1f2.jpg",
                 "latest_price": 94.99,
                 "latest_timestamp": "2019-11-23T10:22:07",
@@ -54,7 +54,7 @@
                 "target_ai": 179.99
             },
             {
-                "avg": 168.32333333333335,
+                "avg": 167.41857142857143,
                 "image": "https://www.worten.pt/i/61611412a7ebbb4610550653036d9aa2fc530cee.jpg",
                 "latest_price": 161.99,
                 "latest_timestamp": "2019-11-23T10:22:13",
@@ -67,7 +67,7 @@
                 "target_ai": 161.99
             },
             {
-                "avg": 207.15666666666667,
+                "avg": 206.5614285714286,
                 "image": "https://www.worten.pt/i/2702f6fa42e39aa9e6ec5e079eb13464edca6b30.jpg",
                 "latest_price": 202.99,
                 "latest_timestamp": "2019-11-23T10:22:18",
@@ -80,7 +80,7 @@
                 "target_ai": 191.99
             },
             {
-                "avg": 344.49,
+                "avg": 343.70428571428573,
                 "image": "https://www.worten.pt/i/8d0477b7bf5b90e576f5f6c2555931026762a1a5.jpg",
                 "latest_price": 338.99,
                 "latest_timestamp": "2019-11-23T10:22:25",
@@ -93,7 +93,7 @@
                 "target_ai": 349.99
             },
             {
-                "avg": 5.6996774193548365,
+                "avg": 5.668749999999998,
                 "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=5112764(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=512&height=512&defaultOptions=1",
                 "latest_price": 4.71,
                 "latest_timestamp": "2019-11-23T10:22:31",
@@ -106,7 +106,7 @@
                 "target_ai": 4.99
             },
             {
-                "avg": 8.989999999999998,
+                "avg": 8.99,
                 "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=6583439(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=512&height=512&defaultOptions=1",
                 "latest_price": 8.99,
                 "latest_timestamp": "2019-11-23T10:22:38",
@@ -119,7 +119,7 @@
                 "target_ai": 8.99
             },
             {
-                "avg": 7.27,
+                "avg": 7.282222222222221,
                 "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=5028529(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=512&height=512&defaultOptions=1",
                 "latest_price": 7.49,
                 "latest_timestamp": "2019-11-23T10:22:44",
@@ -132,7 +132,7 @@
                 "target_ai": 7.49
             },
             {
-                "avg": 9.695882352941178,
+                "avg": 9.712222222222223,
                 "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=6316714(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=512&height=512&defaultOptions=1",
                 "latest_price": 9.99,
                 "latest_timestamp": "2019-11-23T10:22:51",
@@ -171,7 +171,7 @@
                 "target_ai": 8.79
             },
             {
-                "avg": 9.389999999999995,
+                "avg": 9.389999999999993,
                 "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=2500156(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=512&height=512&defaultOptions=1",
                 "latest_price": 9.39,
                 "latest_timestamp": "2019-11-23T10:23:12",
@@ -184,7 +184,7 @@
                 "target_ai": 9.39
             },
             {
-                "avg": 3.8471428571428574,
+                "avg": 3.838275862068966,
                 "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=3036037(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=512&height=512&defaultOptions=1",
                 "latest_price": 3.59,
                 "latest_timestamp": "2019-11-23T10:34:14",
@@ -197,7 +197,7 @@
                 "target_ai": 3.99
             },
             {
-                "avg": 4.252068965517241,
+                "avg": 4.31,
                 "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=3036104(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=512&height=512&defaultOptions=1",
                 "latest_price": 5.99,
                 "latest_timestamp": "2019-11-23T10:34:47",
@@ -241,7 +241,7 @@
                 "target_ai": 2.49
             },
             {
-                "avg": 9.47206896551724,
+                "avg": 9.454999999999997,
                 "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=5662252(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Wells)&siteId=1&channelId=2&width=512&height=512&defaultOptions=1",
                 "latest_price": 8.96,
                 "latest_timestamp": "2019-11-23T10:23:45",
@@ -293,7 +293,7 @@
                 "target_ai": 4.99
             },
             {
-                "avg": 4.290000000000003,
+                "avg": 4.290000000000002,
                 "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=2121509(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=512&height=512&defaultOptions=1",
                 "latest_price": 4.29,
                 "latest_timestamp": "2019-11-23T10:24:12",
@@ -330,6 +330,45 @@
                 "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=2122831",
                 "target": 4.29,
                 "target_ai": 4.29
+            },
+            {
+                "avg": 2.99,
+                "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=5670079(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=512&height=512&defaultOptions=1",
+                "latest_price": 2.99,
+                "latest_timestamp": "2019-11-24T10:35:13",
+                "max": 2.99,
+                "min": 2.99,
+                "name": "Batom do Cieiro Care & Colour Red",
+                "pid": "5670079",
+                "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=5670079",
+                "target": 2.99,
+                "target_ai": 2.99
+            },
+            {
+                "avg": 3.69,
+                "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=5879308(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=512&height=512&defaultOptions=1",
+                "latest_price": 3.69,
+                "latest_timestamp": "2019-11-24T10:35:19",
+                "max": 3.69,
+                "min": 3.69,
+                "name": "Baton Cieiro Med Repair",
+                "pid": "5879308",
+                "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=5879308",
+                "target": 3.69,
+                "target_ai": 3.69
+            },
+            {
+                "avg": 2.99,
+                "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=6701478(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=512&height=512&defaultOptions=1",
+                "latest_price": 2.99,
+                "latest_timestamp": "2019-11-24T10:35:24",
+                "max": 2.99,
+                "min": 2.99,
+                "name": "Batom Nutritivo",
+                "pid": "6701478",
+                "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=6701478",
+                "target": 2.99,
+                "target_ai": 2.99
             },
             {
                 "avg": 24.899999999999988,
@@ -428,7 +467,7 @@
                 "target_ai": 12.99
             },
             {
-                "avg": 2.5757142857142847,
+                "avg": 2.5520689655172406,
                 "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=5181067(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=512&height=512&defaultOptions=1",
                 "latest_price": 1.89,
                 "latest_timestamp": "2019-11-23T10:25:48",
@@ -441,7 +480,7 @@
                 "target_ai": 1.9
             },
             {
-                "avg": 2.766428571428572,
+                "avg": 2.7458620689655175,
                 "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=6555420(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=512&height=512&defaultOptions=1",
                 "latest_price": 2.17,
                 "latest_timestamp": "2019-11-23T10:25:54",
@@ -480,7 +519,7 @@
                 "target_ai": 2.49
             },
             {
-                "avg": 3.3782352941176477,
+                "avg": 3.3566666666666674,
                 "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=6231714(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=512&height=512&defaultOptions=1",
                 "latest_price": 2.99,
                 "latest_timestamp": "2019-11-23T10:26:14",
@@ -519,7 +558,7 @@
                 "target_ai": 2.0
             },
             {
-                "avg": 3.1100000000000003,
+                "avg": 3.047777777777778,
                 "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=5244679(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=512&height=512&defaultOptions=1",
                 "latest_price": 2.55,
                 "latest_timestamp": "2019-11-23T10:26:35",
@@ -532,7 +571,7 @@
                 "target_ai": 2.0
             },
             {
-                "avg": 1.6190322580645173,
+                "avg": 1.6181250000000014,
                 "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=5638223(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=512&height=512&defaultOptions=1",
                 "latest_price": 1.59,
                 "latest_timestamp": "2019-11-23T10:26:41",
@@ -545,7 +584,7 @@
                 "target_ai": 2.0
             },
             {
-                "avg": 1.6200000000000012,
+                "avg": 1.6190322580645173,
                 "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=6691826(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=512&height=512&defaultOptions=1",
                 "latest_price": 1.59,
                 "latest_timestamp": "2019-11-23T10:26:48",
@@ -584,7 +623,7 @@
                 "target_ai": 4.39
             },
             {
-                "avg": 1.8125806451612907,
+                "avg": 1.8181250000000004,
                 "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=6439065(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=512&height=512&defaultOptions=1",
                 "latest_price": 1.99,
                 "latest_timestamp": "2019-11-23T10:27:07",
@@ -610,7 +649,7 @@
                 "target_ai": 2.59
             },
             {
-                "avg": 2.8932258064516128,
+                "avg": 2.8775,
                 "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=4951044(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=512&height=512&defaultOptions=1",
                 "latest_price": 2.39,
                 "latest_timestamp": "2019-11-23T10:27:21",
@@ -623,7 +662,7 @@
                 "target_ai": 2.99
             },
             {
-                "avg": 3.0616129032258064,
+                "avg": 3.046875,
                 "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=2410868(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=512&height=512&defaultOptions=1",
                 "latest_price": 2.59,
                 "latest_timestamp": "2019-11-23T10:27:27",
@@ -641,7 +680,7 @@
     "k04": {
         "list": [
             {
-                "avg": 0.9435714285714285,
+                "avg": 0.9451724137931033,
                 "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=2759050(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=512&height=512&defaultOptions=1",
                 "latest_price": 0.99,
                 "latest_timestamp": "2019-11-23T10:27:34",
@@ -667,7 +706,7 @@
                 "target_ai": 11.99
             },
             {
-                "avg": 6.590689655172412,
+                "avg": 6.585999999999998,
                 "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=2147601(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=512&height=512&defaultOptions=1",
                 "latest_price": 6.45,
                 "latest_timestamp": "2019-11-23T10:27:48",
@@ -680,7 +719,7 @@
                 "target_ai": 6.45
             },
             {
-                "avg": 5.263793103448276,
+                "avg": 5.27,
                 "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=4636366(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=512&height=512&defaultOptions=1",
                 "latest_price": 5.45,
                 "latest_timestamp": "2019-11-23T10:27:55",
@@ -693,7 +732,7 @@
                 "target_ai": 4.99
             },
             {
-                "avg": 0.854516129032258,
+                "avg": 0.855625,
                 "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=3697795(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=512&height=512&defaultOptions=1",
                 "latest_price": 0.89,
                 "latest_timestamp": "2019-11-23T10:28:01",
@@ -706,7 +745,7 @@
                 "target_ai": 0.8
             },
             {
-                "avg": 3.2507142857142854,
+                "avg": 3.258965517241379,
                 "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=4750959(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=512&height=512&defaultOptions=1",
                 "latest_price": 3.49,
                 "latest_timestamp": "2019-11-23T10:28:08",
@@ -719,7 +758,7 @@
                 "target_ai": 2.99
             },
             {
-                "avg": 11.132857142857144,
+                "avg": 11.126363636363639,
                 "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=6340475(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=512&height=512&defaultOptions=1",
                 "latest_price": 10.99,
                 "latest_timestamp": "2019-11-23T10:28:15",
@@ -732,7 +771,7 @@
                 "target_ai": 11.99
             },
             {
-                "avg": 6.28241379310345,
+                "avg": 6.272666666666668,
                 "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=4302565(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=512&height=512&defaultOptions=1",
                 "latest_price": 5.99,
                 "latest_timestamp": "2019-11-23T10:28:22",
@@ -745,7 +784,7 @@
                 "target_ai": 6.45
             },
             {
-                "avg": 5.089310344827585,
+                "avg": 5.101333333333332,
                 "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=2147671(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=512&height=512&defaultOptions=1",
                 "latest_price": 5.45,
                 "latest_timestamp": "2019-11-23T10:28:29",
@@ -758,7 +797,20 @@
                 "target_ai": 4.99
             },
             {
-                "avg": 9.022258064516132,
+                "avg": 3.99,
+                "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=6805735(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=512&height=512&defaultOptions=1",
+                "latest_price": 3.99,
+                "latest_timestamp": "2019-11-24T10:38:56",
+                "max": 3.99,
+                "min": 3.99,
+                "name": "Salm\u00e3o Fumado",
+                "pid": "6805735",
+                "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=6805735",
+                "target": 3.99,
+                "target_ai": 3.99
+            },
+            {
+                "avg": 9.021250000000004,
                 "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=2148068(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=512&height=512&defaultOptions=1",
                 "latest_price": 8.99,
                 "latest_timestamp": "2019-11-23T10:28:35",
@@ -771,7 +823,7 @@
                 "target_ai": 9.99
             },
             {
-                "avg": 16.147894736842108,
+                "avg": 16.190000000000005,
                 "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=4883651(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=512&height=512&defaultOptions=1",
                 "latest_price": 16.99,
                 "latest_timestamp": "2019-11-23T10:28:42",
@@ -784,7 +836,7 @@
                 "target_ai": 16.99
             },
             {
-                "avg": 9.215806451612908,
+                "avg": 9.208750000000004,
                 "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=4405983(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=512&height=512&defaultOptions=1",
                 "latest_price": 8.99,
                 "latest_timestamp": "2019-11-23T10:28:49",
@@ -795,6 +847,32 @@
                 "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=4405983",
                 "target": 9.99,
                 "target_ai": 11.99
+            },
+            {
+                "avg": 0.99,
+                "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=6909933(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=512&height=512&defaultOptions=1",
+                "latest_price": 0.99,
+                "latest_timestamp": "2019-11-24T10:39:19",
+                "max": 0.99,
+                "min": 0.99,
+                "name": "Del\u00edcias de Salm\u00e3o Fumado sem gl\u00faten",
+                "pid": "6909933",
+                "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=6909933",
+                "target": 0.99,
+                "target_ai": 0.99
+            },
+            {
+                "avg": 6.99,
+                "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=5649657(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=512&height=512&defaultOptions=1",
+                "latest_price": 6.99,
+                "latest_timestamp": "2019-11-24T10:39:24",
+                "max": 6.99,
+                "min": 6.99,
+                "name": "Salm\u00e3o Fumado da Noruega",
+                "pid": "5649657",
+                "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=5649657",
+                "target": 6.99,
+                "target_ai": 6.99
             }
         ],
         "title": "Peixaria"
@@ -846,7 +924,7 @@
     "k06": {
         "list": [
             {
-                "avg": 4.706129032258064,
+                "avg": 4.714999999999999,
                 "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=2076390(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=512&height=512&defaultOptions=1",
                 "latest_price": 4.99,
                 "latest_timestamp": "2019-11-23T10:29:15",
@@ -885,7 +963,7 @@
                 "target_ai": 1.05
             },
             {
-                "avg": 3.341999999999999,
+                "avg": 3.3306451612903216,
                 "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=2216170(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=512&height=512&defaultOptions=1",
                 "latest_price": 2.99,
                 "latest_timestamp": "2019-11-23T10:29:36",
@@ -898,7 +976,7 @@
                 "target_ai": 3.0
             },
             {
-                "avg": 3.341999999999999,
+                "avg": 3.3306451612903216,
                 "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=2076576(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=512&height=512&defaultOptions=1",
                 "latest_price": 2.99,
                 "latest_timestamp": "2019-11-23T10:29:43",
@@ -924,7 +1002,7 @@
                 "target_ai": 2.99
             },
             {
-                "avg": 2.4999999999999996,
+                "avg": 2.5158064516129026,
                 "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=4480831(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=512&height=512&defaultOptions=1",
                 "latest_price": 2.99,
                 "latest_timestamp": "2019-11-23T10:29:56",
@@ -937,7 +1015,7 @@
                 "target_ai": 2.99
             },
             {
-                "avg": 4.023333333333336,
+                "avg": 3.9996774193548417,
                 "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=2504465(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=512&height=512&defaultOptions=1",
                 "latest_price": 3.29,
                 "latest_timestamp": "2019-11-23T10:30:03",
@@ -963,7 +1041,7 @@
                 "target_ai": 1.39
             },
             {
-                "avg": 1.73,
+                "avg": 1.7400000000000002,
                 "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=5464060(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=512&height=512&defaultOptions=1",
                 "latest_price": 1.79,
                 "latest_timestamp": "2019-11-23T10:30:16",
@@ -981,7 +1059,7 @@
     "k07": {
         "list": [
             {
-                "avg": 1.5300000000000002,
+                "avg": 1.5287096774193552,
                 "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=4599477(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=512&height=512&defaultOptions=1",
                 "latest_price": 1.49,
                 "latest_timestamp": "2019-11-23T10:30:23",
@@ -994,7 +1072,7 @@
                 "target_ai": 1.7
             },
             {
-                "avg": 0.9899999999999994,
+                "avg": 0.9899999999999993,
                 "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=6046630(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=512&height=512&defaultOptions=1",
                 "latest_price": 0.99,
                 "latest_timestamp": "2019-11-23T10:30:30",
@@ -1007,7 +1085,7 @@
                 "target_ai": 0.99
             },
             {
-                "avg": 0.954705882352941,
+                "avg": 0.9677777777777776,
                 "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=4891584(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=512&height=512&defaultOptions=1",
                 "latest_price": 1.19,
                 "latest_timestamp": "2019-11-23T10:30:37",
@@ -1020,7 +1098,7 @@
                 "target_ai": 1.19
             },
             {
-                "avg": 1.9899999999999995,
+                "avg": 1.9899999999999993,
                 "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=3618608(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=512&height=512&defaultOptions=1",
                 "latest_price": 1.99,
                 "latest_timestamp": "2019-11-23T10:30:44",
@@ -1051,7 +1129,7 @@
                 "target_ai": 2.99
             },
             {
-                "avg": 1.951333333333334,
+                "avg": 1.955806451612904,
                 "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=2915648(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=512&height=512&defaultOptions=1",
                 "latest_price": 2.09,
                 "latest_timestamp": "2019-11-23T10:30:58",
@@ -1077,7 +1155,7 @@
                 "target_ai": 2.99
             },
             {
-                "avg": 1.86,
+                "avg": 1.864193548387097,
                 "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=2163597(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=512&height=512&defaultOptions=1",
                 "latest_price": 1.99,
                 "latest_timestamp": "2019-11-23T10:31:11",
@@ -1090,7 +1168,7 @@
                 "target_ai": 1.99
             },
             {
-                "avg": 1.7641935483870967,
+                "avg": 1.76375,
                 "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=6691078(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=512&height=512&defaultOptions=1",
                 "latest_price": 1.75,
                 "latest_timestamp": "2019-11-23T10:31:18",
@@ -1103,7 +1181,7 @@
                 "target_ai": 2.0
             },
             {
-                "avg": 1.7641935483870967,
+                "avg": 1.76375,
                 "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=6691038(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=512&height=512&defaultOptions=1",
                 "latest_price": 1.75,
                 "latest_timestamp": "2019-11-23T10:31:26",
@@ -1116,7 +1194,7 @@
                 "target_ai": 2.0
             },
             {
-                "avg": 1.7641935483870967,
+                "avg": 1.76375,
                 "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=6691036(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=512&height=512&defaultOptions=1",
                 "latest_price": 1.75,
                 "latest_timestamp": "2019-11-23T10:31:33",
@@ -1134,7 +1212,7 @@
     "k09": {
         "list": [
             {
-                "avg": 1.7899999999999994,
+                "avg": 1.7899999999999996,
                 "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=6847494(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=512&height=512&defaultOptions=1",
                 "latest_price": 1.79,
                 "latest_timestamp": "2019-11-23T10:31:39",
@@ -1160,7 +1238,7 @@
                 "target_ai": 1.09
             },
             {
-                "avg": 0.9194117647058823,
+                "avg": 0.9122222222222222,
                 "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=6690952(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=512&height=512&defaultOptions=1",
                 "latest_price": 0.79,
                 "latest_timestamp": "2019-11-23T10:31:53",
@@ -1173,7 +1251,7 @@
                 "target_ai": 0.79
             },
             {
-                "avg": 0.61,
+                "avg": 0.6099999999999999,
                 "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=6046669(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=512&height=512&defaultOptions=1",
                 "latest_price": 0.61,
                 "latest_timestamp": "2019-11-23T10:31:59",
@@ -1186,7 +1264,7 @@
                 "target_ai": 0.61
             },
             {
-                "avg": 2.09,
+                "avg": 2.0900000000000003,
                 "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=4026393(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=512&height=512&defaultOptions=1",
                 "latest_price": 2.09,
                 "latest_timestamp": "2019-11-23T10:32:06",
@@ -1199,7 +1277,7 @@
                 "target_ai": 2.09
             },
             {
-                "avg": 2.208823529411764,
+                "avg": 2.187777777777777,
                 "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=6831338(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=512&height=512&defaultOptions=1",
                 "latest_price": 1.83,
                 "latest_timestamp": "2019-11-23T10:32:13",
@@ -1217,7 +1295,7 @@
     "k10": {
         "list": [
             {
-                "avg": 2.8754838709677433,
+                "avg": 2.9040625000000015,
                 "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=4050886(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=512&height=512&defaultOptions=1",
                 "latest_price": 3.79,
                 "latest_timestamp": "2019-11-23T10:32:19",
@@ -1230,7 +1308,7 @@
                 "target_ai": 2.99
             },
             {
-                "avg": 16.830000000000005,
+                "avg": 16.585312500000004,
                 "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=5923288(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=512&height=512&defaultOptions=1",
                 "latest_price": 9.0,
                 "latest_timestamp": "2019-11-23T10:32:26",
@@ -1243,7 +1321,7 @@
                 "target_ai": 10.99
             },
             {
-                "avg": 18.658000000000005,
+                "avg": 18.37870967741936,
                 "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=6244185(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=512&height=512&defaultOptions=1",
                 "latest_price": 10.0,
                 "latest_timestamp": "2019-11-23T10:32:32",
@@ -1256,7 +1334,7 @@
                 "target_ai": 10.99
             },
             {
-                "avg": 21.36387096774194,
+                "avg": 21.086875000000003,
                 "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=6821692(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=512&height=512&defaultOptions=1",
                 "latest_price": 12.5,
                 "latest_timestamp": "2019-11-23T10:32:39",
@@ -1269,7 +1347,7 @@
                 "target_ai": 10.99
             },
             {
-                "avg": 5.410645161290323,
+                "avg": 5.422187500000001,
                 "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=5708424(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=512&height=512&defaultOptions=1",
                 "latest_price": 5.78,
                 "latest_timestamp": "2019-11-23T10:32:46",
@@ -1334,7 +1412,7 @@
                 "target_ai": 8.0
             },
             {
-                "avg": 1.590000000000001,
+                "avg": 1.5900000000000012,
                 "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=4895385(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=512&height=512&defaultOptions=1",
                 "latest_price": 1.59,
                 "latest_timestamp": "2019-11-23T10:33:28",
@@ -1347,7 +1425,7 @@
                 "target_ai": 1.5
             },
             {
-                "avg": 7.660588235294117,
+                "avg": 7.678888888888888,
                 "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=5709723(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=512&height=512&defaultOptions=1",
                 "latest_price": 7.99,
                 "latest_timestamp": "2019-11-23T10:33:34",
@@ -1360,7 +1438,7 @@
                 "target_ai": 6.99
             },
             {
-                "avg": 10.36741935483871,
+                "avg": 10.4046875,
                 "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=6938892(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=512&height=512&defaultOptions=1",
                 "latest_price": 11.56,
                 "latest_timestamp": "2019-11-23T10:33:41",
@@ -1373,7 +1451,7 @@
                 "target_ai": 10.99
             },
             {
-                "avg": 5.731935483870966,
+                "avg": 5.714999999999999,
                 "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=6938861(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=512&height=512&defaultOptions=1",
                 "latest_price": 5.19,
                 "latest_timestamp": "2019-11-23T10:33:48",
@@ -1430,7 +1508,7 @@
     "k11": {
         "list": [
             {
-                "avg": 3.8471428571428574,
+                "avg": 3.838275862068966,
                 "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=3036037(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=512&height=512&defaultOptions=1",
                 "latest_price": 3.59,
                 "latest_timestamp": "2019-11-23T10:34:14",
@@ -1456,7 +1534,7 @@
                 "target_ai": 9.99
             },
             {
-                "avg": 3.784642857142856,
+                "avg": 3.783103448275861,
                 "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=5484340(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=512&height=512&defaultOptions=1",
                 "latest_price": 3.74,
                 "latest_timestamp": "2019-11-23T10:34:27",
@@ -1469,7 +1547,7 @@
                 "target_ai": 4.99
             },
             {
-                "avg": 9.097142857142861,
+                "avg": 9.093448275862071,
                 "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=5406732(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=512&height=512&defaultOptions=1",
                 "latest_price": 8.99,
                 "latest_timestamp": "2019-11-23T10:34:34",
@@ -1482,7 +1560,7 @@
                 "target_ai": 11.99
             },
             {
-                "avg": 3.784642857142856,
+                "avg": 3.783103448275861,
                 "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=5130983(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=512&height=512&defaultOptions=1",
                 "latest_price": 3.74,
                 "latest_timestamp": "2019-11-23T10:34:41",
@@ -1495,7 +1573,7 @@
                 "target_ai": 4.99
             },
             {
-                "avg": 4.252068965517241,
+                "avg": 4.31,
                 "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=3036104(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=512&height=512&defaultOptions=1",
                 "latest_price": 5.99,
                 "latest_timestamp": "2019-11-23T10:34:47",
@@ -1508,7 +1586,7 @@
                 "target_ai": 3.99
             },
             {
-                "avg": 0.9332142857142858,
+                "avg": 0.9213793103448277,
                 "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=2050345(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=512&height=512&defaultOptions=1",
                 "latest_price": 0.59,
                 "latest_timestamp": "2019-11-23T10:34:54",
@@ -1521,7 +1599,7 @@
                 "target_ai": 0.6
             },
             {
-                "avg": 10.007857142857146,
+                "avg": 10.248620689655176,
                 "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=4247247(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=512&height=512&defaultOptions=1",
                 "latest_price": 16.99,
                 "latest_timestamp": "2019-11-23T10:35:01",
@@ -1534,7 +1612,7 @@
                 "target_ai": 8.99
             },
             {
-                "avg": 18.06142857142858,
+                "avg": 17.91413793103449,
                 "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=5198604(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=512&height=512&defaultOptions=1",
                 "latest_price": 13.79,
                 "latest_timestamp": "2019-11-23T10:35:08",
@@ -1739,7 +1817,7 @@
                 "target_ai": 12.99
             },
             {
-                "avg": 9.190000000000003,
+                "avg": 9.220769230769234,
                 "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=5031496(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=512&height=512&defaultOptions=1",
                 "latest_price": 9.99,
                 "latest_timestamp": "2019-11-23T10:36:48",
@@ -1791,7 +1869,7 @@
                 "target_ai": 31.5
             },
             {
-                "avg": 6.290000000000001,
+                "avg": 6.196896551724139,
                 "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=6917358(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=512&height=512&defaultOptions=1",
                 "latest_price": 3.59,
                 "latest_timestamp": "2019-11-23T10:37:14",
@@ -1900,7 +1978,7 @@
     "k14": {
         "list": [
             {
-                "avg": 2.732857142857143,
+                "avg": 2.721034482758621,
                 "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=4297399(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=512&height=512&defaultOptions=1",
                 "latest_price": 2.39,
                 "latest_timestamp": "2019-11-23T10:38:34",
@@ -1939,7 +2017,7 @@
                 "target_ai": 5.99
             },
             {
-                "avg": 6.490000000000001,
+                "avg": 6.369310344827587,
                 "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=6653476(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=512&height=512&defaultOptions=1",
                 "latest_price": 2.99,
                 "latest_timestamp": "2019-11-23T10:38:53",
@@ -2095,7 +2173,7 @@
                 "target_ai": 11.99
             },
             {
-                "avg": 7.99,
+                "avg": 7.990000000000001,
                 "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=3068081(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=512&height=512&defaultOptions=1",
                 "latest_price": 7.99,
                 "latest_timestamp": "2019-11-23T10:40:19",
@@ -2147,7 +2225,7 @@
                 "target_ai": 99.0
             },
             {
-                "avg": 8.439999999999998,
+                "avg": 8.28310344827586,
                 "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=5575484(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=512&height=512&defaultOptions=1",
                 "latest_price": 3.89,
                 "latest_timestamp": "2019-11-23T10:40:45",
@@ -2212,7 +2290,7 @@
                 "target_ai": 19.99
             },
             {
-                "avg": 7.204285714285716,
+                "avg": 7.300344827586209,
                 "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=6886417(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=512&height=512&defaultOptions=1",
                 "latest_price": 9.99,
                 "latest_timestamp": "2019-11-23T10:41:17",
@@ -2225,7 +2303,7 @@
                 "target_ai": 9.99
             },
             {
-                "avg": 8.807857142857141,
+                "avg": 8.95206896551724,
                 "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=6414326(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=512&height=512&defaultOptions=1",
                 "latest_price": 12.99,
                 "latest_timestamp": "2019-11-23T10:41:24",
@@ -2243,7 +2321,7 @@
     "k15": {
         "list": [
             {
-                "avg": 11.433243243243243,
+                "avg": 11.279473684210524,
                 "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=6175051(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=512&height=512&defaultOptions=1",
                 "latest_price": 5.59,
                 "latest_timestamp": "2019-11-23T10:41:31",
@@ -2256,7 +2334,7 @@
                 "target_ai": 14.99
             },
             {
-                "avg": 4.637058823529412,
+                "avg": 4.573333333333334,
                 "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=5816602(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=512&height=512&defaultOptions=1",
                 "latest_price": 3.49,
                 "latest_timestamp": "2019-11-23T10:41:37",
@@ -2282,7 +2360,7 @@
                 "target_ai": 12.99
             },
             {
-                "avg": 4.04714285714286,
+                "avg": 4.038275862068969,
                 "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=6808601(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=512&height=512&defaultOptions=1",
                 "latest_price": 3.79,
                 "latest_timestamp": "2019-11-23T10:41:50",
@@ -2295,7 +2373,7 @@
                 "target_ai": 10.99
             },
             {
-                "avg": 6.972142857142858,
+                "avg": 7.076206896551725,
                 "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=5796579(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=512&height=512&defaultOptions=1",
                 "latest_price": 9.99,
                 "latest_timestamp": "2019-11-23T10:41:57",
@@ -2321,7 +2399,7 @@
                 "target_ai": 19.99
             },
             {
-                "avg": 4.793571428571427,
+                "avg": 4.783103448275861,
                 "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=6177018(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=512&height=512&defaultOptions=1",
                 "latest_price": 4.49,
                 "latest_timestamp": "2019-11-23T10:42:11",
@@ -2334,7 +2412,7 @@
                 "target_ai": 12.99
             },
             {
-                "avg": 8.807857142857141,
+                "avg": 8.95206896551724,
                 "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=6561178(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=512&height=512&defaultOptions=1",
                 "latest_price": 12.99,
                 "latest_timestamp": "2019-11-23T10:42:18",
@@ -2630,7 +2708,7 @@
                 "target_ai": 4.69
             },
             {
-                "avg": 3.3729999999999998,
+                "avg": 3.284545454545454,
                 "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=5879789(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=512&height=512&defaultOptions=1",
                 "latest_price": 2.4,
                 "latest_timestamp": "2019-11-23T10:46:47",
@@ -2708,7 +2786,7 @@
                 "target_ai": 2.99
             },
             {
-                "avg": 2.5800000000000005,
+                "avg": 2.6809090909090916,
                 "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=6580642(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=512&height=512&defaultOptions=1",
                 "latest_price": 3.69,
                 "latest_timestamp": "2019-11-23T10:47:27",
@@ -2721,7 +2799,7 @@
                 "target_ai": 3.69
             },
             {
-                "avg": 3.69,
+                "avg": 3.6899999999999995,
                 "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=5725815(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=512&height=512&defaultOptions=1",
                 "latest_price": 3.69,
                 "latest_timestamp": "2019-11-23T10:47:33",
@@ -2734,7 +2812,7 @@
                 "target_ai": 3.69
             },
             {
-                "avg": 3.114,
+                "avg": 3.0081818181818183,
                 "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=6076576(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=512&height=512&defaultOptions=1",
                 "latest_price": 1.95,
                 "latest_timestamp": "2019-11-23T10:47:40",
@@ -2747,7 +2825,7 @@
                 "target_ai": 3.89
             },
             {
-                "avg": 1.9439999999999997,
+                "avg": 1.9445454545454544,
                 "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=6076577(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=512&height=512&defaultOptions=1",
                 "latest_price": 1.95,
                 "latest_timestamp": "2019-11-23T10:47:47",
@@ -2760,7 +2838,7 @@
                 "target_ai": 3.89
             },
             {
-                "avg": 3.3729999999999998,
+                "avg": 3.284545454545454,
                 "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=5864039(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=512&height=512&defaultOptions=1",
                 "latest_price": 2.4,
                 "latest_timestamp": "2019-11-23T10:47:54",
