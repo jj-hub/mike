@@ -132,6 +132,21 @@
                 "target": 4.29
             },
             {
+                "pid": "5670079",
+                "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=5670079",
+                "target": 2.99
+            },
+            {
+                "pid": "5879308",
+                "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=5879308",
+                "target": 3.69
+            },
+            {
+                "pid": "6701478",
+                "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=6701478",
+                "target": 2.99
+            },
+            {
                 "pid": "3900374",
                 "source": "https://www.continente.pt/stores/wells/pt-pt/public/Pages/ProductDetail.aspx?ProductId=3900374",
                 "target": 24.9
@@ -302,6 +317,11 @@
                 "target": 4.99
             },
             {
+                "pid": "6805735",
+                "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=6805735",
+                "target": 3.99
+            },
+            {
                 "pid": "2148068",
                 "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=2148068",
                 "target": 9.99
@@ -315,6 +335,16 @@
                 "pid": "4405983",
                 "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=4405983",
                 "target": 11.99
+            },
+            {
+                "pid": "6909933",
+                "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=6909933",
+                "target": 0.99
+            },
+            {
+                "pid": "5649657",
+                "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=5649657",
+                "target": 6.99
             }
         ],
         "title": "Peixaria"
