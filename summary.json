@@ -1,5 +1,5 @@
 {
-    "k01": {
+    "k010": {
         "list": [
             {
                 "avg": 3.699999999999998,
@@ -13,6 +13,21 @@
                 "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=5128100",
                 "target": 3.7,
                 "target_ai": 3.7
+            },
+            {
+                "pid": "5128101",
+                "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=5128101",
+                "target": 3.7
+            },
+            {
+                "pid": "5389332",
+                "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=5389332",
+                "target": 6.0
+            },
+            {
+                "pid": "6096654",
+                "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=6096654",
+                "target": 3.49
             },
             {
                 "avg": 282.32333333333315,
@@ -212,7 +227,7 @@
         ],
         "title": "Tema Personalizado"
     },
-    "k02": {
+    "k020": {
         "list": [
             {
                 "avg": 22.5,
@@ -451,7 +466,7 @@
         ],
         "title": "Farm\u00e1cia"
     },
-    "k03": {
+    "k030": {
         "list": [
             {
                 "avg": 12.990000000000006,
@@ -677,7 +692,7 @@
         ],
         "title": "Pequeno Almo\u00e7o"
     },
-    "k04": {
+    "k040": {
         "list": [
             {
                 "avg": 0.9477777777777779,
@@ -877,7 +892,7 @@
         ],
         "title": "Peixaria"
     },
-    "k05": {
+    "k050": {
         "list": [
             {
                 "avg": 3.9900000000000024,
@@ -921,7 +936,7 @@
         ],
         "title": "Talho"
     },
-    "k06": {
+    "k060": {
         "list": [
             {
                 "avg": 4.697692307692309,
@@ -1056,7 +1071,7 @@
         ],
         "title": "Fruta"
     },
-    "k07": {
+    "k070": {
         "list": [
             {
                 "avg": 1.6299999999999997,
@@ -1098,6 +1113,11 @@
                 "target_ai": 1.19
             },
             {
+                "pid": "5063153",
+                "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=5063153",
+                "target": 1.19
+            },
+            {
                 "avg": 1.9900000000000004,
                 "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=3618608(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=512&height=512&defaultOptions=1",
                 "latest_price": 1.99,
@@ -1113,7 +1133,7 @@
         ],
         "title": "Cozinha"
     },
-    "k08": {
+    "k080": {
         "list": [
             {
                 "avg": 3.911568627450978,
@@ -1205,11 +1225,41 @@
                 "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=6691036",
                 "target": 1.97,
                 "target_ai": 2.0
+            },
+            {
+                "pid": "6109866",
+                "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=6109866",
+                "target": 2.0
             }
         ],
         "title": "Cozinha - Frigor\u00edfico"
     },
-    "k09": {
+    "k081": {
+        "list": [
+            {
+                "pid": "6850010",
+                "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=6850010",
+                "target": 4.99
+            },
+            {
+                "pid": "2858254",
+                "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=2858254",
+                "target": 4.99
+            },
+            {
+                "pid": "6457772",
+                "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=6457772",
+                "target": 4.99
+            },
+            {
+                "pid": "6531811",
+                "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=6531811",
+                "target": 2.99
+            }
+        ],
+        "title": "Cozinha - Congelador"
+    },
+    "k090": {
         "list": [
             {
                 "avg": 1.7615789473684207,
@@ -1292,7 +1342,7 @@
         ],
         "title": "Especiarias"
     },
-    "k10": {
+    "k100": {
         "list": [
             {
                 "avg": 2.807346938775511,
@@ -1505,7 +1555,7 @@
         ],
         "title": "Lavandaria"
     },
-    "k11": {
+    "k110": {
         "list": [
             {
                 "avg": 4.030816326530608,
@@ -1627,7 +1677,7 @@
         ],
         "title": "Garrafeira - Cerveja e Sidra"
     },
-    "k12": {
+    "k120": {
         "list": [
             {
                 "avg": 99.0,
@@ -1801,7 +1851,7 @@
         ],
         "title": "Garrafeira - Vinho do Porto"
     },
-    "k13": {
+    "k130": {
         "list": [
             {
                 "avg": 9.906326530612247,
@@ -1975,7 +2025,7 @@
         ],
         "title": "Garrafeira - Vinho Verde"
     },
-    "k14": {
+    "k140": {
         "list": [
             {
                 "avg": 3.0002040816326527,
@@ -2318,7 +2368,7 @@
         ],
         "title": "Garrafeira - Vinho Tinto"
     },
-    "k15": {
+    "k150": {
         "list": [
             {
                 "avg": 11.27448275862069,
@@ -2427,7 +2477,7 @@
         ],
         "title": "Garrafeira - Vinho Branco"
     },
-    "k16": {
+    "k160": {
         "list": [
             {
                 "avg": 8.5,
@@ -2692,7 +2742,7 @@
         ],
         "title": "Garrafeira"
     },
-    "k17": {
+    "k170": {
         "list": [
             {
                 "avg": 4.218571428571429,
