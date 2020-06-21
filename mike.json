@@ -452,6 +452,11 @@
                 "target": 0.99
             },
             {
+                "pid": "2885107",
+                "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=2885107",
+                "target": 0.75
+            },
+            {
                 "pid": "4891584",
                 "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=4891584",
                 "target": 1.19
@@ -465,6 +470,11 @@
                 "pid": "3618608",
                 "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=3618608",
                 "target": 1.99
+            },
+            {
+                "pid": "2076510",
+                "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=2076510",
+                "target": 2.75
             }
         ],
         "title": "Cozinha"
@@ -535,6 +545,16 @@
                 "pid": "6531811",
                 "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=6531811",
                 "target": 2.99
+            },
+            {
+                "pid": "5784385",
+                "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=5784385",
+                "target": 10.0
+            },
+            {
+                "pid": "6089206",
+                "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=6089206",
+                "target": 5.0
             }
         ],
         "title": "Cozinha - Congelador"
@@ -1195,6 +1215,41 @@
                 "pid": "5864039",
                 "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=5864039",
                 "target": 3.99
+            },
+            {
+                "pid": "7132940",
+                "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=7132940",
+                "target": 4.59
+            },
+            {
+                "pid": "6640183",
+                "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=6640183",
+                "target": 1.89
+            },
+            {
+                "pid": "6382757",
+                "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=6382757",
+                "target": 1.49
+            },
+            {
+                "pid": "7073201",
+                "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=7073201",
+                "target": 1.39
+            },
+            {
+                "pid": "7073240",
+                "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=7073240",
+                "target": 3.89
+            },
+            {
+                "pid": "5329481",
+                "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=5329481",
+                "target": 1.89
+            },
+            {
+                "pid": "6823763",
+                "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=6823763",
+                "target": 1.89
             }
         ],
         "title": "Higiene & Limpeza"
