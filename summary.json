@@ -15,10 +15,10 @@
                 "target_ai": 3.7
             },
             {
-                "avg": 3.7,
+                "avg": 3.6999999999999997,
                 "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=5128101(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=512&height=512&defaultOptions=1",
                 "latest_price": 3.7,
-                "latest_timestamp": "2020-06-18T12:29:59",
+                "latest_timestamp": "2020-06-21T11:49:30",
                 "max": 3.7,
                 "min": 3.7,
                 "name": "Conjunto 4 Caixas Herm\u00e9ticas para Molhos 0,35lt",
@@ -31,7 +31,7 @@
                 "avg": 6.0,
                 "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=5389332(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=512&height=512&defaultOptions=1",
                 "latest_price": 6.0,
-                "latest_timestamp": "2020-06-18T12:30:05",
+                "latest_timestamp": "2020-06-21T11:49:36",
                 "max": 6.0,
                 "min": 6.0,
                 "name": "Conjunto 4 Mini Caixas Herm\u00e9ticas 0,62lt",
@@ -41,10 +41,10 @@
                 "target_ai": 6.0
             },
             {
-                "avg": 2.9680000000000004,
+                "avg": 2.868571428571429,
                 "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=6096654(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=512&height=512&defaultOptions=1",
                 "latest_price": 2.62,
-                "latest_timestamp": "2020-06-18T12:30:11",
+                "latest_timestamp": "2020-06-21T11:49:41",
                 "max": 3.49,
                 "min": 2.62,
                 "name": "Desodorizante em p\u00f3 para areia Gato",
@@ -54,10 +54,10 @@
                 "target_ai": 3.49
             },
             {
-                "avg": 277.70428571428556,
+                "avg": 276.20621621621603,
                 "image": "https://www.worten.pt/i/8b4f262522b547f282c8a48ec7a5bb17bfbf8e99.jpg",
                 "latest_price": 249.99,
-                "latest_timestamp": "2020-06-18T12:30:17",
+                "latest_timestamp": "2020-06-21T11:49:47",
                 "max": 299.99,
                 "min": 249.99,
                 "name": "Fritadeira TEFAL AH960815 Actifry Genius (Baixo teor de gordura - 1700 Kg)",
@@ -67,10 +67,10 @@
                 "target_ai": 279.99
             },
             {
-                "avg": 346.21857142857124,
-                "image": "https://www.worten.pt/i/d984461b090b4b50745b3f46ce37d5721f6a6979.jpg",
+                "avg": 346.4224324324323,
+                "image": "https://www.worten.pt/i/d984461b090b4b50745b3f46ce37d5721f6a6979",
                 "latest_price": 349.99,
-                "latest_timestamp": "2020-06-18T12:30:22",
+                "latest_timestamp": "2020-06-21T11:49:52",
                 "max": 349.99,
                 "min": 337.99,
                 "name": "Fritadeira TEFAL Actifry YV960120 (Baixo teor de gordura - 1.5 Kg)",
@@ -80,10 +80,10 @@
                 "target_ai": 349.99
             },
             {
-                "avg": 146.44714285714275,
+                "avg": 147.17918918918906,
                 "image": "https://www.worten.pt/i/4624e0ed11df9de75959f509ee60c4a3a6d0e1f2.jpg",
                 "latest_price": 159.99,
-                "latest_timestamp": "2020-06-18T12:30:28",
+                "latest_timestamp": "2020-06-21T11:50:02",
                 "max": 179.99,
                 "min": 94.99,
                 "name": "Fritadeira TEFAL FZ710015 Actifry Original (Baixo teor de gordura - 1000 Kg)",
@@ -93,10 +93,10 @@
                 "target_ai": 179.99
             },
             {
-                "avg": 192.38999999999987,
+                "avg": 192.80081081081067,
                 "image": "https://www.worten.pt/i/61611412a7ebbb4610550653036d9aa2fc530cee.jpg",
                 "latest_price": 199.99,
-                "latest_timestamp": "2020-06-18T12:30:35",
+                "latest_timestamp": "2020-06-21T11:50:08",
                 "max": 199.99,
                 "min": 161.99,
                 "name": "Fritadeira TEFAL FZ711815 Actifry (Baixo teor de gordura - 1000 g)",
@@ -106,10 +106,10 @@
                 "target_ai": 161.99
             },
             {
-                "avg": 220.38999999999987,
+                "avg": 219.28729729729716,
                 "image": "https://www.worten.pt/i/2702f6fa42e39aa9e6ec5e079eb13464edca6b30.jpg",
                 "latest_price": 199.99,
-                "latest_timestamp": "2020-06-18T12:30:47",
+                "latest_timestamp": "2020-06-21T11:50:13",
                 "max": 234.99,
                 "min": 191.99,
                 "name": "Fritadeira TEFAL FZ760015 Actifry Genius (Baixo teor de gordura - 1200 Kg)",
@@ -119,10 +119,10 @@
                 "target_ai": 191.99
             },
             {
-                "avg": 330.87571428571414,
+                "avg": 329.20621621621603,
                 "image": "https://www.worten.pt/i/8d0477b7bf5b90e576f5f6c2555931026762a1a5.jpg",
                 "latest_price": 299.99,
-                "latest_timestamp": "2020-06-18T12:30:53",
+                "latest_timestamp": "2020-06-21T11:50:19",
                 "max": 349.99,
                 "min": 274.99,
                 "name": "Fritadeira TEFAL YV970815 Actifry Genius (Baixo teor de gordura - 1,7 Kg)",
@@ -132,7 +132,7 @@
                 "target_ai": 349.99
             },
             {
-                "avg": 5.528775510204078,
+                "avg": 5.528775510204077,
                 "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=5112764(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=512&height=512&defaultOptions=1",
                 "latest_price": 5.89,
                 "latest_timestamp": "2020-01-28T07:49:45",
@@ -171,10 +171,10 @@
                 "target_ai": 7.49
             },
             {
-                "avg": 9.64116279069768,
+                "avg": 9.656666666666672,
                 "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=6316714(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=512&height=512&defaultOptions=1",
                 "latest_price": 9.99,
-                "latest_timestamp": "2020-06-18T12:31:51",
+                "latest_timestamp": "2020-06-21T11:51:16",
                 "max": 9.99,
                 "min": 7.49,
                 "name": "Corretor de Olhos Instante Anti Age Light",
@@ -223,10 +223,10 @@
                 "target_ai": 9.39
             },
             {
-                "avg": 4.0177777777777735,
+                "avg": 4.013214285714282,
                 "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=3036037(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=512&height=512&defaultOptions=1",
                 "latest_price": 3.89,
-                "latest_timestamp": "2020-06-18T12:47:57",
+                "latest_timestamp": "2020-06-21T12:08:11",
                 "max": 5.99,
                 "min": 3.59,
                 "name": "Cerveja com \u00c1lcool Preta",
@@ -236,10 +236,10 @@
                 "target_ai": 3.99
             },
             {
-                "avg": 4.386363636363633,
+                "avg": 4.36894736842105,
                 "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=3036104(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=512&height=512&defaultOptions=1",
                 "latest_price": 3.89,
-                "latest_timestamp": "2020-06-18T12:48:37",
+                "latest_timestamp": "2020-06-21T12:08:50",
                 "max": 5.99,
                 "min": 3.89,
                 "name": "Cerveja com \u00c1lcool Preta",
@@ -257,7 +257,7 @@
                 "avg": 22.5,
                 "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=3800903(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Wells)&siteId=1&channelId=2&width=512&height=512&defaultOptions=1",
                 "latest_price": 22.5,
-                "latest_timestamp": "2020-06-18T12:33:00",
+                "latest_timestamp": "2020-06-19T08:57:59",
                 "max": 22.5,
                 "min": 22.5,
                 "name": "Creme Hidratante",
@@ -267,10 +267,10 @@
                 "target_ai": 20.0
             },
             {
-                "avg": 2.489999999999999,
+                "avg": 2.4899999999999993,
                 "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=6648075(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Wells)&siteId=1&channelId=2&width=512&height=512&defaultOptions=1",
                 "latest_price": 2.49,
-                "latest_timestamp": "2020-06-18T12:33:06",
+                "latest_timestamp": "2020-06-21T11:52:41",
                 "max": 2.49,
                 "min": 2.49,
                 "name": "Arcos Dent\u00e1rios",
@@ -280,10 +280,10 @@
                 "target_ai": 2.49
             },
             {
-                "avg": 9.415999999999993,
+                "avg": 9.471228070175435,
                 "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=5662252(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Wells)&siteId=1&channelId=2&width=512&height=512&defaultOptions=1",
                 "latest_price": 10.99,
-                "latest_timestamp": "2020-06-18T12:33:12",
+                "latest_timestamp": "2020-06-21T11:52:48",
                 "max": 10.99,
                 "min": 7.96,
                 "name": "Bisolnatural 2 em 1 Crian\u00e7a e Adulto",
@@ -306,7 +306,7 @@
                 "target_ai": 4.99
             },
             {
-                "avg": 5.022653061224493,
+                "avg": 5.022653061224494,
                 "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=3071986(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=512&height=512&defaultOptions=1",
                 "latest_price": 5.09,
                 "latest_timestamp": "2020-01-28T07:50:52",
@@ -332,7 +332,7 @@
                 "target_ai": 4.99
             },
             {
-                "avg": 4.356666666666666,
+                "avg": 4.356666666666665,
                 "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=2121509(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=512&height=512&defaultOptions=1",
                 "latest_price": 4.49,
                 "latest_timestamp": "2020-01-28T07:51:02",
@@ -358,7 +358,7 @@
                 "target_ai": 4.99
             },
             {
-                "avg": 4.3627272727272715,
+                "avg": 4.362727272727271,
                 "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=2122831(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=512&height=512&defaultOptions=1",
                 "latest_price": 4.49,
                 "latest_timestamp": "2020-01-28T07:51:12",
@@ -410,10 +410,10 @@
                 "target_ai": 2.99
             },
             {
-                "avg": 24.90000000000001,
+                "avg": 24.900000000000013,
                 "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=3900374(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Wells)&siteId=1&channelId=2&width=512&height=512&defaultOptions=1",
                 "latest_price": 24.9,
-                "latest_timestamp": "2020-06-16T08:56:26",
+                "latest_timestamp": "2020-06-21T11:55:25",
                 "max": 24.9,
                 "min": 24.9,
                 "name": "Omega 3 Tripla A\u00e7\u00e3o 700Mg",
@@ -426,7 +426,7 @@
                 "avg": 2.2900000000000027,
                 "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=4964633(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Wells)&siteId=1&channelId=2&width=512&height=512&defaultOptions=1",
                 "latest_price": 2.29,
-                "latest_timestamp": "2020-06-18T12:36:07",
+                "latest_timestamp": "2020-06-21T11:55:30",
                 "max": 2.29,
                 "min": 2.29,
                 "name": "Soro Fisiol\u00f3gico",
@@ -449,10 +449,10 @@
                 "target_ai": 14.89
             },
             {
-                "avg": 13.989999999999998,
+                "avg": 13.99,
                 "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=6896814(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Wells)&siteId=1&channelId=2&width=512&height=512&defaultOptions=1",
                 "latest_price": 13.99,
-                "latest_timestamp": "2020-06-18T12:36:30",
+                "latest_timestamp": "2020-06-21T11:55:54",
                 "max": 13.99,
                 "min": 13.99,
                 "name": "Valdispert Noite Magn\u00e9sio",
@@ -493,10 +493,10 @@
     "k030": {
         "list": [
             {
-                "avg": 12.990000000000006,
+                "avg": 12.990000000000007,
                 "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=6104253(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=512&height=512&defaultOptions=1",
                 "latest_price": 12.99,
-                "latest_timestamp": "2020-06-18T12:37:10",
+                "latest_timestamp": "2020-06-21T11:56:34",
                 "max": 12.99,
                 "min": 12.99,
                 "name": "Caf\u00e9 Espresso Sical embalagem 48 C\u00e1psulas",
@@ -506,10 +506,10 @@
                 "target_ai": 12.99
             },
             {
-                "avg": 2.432592592592592,
+                "avg": 2.413214285714285,
                 "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=5181067(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=512&height=512&defaultOptions=1",
                 "latest_price": 1.89,
-                "latest_timestamp": "2020-06-18T12:37:16",
+                "latest_timestamp": "2020-06-21T11:56:40",
                 "max": 2.69,
                 "min": 1.89,
                 "name": "Bolachas Marinheiras Chia",
@@ -519,10 +519,10 @@
                 "target_ai": 1.9
             },
             {
-                "avg": 2.6031481481481475,
+                "avg": 2.5866071428571416,
                 "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=6555420(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=512&height=512&defaultOptions=1",
                 "latest_price": 2.14,
-                "latest_timestamp": "2020-06-18T12:37:21",
+                "latest_timestamp": "2020-06-21T11:56:45",
                 "max": 2.89,
                 "min": 2.14,
                 "name": "Marinheiras de Chia Bio",
@@ -532,7 +532,7 @@
                 "target_ai": 1.9
             },
             {
-                "avg": 2.4777551020408146,
+                "avg": 2.477755102040815,
                 "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=2163626(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=512&height=512&defaultOptions=1",
                 "latest_price": 2.29,
                 "latest_timestamp": "2020-01-28T07:52:40",
@@ -545,7 +545,7 @@
                 "target_ai": 2.49
             },
             {
-                "avg": 2.4777551020408146,
+                "avg": 2.477755102040815,
                 "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=2388282(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=512&height=512&defaultOptions=1",
                 "latest_price": 2.29,
                 "latest_timestamp": "2020-01-28T07:52:44",
@@ -558,10 +558,10 @@
                 "target_ai": 2.49
             },
             {
-                "avg": 3.3558536585365855,
+                "avg": 3.338837209302326,
                 "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=6231714(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=512&height=512&defaultOptions=1",
                 "latest_price": 2.99,
-                "latest_timestamp": "2020-06-18T12:38:01",
+                "latest_timestamp": "2020-06-21T11:57:25",
                 "max": 3.59,
                 "min": 2.99,
                 "name": "Caf\u00e9 Ristretto Expresso C\u00e1psulas",
@@ -571,10 +571,10 @@
                 "target_ai": 3.59
             },
             {
-                "avg": 2.963684210526317,
+                "avg": 2.9645762711864414,
                 "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=6044439(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=512&height=512&defaultOptions=1",
                 "latest_price": 2.99,
-                "latest_timestamp": "2020-06-18T12:38:06",
+                "latest_timestamp": "2020-06-21T11:57:30",
                 "max": 2.99,
                 "min": 2.69,
                 "name": "Miolo de Noz",
@@ -610,10 +610,10 @@
                 "target_ai": 2.0
             },
             {
-                "avg": 1.9354385964912286,
+                "avg": 1.9610169491525433,
                 "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=5638223(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=512&height=512&defaultOptions=1",
                 "latest_price": 2.69,
-                "latest_timestamp": "2020-06-18T12:38:47",
+                "latest_timestamp": "2020-06-21T11:58:10",
                 "max": 2.69,
                 "min": 1.59,
                 "name": "Infus\u00e3o Do the Detox",
@@ -623,10 +623,10 @@
                 "target_ai": 2.0
             },
             {
-                "avg": 1.873800000000001,
+                "avg": 1.9051923076923087,
                 "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=6691826(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=512&height=512&defaultOptions=1",
                 "latest_price": 2.69,
-                "latest_timestamp": "2020-06-18T12:38:53",
+                "latest_timestamp": "2020-06-21T11:58:15",
                 "max": 2.69,
                 "min": 1.59,
                 "name": "Infus\u00e3o Silhueta Cavalinha Pyramid",
@@ -636,10 +636,10 @@
                 "target_ai": 2.0
             },
             {
-                "avg": 14.20052631578948,
+                "avg": 14.240000000000006,
                 "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=6395041(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=512&height=512&defaultOptions=1",
                 "latest_price": 14.99,
-                "latest_timestamp": "2020-06-18T12:38:59",
+                "latest_timestamp": "2020-06-21T11:58:21",
                 "max": 14.99,
                 "min": 13.99,
                 "name": "Caf\u00e9 Espresso Sical embalagem 60 C\u00e1psulas",
@@ -662,10 +662,10 @@
                 "target_ai": 4.39
             },
             {
-                "avg": 1.8671929824561386,
+                "avg": 1.8713559322033881,
                 "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=6439065(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=512&height=512&defaultOptions=1",
                 "latest_price": 1.99,
-                "latest_timestamp": "2020-06-18T12:39:22",
+                "latest_timestamp": "2020-06-21T11:58:44",
                 "max": 1.99,
                 "min": 1.49,
                 "name": "Queijo Creme para Barrar Fresco Light",
@@ -678,7 +678,7 @@
                 "avg": 2.5900000000000025,
                 "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=6409881(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=512&height=512&defaultOptions=1",
                 "latest_price": 2.59,
-                "latest_timestamp": "2020-06-18T12:39:27",
+                "latest_timestamp": "2020-06-21T11:58:49",
                 "max": 2.59,
                 "min": 2.59,
                 "name": "Queijo Creme para Barrar Fresco Light",
@@ -688,10 +688,10 @@
                 "target_ai": 2.59
             },
             {
-                "avg": 2.8321052631578927,
+                "avg": 2.8374576271186434,
                 "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=4951044(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=512&height=512&defaultOptions=1",
                 "latest_price": 2.99,
-                "latest_timestamp": "2020-06-18T12:39:33",
+                "latest_timestamp": "2020-06-21T11:58:55",
                 "max": 2.99,
                 "min": 2.39,
                 "name": "Doce sem A\u00e7\u00facar Morango Nature",
@@ -701,10 +701,10 @@
                 "target_ai": 2.99
             },
             {
-                "avg": 3.178771929824563,
+                "avg": 3.1893220338983066,
                 "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=2410868(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=512&height=512&defaultOptions=1",
                 "latest_price": 3.49,
-                "latest_timestamp": "2020-06-18T12:39:39",
+                "latest_timestamp": "2020-06-21T11:59:01",
                 "max": 3.49,
                 "min": 2.59,
                 "name": "Doce Morango sem Adi\u00e7\u00e3o A\u00e7\u00facar",
@@ -719,10 +719,10 @@
     "k040": {
         "list": [
             {
-                "avg": 0.9320000000000002,
+                "avg": 0.9265384615384616,
                 "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=2759050(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=512&height=512&defaultOptions=1",
                 "latest_price": 0.79,
-                "latest_timestamp": "2020-06-18T12:39:46",
+                "latest_timestamp": "2020-06-21T11:59:06",
                 "max": 0.99,
                 "min": 0.79,
                 "name": "Del\u00edcias do Mar Ultracongeladas",
@@ -735,7 +735,7 @@
                 "avg": 11.990000000000007,
                 "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=6764693(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=512&height=512&defaultOptions=1",
                 "latest_price": 11.99,
-                "latest_timestamp": "2020-06-18T12:39:51",
+                "latest_timestamp": "2020-06-21T11:59:12",
                 "max": 11.99,
                 "min": 11.99,
                 "name": "Dourada Extra +1kg",
@@ -745,23 +745,23 @@
                 "target_ai": 11.99
             },
             {
-                "avg": 6.638888888888882,
+                "avg": 6.623928571428566,
                 "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=2147601(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=512&height=512&defaultOptions=1",
-                "latest_price": 6.45,
-                "latest_timestamp": "2020-06-18T12:39:57",
+                "latest_price": 5.99,
+                "latest_timestamp": "2020-06-21T11:59:17",
                 "max": 8.49,
-                "min": 6.45,
+                "min": 5.99,
                 "name": "Dourada Grande",
                 "pid": "2147601",
                 "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=2147601",
-                "target": 7.470000000000001,
+                "target": 7.24,
                 "target_ai": 6.45
             },
             {
-                "avg": 5.375090909090909,
+                "avg": 5.377719298245612,
                 "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=4636366(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=512&height=512&defaultOptions=1",
-                "latest_price": 4.99,
-                "latest_timestamp": "2020-06-18T12:40:03",
+                "latest_price": 5.45,
+                "latest_timestamp": "2020-06-21T11:59:23",
                 "max": 6.49,
                 "min": 4.99,
                 "name": "Dourada M\u00e9dia",
@@ -771,10 +771,10 @@
                 "target_ai": 4.99
             },
             {
-                "avg": 0.8426315789473683,
+                "avg": 0.8408474576271185,
                 "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=3697795(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=512&height=512&defaultOptions=1",
                 "latest_price": 0.79,
-                "latest_timestamp": "2020-06-18T12:40:08",
+                "latest_timestamp": "2020-06-21T11:59:29",
                 "max": 0.89,
                 "min": 0.79,
                 "name": "Atum ao Natural",
@@ -784,10 +784,10 @@
                 "target_ai": 0.8
             },
             {
-                "avg": 3.245555555555557,
+                "avg": 3.2542857142857153,
                 "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=4750959(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=512&height=512&defaultOptions=1",
                 "latest_price": 3.49,
-                "latest_timestamp": "2020-06-18T12:40:14",
+                "latest_timestamp": "2020-06-21T11:59:34",
                 "max": 3.49,
                 "min": 2.89,
                 "name": "Miolo Camar\u00e3o 80/100",
@@ -797,10 +797,10 @@
                 "target_ai": 2.99
             },
             {
-                "avg": 10.890000000000004,
+                "avg": 10.86804878048781,
                 "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=6340475(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=512&height=512&defaultOptions=1",
                 "latest_price": 9.99,
-                "latest_timestamp": "2020-06-18T12:40:20",
+                "latest_timestamp": "2020-06-19T09:02:46",
                 "max": 11.99,
                 "min": 9.99,
                 "name": "Robalo Extra +1 Kg",
@@ -810,10 +810,10 @@
                 "target_ai": 11.99
             },
             {
-                "avg": 6.447818181818181,
+                "avg": 6.447894736842104,
                 "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=4302565(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=512&height=512&defaultOptions=1",
                 "latest_price": 6.45,
-                "latest_timestamp": "2020-06-18T12:40:26",
+                "latest_timestamp": "2020-06-21T11:59:57",
                 "max": 8.49,
                 "min": 5.99,
                 "name": "Robalo Grande",
@@ -823,23 +823,23 @@
                 "target_ai": 6.45
             },
             {
-                "avg": 5.282727272727273,
+                "avg": 5.262982456140352,
                 "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=2147671(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=512&height=512&defaultOptions=1",
-                "latest_price": 4.99,
-                "latest_timestamp": "2020-06-18T12:40:32",
+                "latest_price": 3.99,
+                "latest_timestamp": "2020-06-21T12:00:02",
                 "max": 6.49,
-                "min": 4.99,
+                "min": 3.99,
                 "name": "Robalo M\u00e9dio (200-600 gr)",
                 "pid": "2147671",
                 "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=2147671",
-                "target": 5.74,
+                "target": 5.24,
                 "target_ai": 4.99
             },
             {
-                "avg": 3.9899999999999993,
+                "avg": 3.989999999999999,
                 "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=6805735(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=512&height=512&defaultOptions=1",
                 "latest_price": 3.99,
-                "latest_timestamp": "2020-06-18T12:40:38",
+                "latest_timestamp": "2020-06-21T12:00:08",
                 "max": 3.99,
                 "min": 3.99,
                 "name": "Salm\u00e3o Fumado",
@@ -849,10 +849,10 @@
                 "target_ai": 3.99
             },
             {
-                "avg": 8.972456140350884,
+                "avg": 8.973050847457632,
                 "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=2148068(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=512&height=512&defaultOptions=1",
                 "latest_price": 8.99,
-                "latest_timestamp": "2020-06-18T12:40:44",
+                "latest_timestamp": "2020-06-21T12:00:14",
                 "max": 9.99,
                 "min": 7.99,
                 "name": "Salm\u00e3o Inteiro",
@@ -875,10 +875,10 @@
                 "target_ai": 16.99
             },
             {
-                "avg": 9.656666666666672,
+                "avg": 9.66796610169492,
                 "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=4405983(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=512&height=512&defaultOptions=1",
                 "latest_price": 9.99,
-                "latest_timestamp": "2020-06-18T12:41:06",
+                "latest_timestamp": "2020-06-21T12:00:37",
                 "max": 11.99,
                 "min": 7.99,
                 "name": "Posta de Salm\u00e3o",
@@ -888,10 +888,10 @@
                 "target_ai": 11.99
             },
             {
-                "avg": 0.99,
+                "avg": 0.9899999999999999,
                 "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=6909933(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=512&height=512&defaultOptions=1",
                 "latest_price": 0.99,
-                "latest_timestamp": "2020-06-18T12:41:13",
+                "latest_timestamp": "2020-06-21T12:00:43",
                 "max": 0.99,
                 "min": 0.99,
                 "name": "Del\u00edcias de Salm\u00e3o Fumado sem gl\u00faten",
@@ -901,10 +901,10 @@
                 "target_ai": 0.99
             },
             {
-                "avg": 6.8580000000000005,
+                "avg": 6.786296296296297,
                 "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=5649657(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=512&height=512&defaultOptions=1",
                 "latest_price": 5.89,
-                "latest_timestamp": "2020-06-18T12:41:19",
+                "latest_timestamp": "2020-06-21T12:00:50",
                 "max": 6.99,
                 "min": 5.89,
                 "name": "Salm\u00e3o Fumado da Noruega",
@@ -922,7 +922,7 @@
                 "avg": 3.9900000000000033,
                 "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=6950358(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=512&height=512&defaultOptions=1",
                 "latest_price": 3.99,
-                "latest_timestamp": "2020-06-18T12:41:25",
+                "latest_timestamp": "2020-06-21T12:00:55",
                 "max": 3.99,
                 "min": 3.99,
                 "name": "Peito de Frango",
@@ -948,7 +948,7 @@
                 "avg": 8.990000000000006,
                 "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=2818798(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=512&height=512&defaultOptions=1",
                 "latest_price": 8.99,
-                "latest_timestamp": "2020-06-18T12:41:47",
+                "latest_timestamp": "2020-06-21T12:01:18",
                 "max": 8.99,
                 "min": 8.99,
                 "name": "Peito de Frango do Campo",
@@ -963,10 +963,10 @@
     "k060": {
         "list": [
             {
-                "avg": 4.68122807017544,
+                "avg": 4.6645762711864425,
                 "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=2076390(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=512&height=512&defaultOptions=1",
                 "latest_price": 4.19,
-                "latest_timestamp": "2020-06-18T12:41:53",
+                "latest_timestamp": "2020-06-21T12:01:24",
                 "max": 4.99,
                 "min": 4.19,
                 "name": "Abacate Hass",
@@ -979,7 +979,7 @@
                 "avg": 3.0,
                 "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=6896870(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=512&height=512&defaultOptions=1",
                 "latest_price": 3.0,
-                "latest_timestamp": "2020-06-18T12:41:59",
+                "latest_timestamp": "2020-06-21T12:01:30",
                 "max": 3.0,
                 "min": 3.0,
                 "name": "Abacate Hass",
@@ -989,10 +989,10 @@
                 "target_ai": 3.0
             },
             {
-                "avg": 1.047209302325581,
+                "avg": 1.0459999999999994,
                 "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=2597619(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=512&height=512&defaultOptions=1",
-                "latest_price": 1.05,
-                "latest_timestamp": "2020-06-18T12:42:05",
+                "latest_price": 0.99,
+                "latest_timestamp": "2020-06-21T12:01:35",
                 "max": 1.05,
                 "min": 0.99,
                 "name": "Banana Dollar",
@@ -1002,10 +1002,10 @@
                 "target_ai": 1.05
             },
             {
-                "avg": 3.5917857142857157,
+                "avg": 3.6296551724137918,
                 "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=2216170(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=512&height=512&defaultOptions=1",
                 "latest_price": 4.69,
-                "latest_timestamp": "2020-06-18T12:42:10",
+                "latest_timestamp": "2020-06-21T12:01:42",
                 "max": 4.99,
                 "min": 2.99,
                 "name": "Mam\u00e3o (Via A\u00e9rea)",
@@ -1015,10 +1015,10 @@
                 "target_ai": 3.0
             },
             {
-                "avg": 3.5917857142857157,
+                "avg": 3.6296551724137918,
                 "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=2076576(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=512&height=512&defaultOptions=1",
                 "latest_price": 4.69,
-                "latest_timestamp": "2020-06-18T12:42:16",
+                "latest_timestamp": "2020-06-21T12:01:47",
                 "max": 4.99,
                 "min": 2.99,
                 "name": "Papaia",
@@ -1028,10 +1028,10 @@
                 "target_ai": 3.0
             },
             {
-                "avg": 2.6808510638297873,
+                "avg": 2.693877551020408,
                 "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=6896876(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=512&height=512&defaultOptions=1",
                 "latest_price": 3.0,
-                "latest_timestamp": "2020-06-18T12:42:22",
+                "latest_timestamp": "2020-06-21T12:01:53",
                 "max": 3.0,
                 "min": 1.5,
                 "name": "Manga",
@@ -1041,10 +1041,10 @@
                 "target_ai": 2.99
             },
             {
-                "avg": 2.579285714285716,
+                "avg": 2.5934482758620696,
                 "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=4480831(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=512&height=512&defaultOptions=1",
                 "latest_price": 2.99,
-                "latest_timestamp": "2020-06-18T12:42:28",
+                "latest_timestamp": "2020-06-21T12:01:59",
                 "max": 2.99,
                 "min": 1.99,
                 "name": "Manga",
@@ -1054,10 +1054,10 @@
                 "target_ai": 2.99
             },
             {
-                "avg": 4.148928571428569,
+                "avg": 4.167586206896549,
                 "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=2504465(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=512&height=512&defaultOptions=1",
                 "latest_price": 4.69,
-                "latest_timestamp": "2020-06-18T12:42:33",
+                "latest_timestamp": "2020-06-21T12:02:05",
                 "max": 4.99,
                 "min": 3.29,
                 "name": "Manga Palmer",
@@ -1080,7 +1080,7 @@
                 "target_ai": 1.39
             },
             {
-                "avg": 1.685833333333333,
+                "avg": 1.6858333333333324,
                 "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=5464060(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=512&height=512&defaultOptions=1",
                 "latest_price": 1.99,
                 "latest_timestamp": "2020-06-10T12:28:09",
@@ -1098,10 +1098,10 @@
     "k070": {
         "list": [
             {
-                "avg": 1.7536363636363625,
+                "avg": 1.7478947368421043,
                 "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=4599477(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=512&height=512&defaultOptions=1",
-                "latest_price": 2.99,
-                "latest_timestamp": "2020-06-18T12:43:13",
+                "latest_price": 1.59,
+                "latest_timestamp": "2020-06-21T12:02:44",
                 "max": 2.99,
                 "min": 1.49,
                 "name": "Alho Seco",
@@ -1111,10 +1111,10 @@
                 "target_ai": 1.7
             },
             {
-                "avg": 0.981071428571429,
+                "avg": 0.9812280701754391,
                 "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=6046630(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=512&height=512&defaultOptions=1",
                 "latest_price": 0.99,
-                "latest_timestamp": "2020-06-18T12:43:19",
+                "latest_timestamp": "2020-06-19T09:04:48",
                 "max": 0.99,
                 "min": 0.89,
                 "name": "Alho Mo\u00eddo em Frasco",
@@ -1124,7 +1124,20 @@
                 "target_ai": 0.99
             },
             {
-                "avg": 1.0414285714285716,
+                "avg": 0.49,
+                "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=2885107(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=512&height=512&defaultOptions=1",
+                "latest_price": 0.49,
+                "latest_timestamp": "2020-06-21T12:03:06",
+                "max": 0.49,
+                "min": 0.49,
+                "name": "Cenoura Embalada",
+                "pid": "2885107",
+                "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=2885107",
+                "target": 0.49,
+                "target_ai": 0.75
+            },
+            {
+                "avg": 1.0414285714285714,
                 "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=4891584(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=512&height=512&defaultOptions=1",
                 "latest_price": 1.19,
                 "latest_timestamp": "2020-01-28T07:57:20",
@@ -1137,10 +1150,10 @@
                 "target_ai": 1.19
             },
             {
-                "avg": 1.0899999999999999,
+                "avg": 1.1757142857142855,
                 "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=5063153(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=512&height=512&defaultOptions=1",
                 "latest_price": 1.39,
-                "latest_timestamp": "2020-06-18T12:43:41",
+                "latest_timestamp": "2020-06-21T12:03:29",
                 "max": 1.39,
                 "min": 0.89,
                 "name": "Cebola",
@@ -1150,10 +1163,10 @@
                 "target_ai": 1.19
             },
             {
-                "avg": 1.9900000000000007,
+                "avg": 1.9900000000000004,
                 "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=3618608(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=512&height=512&defaultOptions=1",
                 "latest_price": 1.99,
-                "latest_timestamp": "2020-06-18T12:43:48",
+                "latest_timestamp": "2020-06-19T09:05:08",
                 "max": 1.99,
                 "min": 1.99,
                 "name": "Cebola",
@@ -1161,6 +1174,19 @@
                 "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=3618608",
                 "target": 1.99,
                 "target_ai": 1.99
+            },
+            {
+                "avg": 2.99,
+                "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=2076510(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=512&height=512&defaultOptions=1",
+                "latest_price": 2.99,
+                "latest_timestamp": "2020-06-21T12:03:52",
+                "max": 2.99,
+                "min": 2.99,
+                "name": "Lima",
+                "pid": "2076510",
+                "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=2076510",
+                "target": 2.99,
+                "target_ai": 2.75
             }
         ],
         "title": "Cozinha"
@@ -1168,10 +1194,10 @@
     "k080": {
         "list": [
             {
-                "avg": 3.8649999999999953,
+                "avg": 3.8348275862068926,
                 "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=6579062(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=512&height=512&defaultOptions=1",
                 "latest_price": 2.99,
-                "latest_timestamp": "2020-06-18T12:43:54",
+                "latest_timestamp": "2020-06-21T12:03:58",
                 "max": 3.99,
                 "min": 2.99,
                 "name": "Mini Babybel Light",
@@ -1181,10 +1207,10 @@
                 "target_ai": 2.99
             },
             {
-                "avg": 1.8960714285714293,
+                "avg": 1.866896551724139,
                 "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=2915648(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=512&height=512&defaultOptions=1",
                 "latest_price": 1.05,
-                "latest_timestamp": "2020-06-18T12:44:00",
+                "latest_timestamp": "2020-06-21T12:04:04",
                 "max": 2.09,
                 "min": 1.05,
                 "name": "Queijo Magro Mini",
@@ -1197,7 +1223,7 @@
                 "avg": 3.8899999999999944,
                 "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=5608649(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=512&height=512&defaultOptions=1",
                 "latest_price": 3.89,
-                "latest_timestamp": "2020-06-18T12:44:06",
+                "latest_timestamp": "2020-06-21T12:04:10",
                 "max": 3.89,
                 "min": 3.89,
                 "name": "Queijo Mini Original",
@@ -1207,10 +1233,10 @@
                 "target_ai": 2.99
             },
             {
-                "avg": 1.8596428571428556,
+                "avg": 1.8641379310344812,
                 "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=2163597(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=512&height=512&defaultOptions=1",
                 "latest_price": 1.99,
-                "latest_timestamp": "2020-06-18T12:44:12",
+                "latest_timestamp": "2020-06-21T12:04:16",
                 "max": 1.99,
                 "min": 1.49,
                 "name": "Queijo Mini Original",
@@ -1220,10 +1246,10 @@
                 "target_ai": 1.99
             },
             {
-                "avg": 1.780877192982456,
+                "avg": 1.779830508474576,
                 "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=6691078(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=512&height=512&defaultOptions=1",
                 "latest_price": 1.75,
-                "latest_timestamp": "2020-06-18T12:44:17",
+                "latest_timestamp": "2020-06-21T12:04:21",
                 "max": 2.19,
                 "min": 1.75,
                 "name": "Iogurte Magro Peda\u00e7os Coco Light&Free",
@@ -1233,10 +1259,10 @@
                 "target_ai": 2.0
             },
             {
-                "avg": 1.780877192982456,
+                "avg": 1.779830508474576,
                 "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=6691038(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=512&height=512&defaultOptions=1",
                 "latest_price": 1.75,
-                "latest_timestamp": "2020-06-18T12:44:23",
+                "latest_timestamp": "2020-06-21T12:04:27",
                 "max": 2.19,
                 "min": 1.75,
                 "name": "Iogurte Magro Peda\u00e7os Framboesa Light&Free",
@@ -1246,10 +1272,10 @@
                 "target_ai": 2.0
             },
             {
-                "avg": 1.780877192982456,
+                "avg": 1.779830508474576,
                 "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=6691036(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=512&height=512&defaultOptions=1",
                 "latest_price": 1.75,
-                "latest_timestamp": "2020-06-18T12:44:29",
+                "latest_timestamp": "2020-06-21T12:04:33",
                 "max": 2.19,
                 "min": 1.75,
                 "name": "Iogurte Magro Peda\u00e7os de P\u00eassego e Maracuj\u00e1 Light& Free",
@@ -1262,7 +1288,7 @@
                 "avg": 1.49,
                 "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=6109866(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=512&height=512&defaultOptions=1",
                 "latest_price": 1.49,
-                "latest_timestamp": "2020-06-18T12:44:35",
+                "latest_timestamp": "2020-06-21T12:04:39",
                 "max": 1.49,
                 "min": 1.49,
                 "name": "Iogurte L\u00edquido Magro Morango",
@@ -1277,10 +1303,10 @@
     "k081": {
         "list": [
             {
-                "avg": 2.99,
+                "avg": 2.9899999999999998,
                 "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=6850010(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=512&height=512&defaultOptions=1",
                 "latest_price": 2.99,
-                "latest_timestamp": "2020-06-18T12:44:40",
+                "latest_timestamp": "2020-06-21T12:04:44",
                 "max": 2.99,
                 "min": 2.99,
                 "name": "Gelado Copo Double Salted Caramel",
@@ -1290,10 +1316,10 @@
                 "target_ai": 4.99
             },
             {
-                "avg": 2.99,
+                "avg": 2.9899999999999998,
                 "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=2858254(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=512&height=512&defaultOptions=1",
                 "latest_price": 2.99,
-                "latest_timestamp": "2020-06-18T12:44:46",
+                "latest_timestamp": "2020-06-21T12:04:50",
                 "max": 2.99,
                 "min": 2.99,
                 "name": "Gelado Mini Double Caramelo/Chocolate",
@@ -1303,10 +1329,10 @@
                 "target_ai": 4.99
             },
             {
-                "avg": 2.99,
+                "avg": 2.9899999999999998,
                 "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=6457772(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=512&height=512&defaultOptions=1",
                 "latest_price": 2.99,
-                "latest_timestamp": "2020-06-18T12:44:52",
+                "latest_timestamp": "2020-06-21T12:04:55",
                 "max": 2.99,
                 "min": 2.99,
                 "name": "Gelado Mini Double de Caramelo",
@@ -1316,10 +1342,10 @@
                 "target_ai": 4.99
             },
             {
-                "avg": 2.99,
+                "avg": 2.9899999999999998,
                 "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=6531811(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=512&height=512&defaultOptions=1",
                 "latest_price": 2.99,
-                "latest_timestamp": "2020-06-18T12:44:58",
+                "latest_timestamp": "2020-06-21T12:05:01",
                 "max": 2.99,
                 "min": 2.99,
                 "name": "Morangos",
@@ -1327,6 +1353,32 @@
                 "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=6531811",
                 "target": 2.99,
                 "target_ai": 2.99
+            },
+            {
+                "avg": 17.98,
+                "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=5784385(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=512&height=512&defaultOptions=1",
+                "latest_price": 17.98,
+                "latest_timestamp": "2020-06-21T12:05:07",
+                "max": 17.98,
+                "min": 17.98,
+                "name": "Nuggets de Frango Originais",
+                "pid": "5784385",
+                "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=5784385",
+                "target": 17.98,
+                "target_ai": 10.0
+            },
+            {
+                "avg": 6.99,
+                "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=6089206(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=512&height=512&defaultOptions=1",
+                "latest_price": 6.99,
+                "latest_timestamp": "2020-06-21T12:05:13",
+                "max": 6.99,
+                "min": 6.99,
+                "name": "Nuggets de Frango Originais",
+                "pid": "6089206",
+                "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=6089206",
+                "target": 6.99,
+                "target_ai": 5.0
             }
         ],
         "title": "Cozinha - Congelador"
@@ -1334,10 +1386,10 @@
     "k090": {
         "list": [
             {
-                "avg": 1.7648837209302328,
+                "avg": 1.7660000000000007,
                 "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=6847494(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=512&height=512&defaultOptions=1",
                 "latest_price": 1.79,
-                "latest_timestamp": "2020-06-18T12:45:04",
+                "latest_timestamp": "2020-06-21T12:05:19",
                 "max": 1.79,
                 "min": 1.61,
                 "name": "Canela em Pau Saqueta",
@@ -1347,10 +1399,10 @@
                 "target_ai": 1.79
             },
             {
-                "avg": 1.0746511627906985,
+                "avg": 1.0753333333333344,
                 "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=6046632(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=512&height=512&defaultOptions=1",
                 "latest_price": 1.09,
-                "latest_timestamp": "2020-06-18T12:45:10",
+                "latest_timestamp": "2020-06-21T12:05:25",
                 "max": 1.09,
                 "min": 0.98,
                 "name": "Alho Mo\u00eddo Saqueta",
@@ -1360,10 +1412,10 @@
                 "target_ai": 1.09
             },
             {
-                "avg": 0.8876744186046507,
+                "avg": 0.8833333333333329,
                 "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=6690952(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=512&height=512&defaultOptions=1",
                 "latest_price": 0.79,
-                "latest_timestamp": "2020-06-18T12:45:15",
+                "latest_timestamp": "2020-06-21T12:05:31",
                 "max": 0.99,
                 "min": 0.79,
                 "name": "Salsa",
@@ -1373,10 +1425,10 @@
                 "target_ai": 0.79
             },
             {
-                "avg": 0.601395348837209,
+                "avg": 0.6017777777777775,
                 "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=6046669(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=512&height=512&defaultOptions=1",
                 "latest_price": 0.61,
-                "latest_timestamp": "2020-06-18T12:45:21",
+                "latest_timestamp": "2020-06-21T12:05:36",
                 "max": 0.61,
                 "min": 0.54,
                 "name": "Salsa em Folhas Saqueta",
@@ -1389,7 +1441,7 @@
                 "avg": 2.090000000000002,
                 "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=4026393(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=512&height=512&defaultOptions=1",
                 "latest_price": 2.09,
-                "latest_timestamp": "2020-06-18T12:45:27",
+                "latest_timestamp": "2020-06-21T12:05:42",
                 "max": 2.09,
                 "min": 2.09,
                 "name": "Cebolinho",
@@ -1399,10 +1451,10 @@
                 "target_ai": 2.09
             },
             {
-                "avg": 2.0579069767441864,
+                "avg": 2.068222222222223,
                 "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=6831338(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=512&height=512&defaultOptions=1",
                 "latest_price": 2.29,
-                "latest_timestamp": "2020-06-18T12:45:33",
+                "latest_timestamp": "2020-06-21T12:05:48",
                 "max": 2.29,
                 "min": 1.49,
                 "name": "Cebolinho Bio",
@@ -1430,10 +1482,10 @@
                 "target_ai": 2.99
             },
             {
-                "avg": 16.255087719298253,
+                "avg": 16.313898305084752,
                 "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=5923288(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=512&height=512&defaultOptions=1",
                 "latest_price": 17.99,
-                "latest_timestamp": "2020-06-18T12:45:56",
+                "latest_timestamp": "2020-06-21T12:06:10",
                 "max": 17.99,
                 "min": 9.0,
                 "name": "Detergente M\u00e1quina Loi\u00e7a Pastilhas Orange",
@@ -1443,10 +1495,10 @@
                 "target_ai": 10.99
             },
             {
-                "avg": 18.027678571428577,
+                "avg": 18.09534482758621,
                 "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=6244185(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=512&height=512&defaultOptions=1",
                 "latest_price": 19.99,
-                "latest_timestamp": "2020-06-18T12:46:01",
+                "latest_timestamp": "2020-06-21T12:06:16",
                 "max": 19.99,
                 "min": 10.0,
                 "name": "Detergente M\u00e1quina Loi\u00e7a Tudo em 1 Regular",
@@ -1456,10 +1508,10 @@
                 "target_ai": 10.99
             },
             {
-                "avg": 19.292280701754393,
+                "avg": 19.06203389830509,
                 "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=6821692(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=512&height=512&defaultOptions=1",
                 "latest_price": 12.5,
-                "latest_timestamp": "2020-06-18T12:46:07",
+                "latest_timestamp": "2020-06-21T12:06:21",
                 "max": 24.99,
                 "min": 9.99,
                 "name": "Detergente M\u00e1quina Loi\u00e7a Pastilhas Platinum Plus Lim\u00e3o",
@@ -1469,10 +1521,10 @@
                 "target_ai": 10.99
             },
             {
-                "avg": 5.085087719298242,
+                "avg": 5.04966101694915,
                 "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=5708424(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=512&height=512&defaultOptions=1",
                 "latest_price": 4.04,
-                "latest_timestamp": "2020-06-18T12:46:13",
+                "latest_timestamp": "2020-06-21T12:06:27",
                 "max": 5.78,
                 "min": 3.49,
                 "name": "Detergente Manual Loi\u00e7a Original",
@@ -1521,10 +1573,10 @@
                 "target_ai": 20.0
             },
             {
-                "avg": 7.904000000000001,
+                "avg": 7.907692307692309,
                 "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=2895615(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=512&height=512&defaultOptions=1",
                 "latest_price": 8.0,
-                "latest_timestamp": "2020-06-18T12:47:10",
+                "latest_timestamp": "2020-06-21T12:07:24",
                 "max": 8.0,
                 "min": 6.8,
                 "name": "Estendal Ch\u00e3o A\u00e7o Comprimento \u00datil 18mt",
@@ -1537,7 +1589,7 @@
                 "avg": 1.590000000000002,
                 "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=4895385(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=512&height=512&defaultOptions=1",
                 "latest_price": 1.59,
-                "latest_timestamp": "2020-06-18T12:47:16",
+                "latest_timestamp": "2020-06-21T12:07:30",
                 "max": 1.59,
                 "min": 1.59,
                 "name": "Sacos para Lixo 30 lt",
@@ -1547,10 +1599,10 @@
                 "target_ai": 1.5
             },
             {
-                "avg": 7.47666666666667,
+                "avg": 7.5000000000000036,
                 "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=5709723(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=512&height=512&defaultOptions=1",
                 "latest_price": 7.99,
-                "latest_timestamp": "2020-06-18T12:47:22",
+                "latest_timestamp": "2020-06-21T12:07:36",
                 "max": 7.99,
                 "min": 4.0,
                 "name": "Tira N\u00f3doas P\u00f3 Desinfetante",
@@ -1560,10 +1612,10 @@
                 "target_ai": 6.99
             },
             {
-                "avg": 10.57122807017543,
+                "avg": 10.51457627118643,
                 "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=6938892(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=512&height=512&defaultOptions=1",
                 "latest_price": 8.9,
-                "latest_timestamp": "2020-06-18T12:47:28",
+                "latest_timestamp": "2020-06-21T12:07:42",
                 "max": 17.79,
                 "min": 8.89,
                 "name": "Tira N\u00f3doas P\u00f3 Oxi Action Pink",
@@ -1573,10 +1625,10 @@
                 "target_ai": 10.99
             },
             {
-                "avg": 5.745087719298246,
+                "avg": 5.726271186440678,
                 "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=6938861(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=512&height=512&defaultOptions=1",
                 "latest_price": 5.19,
-                "latest_timestamp": "2020-06-18T12:47:33",
+                "latest_timestamp": "2020-06-21T12:07:48",
                 "max": 7.99,
                 "min": 4.0,
                 "name": "Tira N\u00f3doas P\u00f3 Oxi Action Pink",
@@ -1586,10 +1638,10 @@
                 "target_ai": 10.99
             },
             {
-                "avg": 45.32142857142857,
+                "avg": 45.37931034482759,
                 "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=6206357(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=512&height=512&defaultOptions=1",
                 "latest_price": 47.0,
-                "latest_timestamp": "2020-06-18T12:47:39",
+                "latest_timestamp": "2020-06-21T12:07:53",
                 "max": 47.0,
                 "min": 35.25,
                 "name": "Estendal 100% Alum\u00ednio Comprimento \u00datil 20mt",
@@ -1599,10 +1651,10 @@
                 "target_ai": 47.0
             },
             {
-                "avg": 23.959183673469386,
+                "avg": 24.15686274509803,
                 "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=4723486(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=512&height=512&defaultOptions=1",
                 "latest_price": 29.0,
-                "latest_timestamp": "2020-06-18T12:47:45",
+                "latest_timestamp": "2020-06-21T12:07:59",
                 "max": 29.0,
                 "min": 19.6,
                 "name": "Estendal Universal X-Legs Comprimento \u00datil 18mt",
@@ -1615,7 +1667,7 @@
                 "avg": 36.0,
                 "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=6205863(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=512&height=512&defaultOptions=1",
                 "latest_price": 36.0,
-                "latest_timestamp": "2020-06-18T12:47:51",
+                "latest_timestamp": "2020-06-21T12:08:05",
                 "max": 36.0,
                 "min": 36.0,
                 "name": "Estendal 100% Resina Comprimento \u00datil 20mt Solar",
@@ -1630,10 +1682,10 @@
     "k110": {
         "list": [
             {
-                "avg": 4.0177777777777735,
+                "avg": 4.013214285714282,
                 "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=3036037(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=512&height=512&defaultOptions=1",
                 "latest_price": 3.89,
-                "latest_timestamp": "2020-06-18T12:47:57",
+                "latest_timestamp": "2020-06-21T12:08:11",
                 "max": 5.99,
                 "min": 3.59,
                 "name": "Cerveja com \u00c1lcool Preta",
@@ -1643,7 +1695,7 @@
                 "target_ai": 3.99
             },
             {
-                "avg": 6.224313725490201,
+                "avg": 6.224313725490199,
                 "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=5549117(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=512&height=512&defaultOptions=1",
                 "latest_price": 5.98,
                 "latest_timestamp": "2020-06-15T16:05:12",
@@ -1656,10 +1708,10 @@
                 "target_ai": 9.99
             },
             {
-                "avg": 3.8094444444444466,
+                "avg": 3.806964285714288,
                 "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=5484340(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=512&height=512&defaultOptions=1",
                 "latest_price": 3.74,
-                "latest_timestamp": "2020-06-18T12:48:20",
+                "latest_timestamp": "2020-06-21T12:08:33",
                 "max": 4.99,
                 "min": 3.74,
                 "name": "Sidra com \u00c1lcool Blackberry",
@@ -1669,10 +1721,10 @@
                 "target_ai": 4.99
             },
             {
-                "avg": 9.212222222222229,
+                "avg": 9.204285714285719,
                 "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=5406732(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=512&height=512&defaultOptions=1",
                 "latest_price": 8.99,
-                "latest_timestamp": "2020-06-18T12:48:26",
+                "latest_timestamp": "2020-06-21T12:08:39",
                 "max": 11.99,
                 "min": 8.99,
                 "name": "Sidra com \u00c1lcool Ma\u00e7\u00e3",
@@ -1682,10 +1734,10 @@
                 "target_ai": 11.99
             },
             {
-                "avg": 3.8094444444444466,
+                "avg": 3.806964285714288,
                 "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=5130983(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=512&height=512&defaultOptions=1",
                 "latest_price": 3.74,
-                "latest_timestamp": "2020-06-18T12:48:31",
+                "latest_timestamp": "2020-06-21T12:08:44",
                 "max": 4.99,
                 "min": 3.74,
                 "name": "Sidra com \u00c1lcool Ma\u00e7\u00e3",
@@ -1695,10 +1747,10 @@
                 "target_ai": 4.99
             },
             {
-                "avg": 4.386363636363633,
+                "avg": 4.36894736842105,
                 "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=3036104(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=512&height=512&defaultOptions=1",
                 "latest_price": 3.89,
-                "latest_timestamp": "2020-06-18T12:48:37",
+                "latest_timestamp": "2020-06-21T12:08:50",
                 "max": 5.99,
                 "min": 3.89,
                 "name": "Cerveja com \u00c1lcool Preta",
@@ -1708,10 +1760,10 @@
                 "target_ai": 3.99
             },
             {
-                "avg": 0.8140740740740742,
+                "avg": 0.8042857142857148,
                 "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=2050345(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=512&height=512&defaultOptions=1",
                 "latest_price": 0.54,
-                "latest_timestamp": "2020-06-18T12:48:43",
+                "latest_timestamp": "2020-06-21T12:08:56",
                 "max": 1.19,
                 "min": 0.53,
                 "name": "Cerveja com \u00c1lcool Lata",
@@ -1721,10 +1773,10 @@
                 "target_ai": 0.6
             },
             {
-                "avg": 10.064074074074078,
+                "avg": 10.007857142857148,
                 "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=4247247(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=512&height=512&defaultOptions=1",
                 "latest_price": 8.49,
-                "latest_timestamp": "2020-06-18T12:48:49",
+                "latest_timestamp": "2020-06-21T12:09:01",
                 "max": 16.99,
                 "min": 8.49,
                 "name": "Cerveja com \u00c1lcool",
@@ -1734,10 +1786,10 @@
                 "target_ai": 8.99
             },
             {
-                "avg": 17.87888888888889,
+                "avg": 17.73285714285714,
                 "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=5198604(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=512&height=512&defaultOptions=1",
                 "latest_price": 13.79,
-                "latest_timestamp": "2020-06-18T12:48:54",
+                "latest_timestamp": "2020-06-21T12:09:07",
                 "max": 22.99,
                 "min": 13.79,
                 "name": "Cerveja com \u00c1lcool",
@@ -1926,10 +1978,10 @@
     "k130": {
         "list": [
             {
-                "avg": 9.382592592592594,
+                "avg": 9.207857142857145,
                 "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=6526646(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=512&height=512&defaultOptions=1",
                 "latest_price": 4.49,
-                "latest_timestamp": "2020-06-18T12:52:43",
+                "latest_timestamp": "2020-06-21T12:12:55",
                 "max": 12.99,
                 "min": 3.89,
                 "name": "Albenaz Jardim Secreto Premium DOC Vinho Verde Branco",
@@ -1965,7 +2017,7 @@
                 "target_ai": 25.8
             },
             {
-                "avg": 22.826521739130424,
+                "avg": 22.82652173913043,
                 "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=6804223(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=512&height=512&defaultOptions=1",
                 "latest_price": 24.9,
                 "latest_timestamp": "2020-01-28T08:02:27",
@@ -1991,10 +2043,10 @@
                 "target_ai": 31.5
             },
             {
-                "avg": 5.945555555555557,
+                "avg": 5.850714285714285,
                 "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=6917358(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=512&height=512&defaultOptions=1",
                 "latest_price": 3.29,
-                "latest_timestamp": "2020-06-18T12:54:00",
+                "latest_timestamp": "2020-06-21T12:14:10",
                 "max": 8.99,
                 "min": 3.29,
                 "name": "Casa Vila Verde Loureiro DOC Verde Branco",
@@ -2017,10 +2069,10 @@
                 "target_ai": 22.9
             },
             {
-                "avg": 17.240491803278694,
+                "avg": 17.293174603174606,
                 "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=2050355(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=512&height=512&defaultOptions=1",
                 "latest_price": 18.9,
-                "latest_timestamp": "2020-06-18T13:06:52",
+                "latest_timestamp": "2020-06-21T12:26:20",
                 "max": 18.9,
                 "min": 16.99,
                 "name": "Pal\u00e1cio Da Brejoeira Alvarinho DOC Vinho Verde Branco",
@@ -2043,7 +2095,7 @@
                 "target_ai": 17.5
             },
             {
-                "avg": 15.136956521739139,
+                "avg": 15.136956521739142,
                 "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=5448330(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=512&height=512&defaultOptions=1",
                 "latest_price": 16.5,
                 "latest_timestamp": "2020-01-28T08:03:06",
@@ -2100,10 +2152,10 @@
     "k140": {
         "list": [
             {
-                "avg": 3.0825925925925906,
+                "avg": 3.076785714285713,
                 "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=4297399(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=512&height=512&defaultOptions=1",
-                "latest_price": 3.89,
-                "latest_timestamp": "2020-06-18T12:55:55",
+                "latest_price": 2.92,
+                "latest_timestamp": "2020-06-21T12:16:04",
                 "max": 3.89,
                 "min": 2.39,
                 "name": "Adega De Borba DOC Alentejo Tinto",
@@ -2126,10 +2178,10 @@
                 "target_ai": 79.0
             },
             {
-                "avg": 5.845555555555559,
+                "avg": 5.8507142857142895,
                 "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=5339630(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=512&height=512&defaultOptions=1",
                 "latest_price": 5.99,
-                "latest_timestamp": "2020-06-18T12:56:18",
+                "latest_timestamp": "2020-06-21T12:16:26",
                 "max": 5.99,
                 "min": 4.49,
                 "name": "Castello D'Alba DOC Tinto Douro",
@@ -2139,10 +2191,10 @@
                 "target_ai": 5.99
             },
             {
-                "avg": 5.656666666666671,
+                "avg": 5.579285714285719,
                 "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=6653476(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=512&height=512&defaultOptions=1",
                 "latest_price": 3.49,
-                "latest_timestamp": "2020-06-18T12:56:24",
+                "latest_timestamp": "2020-06-21T12:16:32",
                 "max": 9.99,
                 "min": 2.99,
                 "name": "Colete Velho Premium Regional Tejo Tinto",
@@ -2243,10 +2295,10 @@
                 "target_ai": 64.5
             },
             {
-                "avg": 10.849259259259266,
+                "avg": 10.943571428571435,
                 "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=5129833(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=512&height=512&defaultOptions=1",
-                "latest_price": 17.99,
-                "latest_timestamp": "2020-06-18T12:58:39",
+                "latest_price": 13.49,
+                "latest_timestamp": "2020-06-21T12:18:38",
                 "max": 17.99,
                 "min": 6.99,
                 "name": "Granja Amareleja Premium DOC Alentejo Tinto",
@@ -2256,10 +2308,10 @@
                 "target_ai": 17.99
             },
             {
-                "avg": 10.48038461538462,
+                "avg": 10.332592592592597,
                 "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=2051409(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=512&height=512&defaultOptions=1",
                 "latest_price": 6.49,
-                "latest_timestamp": "2020-06-18T12:58:45",
+                "latest_timestamp": "2020-06-21T12:18:43",
                 "max": 14.99,
                 "min": 5.99,
                 "name": "Granja Amareleja Reserva DOC Alentejo Tinto",
@@ -2269,10 +2321,10 @@
                 "target_ai": 14.99
             },
             {
-                "avg": 6.466190476190469,
+                "avg": 6.439230769230763,
                 "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=6037014(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=512&height=512&defaultOptions=1",
                 "latest_price": 5.59,
-                "latest_timestamp": "2020-06-18T12:58:51",
+                "latest_timestamp": "2020-06-21T12:18:49",
                 "max": 14.99,
                 "min": 4.99,
                 "name": "Guarda Rios Signature Regional Alentejano Tinto",
@@ -2295,10 +2347,10 @@
                 "target_ai": 11.99
             },
             {
-                "avg": 7.676956521739132,
+                "avg": 7.542000000000001,
                 "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=3068081(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=512&height=512&defaultOptions=1",
-                "latest_price": 6.39,
-                "latest_timestamp": "2020-01-28T08:05:55",
+                "latest_price": 5.99,
+                "latest_timestamp": "2020-06-21T12:19:12",
                 "max": 7.99,
                 "min": 5.99,
                 "name": "Herdade do Peso DOC Tinto Alentejo",
@@ -2321,10 +2373,10 @@
                 "target_ai": 94.5
             },
             {
-                "avg": 3.323333333333335,
+                "avg": 3.3114285714285736,
                 "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=5273143(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=512&height=512&defaultOptions=1",
                 "latest_price": 2.99,
-                "latest_timestamp": "2020-06-18T12:59:49",
+                "latest_timestamp": "2020-06-21T12:19:34",
                 "max": 5.99,
                 "min": 2.99,
                 "name": "Monte Dos Amigos Regional Alentejano Tinto",
@@ -2347,10 +2399,10 @@
                 "target_ai": 99.0
             },
             {
-                "avg": 7.321481481481483,
+                "avg": 7.209642857142856,
                 "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=5575484(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=512&height=512&defaultOptions=1",
                 "latest_price": 4.19,
-                "latest_timestamp": "2020-06-18T13:00:13",
+                "latest_timestamp": "2020-06-21T12:19:58",
                 "max": 12.99,
                 "min": 3.89,
                 "name": "Rovisco Pais Premium Regional Pen\u00ednsula De Set\u00fabal Tinto",
@@ -2360,10 +2412,10 @@
                 "target_ai": 12.99
             },
             {
-                "avg": 3.462222222222224,
+                "avg": 3.4632142857142876,
                 "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=5575493(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=512&height=512&defaultOptions=1",
                 "latest_price": 3.49,
-                "latest_timestamp": "2020-06-18T13:00:19",
+                "latest_timestamp": "2020-06-21T12:20:04",
                 "max": 3.49,
                 "min": 2.99,
                 "name": "Sobreiro De Peg\u00f5es Premium Regional Pen\u00ednsula De Set\u00fabal Tinto",
@@ -2373,10 +2425,10 @@
                 "target_ai": 9.99
             },
             {
-                "avg": 4.5788888888888835,
+                "avg": 4.557857142857138,
                 "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=5795289(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=512&height=512&defaultOptions=1",
                 "latest_price": 3.99,
-                "latest_timestamp": "2020-06-18T13:00:25",
+                "latest_timestamp": "2020-06-21T12:20:09",
                 "max": 12.99,
                 "min": 3.89,
                 "name": "Tapada Das Lebres Reserva Regional Alentejano Tinto",
@@ -2399,10 +2451,10 @@
                 "target_ai": 70.0
             },
             {
-                "avg": 10.397407407407414,
+                "avg": 10.561428571428578,
                 "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=6057873(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=512&height=512&defaultOptions=1",
-                "latest_price": 19.99,
-                "latest_timestamp": "2020-06-18T13:00:47",
+                "latest_price": 14.99,
+                "latest_timestamp": "2020-06-21T12:20:32",
                 "max": 19.99,
                 "min": 6.99,
                 "name": "Vidigueira Premium DOC Alentejo Tinto",
@@ -2412,10 +2464,10 @@
                 "target_ai": 19.99
             },
             {
-                "avg": 6.818000000000003,
+                "avg": 6.728461538461541,
                 "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=6886417(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=512&height=512&defaultOptions=1",
                 "latest_price": 4.49,
-                "latest_timestamp": "2020-06-18T13:00:53",
+                "latest_timestamp": "2020-06-21T12:20:38",
                 "max": 9.99,
                 "min": 3.89,
                 "name": "Vimioso Premium Regional Tejo Tinto",
@@ -2425,10 +2477,10 @@
                 "target_ai": 9.99
             },
             {
-                "avg": 7.88074074074074,
+                "avg": 7.7596428571428575,
                 "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=6414326(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=512&height=512&defaultOptions=1",
                 "latest_price": 4.49,
-                "latest_timestamp": "2020-06-18T13:00:59",
+                "latest_timestamp": "2020-06-21T12:20:44",
                 "max": 12.99,
                 "min": 3.89,
                 "name": "Vinhas Da Coutada Velha Regional Alentejano Tinto",
@@ -2443,10 +2495,10 @@
     "k150": {
         "list": [
             {
-                "avg": 10.823333333333338,
+                "avg": 10.6623076923077,
                 "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=6175051(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=512&height=512&defaultOptions=1",
                 "latest_price": 5.59,
-                "latest_timestamp": "2020-06-18T13:01:05",
+                "latest_timestamp": "2020-06-21T12:20:49",
                 "max": 14.99,
                 "min": 4.99,
                 "name": "Guarda Rios Signature Regional Alentejano Branco",
@@ -2456,10 +2508,10 @@
                 "target_ai": 14.99
             },
             {
-                "avg": 4.478372093023258,
+                "avg": 4.434444444444446,
                 "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=5816602(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=512&height=512&defaultOptions=1",
                 "latest_price": 3.49,
-                "latest_timestamp": "2020-06-18T13:01:11",
+                "latest_timestamp": "2020-06-21T12:20:55",
                 "max": 9.99,
                 "min": 2.99,
                 "name": "Sobreiro De Peg\u00f5es Premium Regional Pen\u00ednsula De Set\u00fabal Branco",
@@ -2469,10 +2521,10 @@
                 "target_ai": 9.99
             },
             {
-                "avg": 4.5788888888888835,
+                "avg": 4.557857142857138,
                 "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=6168148(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=512&height=512&defaultOptions=1",
                 "latest_price": 3.99,
-                "latest_timestamp": "2020-06-18T13:01:17",
+                "latest_timestamp": "2020-06-21T12:21:01",
                 "max": 12.99,
                 "min": 3.89,
                 "name": "Tapada Das Lebres Reserva Premium Regional Alentejano Branco",
@@ -2482,10 +2534,10 @@
                 "target_ai": 12.99
             },
             {
-                "avg": 5.152962962962963,
+                "avg": 5.111428571428573,
                 "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=6808601(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=512&height=512&defaultOptions=1",
                 "latest_price": 3.99,
-                "latest_timestamp": "2020-06-18T13:01:23",
+                "latest_timestamp": "2020-06-21T12:21:06",
                 "max": 10.99,
                 "min": 3.79,
                 "name": "Vidigueira Ant\u00e3o Vaz Premium DOC Alentejo Branco",
@@ -2495,10 +2547,10 @@
                 "target_ai": 10.99
             },
             {
-                "avg": 6.046603773584912,
+                "avg": 5.953636363636368,
                 "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=5796579(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=512&height=512&defaultOptions=1",
                 "latest_price": 3.49,
-                "latest_timestamp": "2020-06-18T13:01:29",
+                "latest_timestamp": "2020-06-21T12:21:12",
                 "max": 9.99,
                 "min": 2.99,
                 "name": "Vidigueira Premium DOC Alentejo Branco",
@@ -2508,10 +2560,10 @@
                 "target_ai": 9.99
             },
             {
-                "avg": 8.685652173913047,
+                "avg": 8.690000000000007,
                 "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=6589014(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=512&height=512&defaultOptions=1",
-                "latest_price": 6.99,
-                "latest_timestamp": "2020-01-28T08:07:23",
+                "latest_price": 8.79,
+                "latest_timestamp": "2020-06-21T12:21:17",
                 "max": 19.99,
                 "min": 6.99,
                 "name": "Vidigueira Premium Doc Alentejo Vinho Branco",
@@ -2521,10 +2573,10 @@
                 "target_ai": 19.99
             },
             {
-                "avg": 5.591851851851856,
+                "avg": 5.552500000000005,
                 "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=6177018(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=512&height=512&defaultOptions=1",
                 "latest_price": 4.49,
-                "latest_timestamp": "2020-06-18T13:01:52",
+                "latest_timestamp": "2020-06-21T12:21:23",
                 "max": 12.99,
                 "min": 4.49,
                 "name": "Vinha Da Valentina Premium Regional Pen\u00ednsula De Set\u00fabal Branco",
@@ -2534,10 +2586,10 @@
                 "target_ai": 12.99
             },
             {
-                "avg": 7.88074074074074,
+                "avg": 7.7596428571428575,
                 "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=6561178(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=512&height=512&defaultOptions=1",
                 "latest_price": 4.49,
-                "latest_timestamp": "2020-06-18T13:01:58",
+                "latest_timestamp": "2020-06-21T12:21:29",
                 "max": 12.99,
                 "min": 3.89,
                 "name": "Vinha Da Coutada Velha Regional Alentejano Branco",
@@ -2760,10 +2812,10 @@
                 "target_ai": 45.18
             },
             {
-                "avg": 8.197547169811326,
+                "avg": 8.171818181818187,
                 "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=5723446(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=512&height=512&defaultOptions=1",
                 "latest_price": 7.49,
-                "latest_timestamp": "2020-06-18T13:06:41",
+                "latest_timestamp": "2020-06-21T12:26:09",
                 "max": 14.99,
                 "min": 7.49,
                 "name": "Dow's Trademark Vinho do Porto Reserve",
@@ -2773,10 +2825,10 @@
                 "target_ai": 14.99
             },
             {
-                "avg": 5.740943396226418,
+                "avg": 5.735454545454548,
                 "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=6858444(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=512&height=512&defaultOptions=1",
                 "latest_price": 5.59,
-                "latest_timestamp": "2020-06-18T13:06:46",
+                "latest_timestamp": "2020-06-21T12:26:15",
                 "max": 15.99,
                 "min": 4.79,
                 "name": "Duas Encostas Signature D\u00e3o Branco",
@@ -2786,10 +2838,10 @@
                 "target_ai": 15.99
             },
             {
-                "avg": 17.240491803278694,
+                "avg": 17.293174603174606,
                 "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=2050355(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=512&height=512&defaultOptions=1",
                 "latest_price": 18.9,
-                "latest_timestamp": "2020-06-18T13:06:52",
+                "latest_timestamp": "2020-06-21T12:26:20",
                 "max": 18.9,
                 "min": 16.99,
                 "name": "Pal\u00e1cio Da Brejoeira Alvarinho DOC Vinho Verde Branco",
@@ -2799,7 +2851,7 @@
                 "target_ai": 16.99
             },
             {
-                "avg": 10.759230769230774,
+                "avg": 10.759230769230776,
                 "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=6966320(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=512&height=512&defaultOptions=1",
                 "latest_price": 9.99,
                 "latest_timestamp": "2020-06-16T09:32:54",
@@ -2817,7 +2869,7 @@
     "k170": {
         "list": [
             {
-                "avg": 4.218571428571429,
+                "avg": 4.218571428571428,
                 "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=5707354(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=512&height=512&defaultOptions=1",
                 "latest_price": 3.04,
                 "latest_timestamp": "2020-01-28T08:11:44",
@@ -2830,10 +2882,10 @@
                 "target_ai": 4.69
             },
             {
-                "avg": 3.10888888888889,
+                "avg": 3.0710526315789473,
                 "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=5879789(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=512&height=512&defaultOptions=1",
                 "latest_price": 2.39,
-                "latest_timestamp": "2020-06-18T13:07:33",
+                "latest_timestamp": "2020-06-21T12:27:01",
                 "max": 3.99,
                 "min": 2.39,
                 "name": "Desodorizante Spray Invisible Black + White Clothes",
@@ -2843,7 +2895,7 @@
                 "target_ai": 3.99
             },
             {
-                "avg": 9.27714285714286,
+                "avg": 9.277142857142861,
                 "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=5708071(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=512&height=512&defaultOptions=1",
                 "latest_price": 9.99,
                 "latest_timestamp": "2020-01-28T08:11:54",
@@ -2869,7 +2921,7 @@
                 "target_ai": 8.19
             },
             {
-                "avg": 3.4499999999999993,
+                "avg": 3.4499999999999997,
                 "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=3612810(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=512&height=512&defaultOptions=1",
                 "latest_price": 4.49,
                 "latest_timestamp": "2020-01-28T08:12:04",
@@ -2882,10 +2934,10 @@
                 "target_ai": 4.49
             },
             {
-                "avg": 3.6566666666666663,
+                "avg": 3.6584210526315784,
                 "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=4689008(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=512&height=512&defaultOptions=1",
                 "latest_price": 3.69,
-                "latest_timestamp": "2020-06-18T13:08:32",
+                "latest_timestamp": "2020-06-21T12:27:58",
                 "max": 3.69,
                 "min": 3.59,
                 "name": "Desodorizante Spray Homem Cool Kick",
@@ -2895,10 +2947,10 @@
                 "target_ai": 3.59
             },
             {
-                "avg": 2.989999999999999,
+                "avg": 2.9899999999999984,
                 "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=4689007(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=512&height=512&defaultOptions=1",
                 "latest_price": 2.99,
-                "latest_timestamp": "2020-06-18T13:08:38",
+                "latest_timestamp": "2020-06-21T12:28:04",
                 "max": 2.99,
                 "min": 2.99,
                 "name": "Desodorizante Spray Homem Dry Impact",
@@ -2921,7 +2973,7 @@
                 "target_ai": 3.69
             },
             {
-                "avg": 3.1000000000000005,
+                "avg": 3.099999999999999,
                 "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=5725815(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=512&height=512&defaultOptions=1",
                 "latest_price": 3.99,
                 "latest_timestamp": "2020-01-28T08:12:34",
@@ -2934,10 +2986,10 @@
                 "target_ai": 3.69
             },
             {
-                "avg": 3.324444444444444,
+                "avg": 3.3594736842105264,
                 "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=6076576(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=512&height=512&defaultOptions=1",
                 "latest_price": 3.99,
-                "latest_timestamp": "2020-06-18T13:09:19",
+                "latest_timestamp": "2020-06-21T12:28:44",
                 "max": 3.99,
                 "min": 1.95,
                 "name": "Desodorizante Spray Black & White Active",
@@ -2947,10 +2999,10 @@
                 "target_ai": 3.89
             },
             {
-                "avg": 2.9994444444444444,
+                "avg": 3.0515789473684207,
                 "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=6076577(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=512&height=512&defaultOptions=1",
                 "latest_price": 3.99,
-                "latest_timestamp": "2020-06-18T13:09:25",
+                "latest_timestamp": "2020-06-21T12:28:49",
                 "max": 3.99,
                 "min": 1.94,
                 "name": "Desodorizante Spray Men Black & White Active",
@@ -2960,10 +3012,10 @@
                 "target_ai": 3.89
             },
             {
-                "avg": 3.10888888888889,
+                "avg": 3.0710526315789473,
                 "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=5864039(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=512&height=512&defaultOptions=1",
                 "latest_price": 2.39,
-                "latest_timestamp": "2020-06-18T13:09:32",
+                "latest_timestamp": "2020-06-21T12:28:55",
                 "max": 3.99,
                 "min": 2.39,
                 "name": "Desodorizante Spray Men Invisible Black + White Clothes",
@@ -2971,6 +3023,97 @@
                 "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=5864039",
                 "target": 3.1900000000000004,
                 "target_ai": 3.99
+            },
+            {
+                "avg": 4.59,
+                "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=7132940(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=512&height=512&defaultOptions=1",
+                "latest_price": 4.59,
+                "latest_timestamp": "2020-06-21T12:29:01",
+                "max": 4.59,
+                "min": 4.59,
+                "name": "Toalhitas Desinfetantes Multiusos",
+                "pid": "7132940",
+                "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=7132940",
+                "target": 4.59,
+                "target_ai": 4.59
+            },
+            {
+                "avg": 1.04,
+                "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=6640183(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=512&height=512&defaultOptions=1",
+                "latest_price": 1.04,
+                "latest_timestamp": "2020-06-21T12:29:06",
+                "max": 1.04,
+                "min": 1.04,
+                "name": "Toalhitas Fresh&Natural com Tampa",
+                "pid": "6640183",
+                "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=6640183",
+                "target": 1.04,
+                "target_ai": 1.89
+            },
+            {
+                "avg": 1.49,
+                "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=6382757(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=512&height=512&defaultOptions=1",
+                "latest_price": 1.49,
+                "latest_timestamp": "2020-06-21T12:29:12",
+                "max": 1.49,
+                "min": 1.49,
+                "name": "Toalhitas Limpa M\u00f3veis",
+                "pid": "6382757",
+                "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=6382757",
+                "target": 1.49,
+                "target_ai": 1.49
+            },
+            {
+                "avg": 1.39,
+                "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=7073201(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=512&height=512&defaultOptions=1",
+                "latest_price": 1.39,
+                "latest_timestamp": "2020-06-21T12:29:18",
+                "max": 1.39,
+                "min": 1.39,
+                "name": "Toalhitas Pure H2O Continente",
+                "pid": "7073201",
+                "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=7073201",
+                "target": 1.39,
+                "target_ai": 1.39
+            },
+            {
+                "avg": 3.99,
+                "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=7073240(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=512&height=512&defaultOptions=1",
+                "latest_price": 3.99,
+                "latest_timestamp": "2020-06-21T12:29:24",
+                "max": 3.99,
+                "min": 3.99,
+                "name": "Toalhitas Pure H2O Continente",
+                "pid": "7073240",
+                "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=7073240",
+                "target": 3.99,
+                "target_ai": 3.89
+            },
+            {
+                "avg": 1.99,
+                "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=5329481(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=512&height=512&defaultOptions=1",
+                "latest_price": 1.99,
+                "latest_timestamp": "2020-06-21T12:29:29",
+                "max": 1.99,
+                "min": 1.99,
+                "name": "Toalhitas para Beb\u00e9",
+                "pid": "5329481",
+                "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=5329481",
+                "target": 1.99,
+                "target_ai": 1.89
+            },
+            {
+                "avg": 1.99,
+                "image": "https://media.continente.pt/Sonae.eGlobal.Presentation.Web.Media/media.axd?resourceSearchType=2&resource=ProductId=6823763(eCsf$RetekProductCatalog$MegastoreContinenteOnline$Continente)&siteId=1&channelId=1&width=512&height=512&defaultOptions=1",
+                "latest_price": 1.99,
+                "latest_timestamp": "2020-06-21T12:29:35",
+                "max": 1.99,
+                "min": 1.99,
+                "name": "Toalhitas \u00cdntimas Suave",
+                "pid": "6823763",
+                "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=6823763",
+                "target": 1.99,
+                "target_ai": 1.89
             }
         ],
         "title": "Higiene & Limpeza"
