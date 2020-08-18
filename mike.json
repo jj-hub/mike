@@ -837,6 +837,11 @@
                 "target": 22.9
             },
             {
+                "pid": "2050440",
+                "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=2050440",
+                "target": 4.19
+            },
+            {
                 "pid": "2050355",
                 "source": "https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=2050355",
                 "target": 16.99
