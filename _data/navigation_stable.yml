@@ -1,9 +1,12 @@
 - name: Monthly - Checks
   description: 
-  link: /mike/about.html
+  link: ./about
+  style: style="color:gray"
 - name: Quarterly - BEST - Checks
   description: 
-  link: /mike/blog.html
+  link: ./blog
+  style: style="color:gray"
 - name: Quarterly - REITS - Checks
   description: 
-  link: /mike/blog.html
+  link: ./index
+  style: style="color:gray"

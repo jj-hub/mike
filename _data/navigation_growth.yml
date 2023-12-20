@@ -1,6 +1,6 @@
 - name: Check Open Windows
   description: Identify current window opportunities
-  link: ./
+  link: ./index
   style: style="color:gray"
 - name: Do Validity Checklist - //Scoring
   description: Before purchase perform this pilot checklist/scoring
