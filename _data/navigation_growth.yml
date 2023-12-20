@@ -1,0 +1,9 @@
+- name: Check Open Windows
+  description: Identify current window opportunities
+  link: ./
+- name: Do Validity Checklist - //Scoring
+  description: Before purchase perform this pilot checklist/scoring
+  link: ./
+- name: Inspect Declaration Date Predictions
+  description: Days past and Average declaration window, for non specific
+  link: ./
