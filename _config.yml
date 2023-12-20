@@ -8,7 +8,7 @@ url: ""
 # Build settings
 lsi: false
 safe: true
-source: /
+#source: /
 incremental: false
 highlighter: rouge
 gist:
@@ -17,6 +17,6 @@ kramdown:
   math_engine: mathjax
   syntax_highlighter: rouge
 
-theme: minima
-plugins:
- - jekyll-feed
+#theme: minima
+#plugins:
+# - jekyll-feed
