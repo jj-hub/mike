@@ -52,7 +52,7 @@
     <ul class="nav flex-column mb-auto">
       {% for item in site.data.navigation_growth %}
       <li class="nav-item">
-        <a class="nav-link d-flex align-items-center gap-2" href="{{ item.link }}">
+        <a class="nav-link d-flex align-items-center gap-2" href="{{ item.link }}" {{ item.style }}>
           <svg class="bi"><use xlink:href="#file-earmark-text"/></svg>
           {{ item.name }} {% if page.url contains item.link %} --X-- {% endif %}
         </a>
@@ -69,7 +69,7 @@
     <ul class="nav flex-column mb-auto">
       {% for item in site.data.navigation_stable %}
       <li class="nav-item">
-        <a class="nav-link d-flex align-items-center gap-2" href="{{ item.link }}">
+        <a class="nav-link d-flex align-items-center gap-2" href="{{ item.link }}" {{ item.style }}>
           <svg class="bi"><use xlink:href="#file-earmark-text"/></svg>
           {{ item.name }} {% if page.url contains item.link %} --X-- {% endif %}
         </a>

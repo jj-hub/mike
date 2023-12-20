@@ -14,7 +14,8 @@ my_number: 5
 <h3>Dividend growth during the past 2 years?</h3>
 
 <h2>Is this a well known Brand?</h2>
-- REIT?
-- BEEST?
+- Coke?
+- McD?
+- FL
 <h3>Do you personally consume?</h3>
 <h3>How is the debt?</h3>
