@@ -1,4 +1,6 @@
 ---
+# front matter tells Jekyll to process Liquid
+my_number: 5
 ---
 
 Welcome to My New Home Page
@@ -7,3 +9,4 @@ Welcome to My New Home Page
 
 - Original date - {{ date }}
 - With timeago filter - {{ date | timeago }}
+- {{ page.my_number }}
