@@ -1,6 +1,8 @@
-- name: Home
+- name: Open Windows
   link: /mike
-- name: About
+- name: Monthly
   link: /mike/about.html
-- name: Blog
+- name: Quarterly - BEST
+  link: /mike/blog.html
+- name: Quarterly - REITS
   link: /mike/blog.html
