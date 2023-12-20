@@ -1,4 +1,11 @@
+# custom variables, available in the templates via {{ site.myvariable }}
 title: "Jekyll Actions Demo"
+email: ""
+description: ""
+baseurl: ""
+url: ""
+
+# Build settings
 lsi: false
 safe: true
 source: /
@@ -9,3 +16,7 @@ gist:
 kramdown:
   math_engine: mathjax
   syntax_highlighter: rouge
+
+theme: minima
+plugins:
+ - jekyll-feed
