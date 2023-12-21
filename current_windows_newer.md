@@ -4,7 +4,7 @@ layout: default
 title: Current Windows Newest
 my_number: 5
 ---
-<h2>Newest (ordered by declaration date)</h2>
+<h2>Newest (ordered by declaration date TTL:65 + ROI > 1.234)</h2>
 {% include current_dividend_window_chart_oPast_cROI.html  %}
 
 <h4>Cheapest/Affordable (ordered by closing price)</h4>
