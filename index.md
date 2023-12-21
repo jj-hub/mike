@@ -4,8 +4,6 @@ layout: default
 title: Index
 my_number: 5
 ---
-<h2>Section title</h2>
-{% include filename.html  %}
 <h2>What is the stock type?</h2>
 - REIT?
 - BEEST?
