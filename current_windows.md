@@ -1,13 +1,17 @@
 ---
 # front matter tells Jekyll to process Liquid
 layout: default
-title: Current Windows
+title: Current Windows Newest
 my_number: 5
 ---
-<h2>Current Windows</h2>
-{% include current_dividend_window_chart_by_cpD_sorted.html  %}
+<h2>Newest</h2>
+{% include current_dividend_window_chart_oPast_cROI.html  %}
 
-<h4>Amount</h4>
-{% include current_dividend_window_chart_by_amount.html  %}
-<h4>CpD</h4>
-{% include current_dividend_window_chart_by_cpD.html  %}
+<h4>Cheapest/Affordable</h4>
+{% include current_dividend_window_chart_oPreviousClose_cROI.html.html  %}
+
+<h4>by ROI</h4>
+{% include current_dividend_window_chart_oROI_cROI.html  %}
+
+<h4>dividend_history_chart</h4>
+{% include dividend_history_chart_oROI_cROI.html.html  %}

@@ -1,6 +1,6 @@
 - name: Check Open Windows
   description: Identify current window opportunities
-  link: ./current_windows
+  link: ./current_windows_newest
   style: style="color:white"
 - name: Do Validity Checklist - //Scoring
   description: Before purchase perform this pilot checklist/scoring
@@ -10,3 +10,7 @@
   description: Days past and Average declaration window, for non specific
   link: ./
   style: style="color:gray"
+- name: Cheap Strategy
+  description: Which ones are cheaper?
+  link: ./current_windows_cheaper
+  style: style="color:white"
