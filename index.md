@@ -18,26 +18,23 @@ my_number: 5
 <h3>Do you personally consume?</h3>
 <h3>How is the debt?</h3>
 
+<ul>
 {% for post in site.posts %}
-  <article>
-    <h2>
+  <li>
+    
       <a href="{{ post.url }}">
         {{ post.title }}
       </a>
-    </h2>
-    <time datetime="{{ post.date | date: "%Y-%m-%d" }}">{{ post.date | date_to_long_string }}</time>
-    {{ post.content }}
-  </article>
+    
+  </li>
 {% endfor %}
-
+</ul>
+<ul>
 {% for page in site.pages %}
-  <article>
-    <h2>
+  <li>
       <a href="{{ page.url }}">
         {{ page.title }}
       </a>
-    </h2>
-    <time datetime="{{ page.date | date: "%Y-%m-%d" }}">{{ page.date | date_to_long_string }}</time>
-    {{ page.content }}
-  </article>
+  </li>
 {% endfor %}
+</ul>
