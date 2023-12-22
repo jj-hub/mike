@@ -1,22 +1,12 @@
 
-Markdown File Example
-=====================
+#
+=
   
 
-|A|B|
-| :---: | :---: |
-|[(AQN) NASDAQ Summary](https://www.nasdaq.com/market-activity/stocks/AQN)|[(AQN) NASDAQ Summary (json)](https://api.nasdaq.com/api/quote/AQN/summary?assetclass=stocks)|
-|[(AQN) NASDAQ Dividends](https://www.nasdaq.com/market-activity/stocks/AQN/dividend-history)|[(AQN) NASDAQ Dividends (json)](https://api.nasdaq.com/api/quote/AQN/dividends?assetclass=stocks)|
-|[(AQN) dividend.com](https://www.dividend.com/search/?q=AQN)|[(NYSE:AQN) tradingview.com](https://www.tradingview.com/chart/?symbol=NYSE%3AAQN)|
-|[(BGS) NASDAQ Summary](https://www.nasdaq.com/market-activity/stocks/BGS)|[(BGS) NASDAQ Summary (json)](https://api.nasdaq.com/api/quote/BGS/summary?assetclass=stocks)|
-|[(BGS) NASDAQ Dividends](https://www.nasdaq.com/market-activity/stocks/BGS/dividend-history)|[(BGS) NASDAQ Dividends (json)](https://api.nasdaq.com/api/quote/BGS/dividends?assetclass=stocks)|
-|[(BGS) dividend.com](https://www.dividend.com/search/?q=BGS)|[(NYSE:BGS) tradingview.com](https://www.tradingview.com/chart/?symbol=NYSE%3ABGS)|
-|[(RITM) NASDAQ Summary](https://www.nasdaq.com/market-activity/stocks/RITM)|[(RITM) NASDAQ Summary (json)](https://api.nasdaq.com/api/quote/RITM/summary?assetclass=stocks)|
-|[(RITM) NASDAQ Dividends](https://www.nasdaq.com/market-activity/stocks/RITM/dividend-history)|[(RITM) NASDAQ Dividends (json)](https://api.nasdaq.com/api/quote/RITM/dividends?assetclass=stocks)|
-|[(RITM) dividend.com](https://www.dividend.com/search/?q=RITM)|[(NYSE:RITM) tradingview.com](https://www.tradingview.com/chart/?symbol=NYSE%3ARITM)|
-|[(ARI) NASDAQ Summary](https://www.nasdaq.com/market-activity/stocks/ARI)|[(ARI) NASDAQ Summary (json)](https://api.nasdaq.com/api/quote/ARI/summary?assetclass=stocks)|
-|[(ARI) NASDAQ Dividends](https://www.nasdaq.com/market-activity/stocks/ARI/dividend-history)|[(ARI) NASDAQ Dividends (json)](https://api.nasdaq.com/api/quote/ARI/dividends?assetclass=stocks)|
-|[(ARI) dividend.com](https://www.dividend.com/search/?q=ARI)|[(NYSE:ARI) tradingview.com](https://www.tradingview.com/chart/?symbol=NYSE%3AARI)|
-|[(DOC) NASDAQ Summary](https://www.nasdaq.com/market-activity/stocks/DOC)|[(DOC) NASDAQ Summary (json)](https://api.nasdaq.com/api/quote/DOC/summary?assetclass=stocks)|
-|[(DOC) NASDAQ Dividends](https://www.nasdaq.com/market-activity/stocks/DOC/dividend-history)|[(DOC) NASDAQ Dividends (json)](https://api.nasdaq.com/api/quote/DOC/dividends?assetclass=stocks)|
-|[(DOC) dividend.com](https://www.dividend.com/search/?q=DOC)|[(NYSE:DOC) tradingview.com](https://www.tradingview.com/chart/?symbol=NYSE%3ADOC)|
+|1.Stock|2.Exchange|3.TV|4.DIV|5.n.Summary|6.n.Dividends|7.API 1|8.API 2|
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+|1-AQN|2-NYSE|3-[tradingview.com](https://www.tradingview.com/chart/?symbol=NYSE%3AAQN)|4-[dividend.com](https://www.dividend.com/search/?q=AQN)|5-Summary: [html](https://www.nasdaq.com/market-activity/stocks/AQN)|6-History: [html](https://www.nasdaq.com/market-activity/stocks/AQN/dividend-history)|7-Summary: [json](https://api.nasdaq.com/api/quote/AQN/summary?assetclass=stocks)|8-History: [json](https://api.nasdaq.com/api/quote/AQN/dividends?assetclass=stocks)|
+|1-BGS|2-NYSE|3-[tradingview.com](https://www.tradingview.com/chart/?symbol=NYSE%3ABGS)|4-[dividend.com](https://www.dividend.com/search/?q=BGS)|5-Summary: [html](https://www.nasdaq.com/market-activity/stocks/BGS)|6-History: [html](https://www.nasdaq.com/market-activity/stocks/BGS/dividend-history)|7-Summary: [json](https://api.nasdaq.com/api/quote/BGS/summary?assetclass=stocks)|8-History: [json](https://api.nasdaq.com/api/quote/BGS/dividends?assetclass=stocks)|
+|1-RITM|2-NYSE|3-[tradingview.com](https://www.tradingview.com/chart/?symbol=NYSE%3ARITM)|4-[dividend.com](https://www.dividend.com/search/?q=RITM)|5-Summary: [html](https://www.nasdaq.com/market-activity/stocks/RITM)|6-History: [html](https://www.nasdaq.com/market-activity/stocks/RITM/dividend-history)|7-Summary: [json](https://api.nasdaq.com/api/quote/RITM/summary?assetclass=stocks)|8-History: [json](https://api.nasdaq.com/api/quote/RITM/dividends?assetclass=stocks)|
+|1-ARI|2-NYSE|3-[tradingview.com](https://www.tradingview.com/chart/?symbol=NYSE%3AARI)|4-[dividend.com](https://www.dividend.com/search/?q=ARI)|5-Summary: [html](https://www.nasdaq.com/market-activity/stocks/ARI)|6-History: [html](https://www.nasdaq.com/market-activity/stocks/ARI/dividend-history)|7-Summary: [json](https://api.nasdaq.com/api/quote/ARI/summary?assetclass=stocks)|8-History: [json](https://api.nasdaq.com/api/quote/ARI/dividends?assetclass=stocks)|
+|1-DOC|2-NYSE|3-[tradingview.com](https://www.tradingview.com/chart/?symbol=NYSE%3ADOC)|4-[dividend.com](https://www.dividend.com/search/?q=DOC)|5-Summary: [html](https://www.nasdaq.com/market-activity/stocks/DOC)|6-History: [html](https://www.nasdaq.com/market-activity/stocks/DOC/dividend-history)|7-Summary: [json](https://api.nasdaq.com/api/quote/DOC/summary?assetclass=stocks)|8-History: [json](https://api.nasdaq.com/api/quote/DOC/dividends?assetclass=stocks)|

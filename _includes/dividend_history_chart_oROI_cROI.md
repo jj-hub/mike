@@ -1,22 +1,12 @@
 
-Markdown File Example
-=====================
+#
+=
   
 
-|A|B|
-| :---: | :---: |
-|[(GAIN) NASDAQ Summary](https://www.nasdaq.com/market-activity/stocks/GAIN)|[(GAIN) NASDAQ Summary (json)](https://api.nasdaq.com/api/quote/GAIN/summary?assetclass=stocks)|
-|[(GAIN) NASDAQ Dividends](https://www.nasdaq.com/market-activity/stocks/GAIN/dividend-history)|[(GAIN) NASDAQ Dividends (json)](https://api.nasdaq.com/api/quote/GAIN/dividends?assetclass=stocks)|
-|[(GAIN) dividend.com](https://www.dividend.com/search/?q=GAIN)|[(NASDAQ-GS:GAIN) tradingview.com](https://www.tradingview.com/chart/?symbol=NASDAQ-GS%3AGAIN)|
-|[(SBSW) NASDAQ Summary](https://www.nasdaq.com/market-activity/stocks/SBSW)|[(SBSW) NASDAQ Summary (json)](https://api.nasdaq.com/api/quote/SBSW/summary?assetclass=stocks)|
-|[(SBSW) NASDAQ Dividends](https://www.nasdaq.com/market-activity/stocks/SBSW/dividend-history)|[(SBSW) NASDAQ Dividends (json)](https://api.nasdaq.com/api/quote/SBSW/dividends?assetclass=stocks)|
-|[(SBSW) dividend.com](https://www.dividend.com/search/?q=SBSW)|[(NYSE:SBSW) tradingview.com](https://www.tradingview.com/chart/?symbol=NYSE%3ASBSW)|
-|[(ABR) NASDAQ Summary](https://www.nasdaq.com/market-activity/stocks/ABR)|[(ABR) NASDAQ Summary (json)](https://api.nasdaq.com/api/quote/ABR/summary?assetclass=stocks)|
-|[(ABR) NASDAQ Dividends](https://www.nasdaq.com/market-activity/stocks/ABR/dividend-history)|[(ABR) NASDAQ Dividends (json)](https://api.nasdaq.com/api/quote/ABR/dividends?assetclass=stocks)|
-|[(ABR) dividend.com](https://www.dividend.com/search/?q=ABR)|[(NYSE:ABR) tradingview.com](https://www.tradingview.com/chart/?symbol=NYSE%3AABR)|
-|[(ABR) NASDAQ Summary](https://www.nasdaq.com/market-activity/stocks/ABR)|[(ABR) NASDAQ Summary (json)](https://api.nasdaq.com/api/quote/ABR/summary?assetclass=stocks)|
-|[(ABR) NASDAQ Dividends](https://www.nasdaq.com/market-activity/stocks/ABR/dividend-history)|[(ABR) NASDAQ Dividends (json)](https://api.nasdaq.com/api/quote/ABR/dividends?assetclass=stocks)|
-|[(ABR) dividend.com](https://www.dividend.com/search/?q=ABR)|[(NYSE:ABR) tradingview.com](https://www.tradingview.com/chart/?symbol=NYSE%3AABR)|
-|[(ABR) NASDAQ Summary](https://www.nasdaq.com/market-activity/stocks/ABR)|[(ABR) NASDAQ Summary (json)](https://api.nasdaq.com/api/quote/ABR/summary?assetclass=stocks)|
-|[(ABR) NASDAQ Dividends](https://www.nasdaq.com/market-activity/stocks/ABR/dividend-history)|[(ABR) NASDAQ Dividends (json)](https://api.nasdaq.com/api/quote/ABR/dividends?assetclass=stocks)|
-|[(ABR) dividend.com](https://www.dividend.com/search/?q=ABR)|[(NYSE:ABR) tradingview.com](https://www.tradingview.com/chart/?symbol=NYSE%3AABR)|
+|1.Stock|2.Exchange|3.TV|4.DIV|5.n.Summary|6.n.Dividends|7.API 1|8.API 2|
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+|1-GAIN|2-NASDAQ-GS|3-[tradingview.com](https://www.tradingview.com/chart/?symbol=NASDAQ-GS%3AGAIN)|4-[dividend.com](https://www.dividend.com/search/?q=GAIN)|5-Summary: [html](https://www.nasdaq.com/market-activity/stocks/GAIN)|6-History: [html](https://www.nasdaq.com/market-activity/stocks/GAIN/dividend-history)|7-Summary: [json](https://api.nasdaq.com/api/quote/GAIN/summary?assetclass=stocks)|8-History: [json](https://api.nasdaq.com/api/quote/GAIN/dividends?assetclass=stocks)|
+|1-SBSW|2-NYSE|3-[tradingview.com](https://www.tradingview.com/chart/?symbol=NYSE%3ASBSW)|4-[dividend.com](https://www.dividend.com/search/?q=SBSW)|5-Summary: [html](https://www.nasdaq.com/market-activity/stocks/SBSW)|6-History: [html](https://www.nasdaq.com/market-activity/stocks/SBSW/dividend-history)|7-Summary: [json](https://api.nasdaq.com/api/quote/SBSW/summary?assetclass=stocks)|8-History: [json](https://api.nasdaq.com/api/quote/SBSW/dividends?assetclass=stocks)|
+|1-ABR|2-NYSE|3-[tradingview.com](https://www.tradingview.com/chart/?symbol=NYSE%3AABR)|4-[dividend.com](https://www.dividend.com/search/?q=ABR)|5-Summary: [html](https://www.nasdaq.com/market-activity/stocks/ABR)|6-History: [html](https://www.nasdaq.com/market-activity/stocks/ABR/dividend-history)|7-Summary: [json](https://api.nasdaq.com/api/quote/ABR/summary?assetclass=stocks)|8-History: [json](https://api.nasdaq.com/api/quote/ABR/dividends?assetclass=stocks)|
+|1-ABR|2-NYSE|3-[tradingview.com](https://www.tradingview.com/chart/?symbol=NYSE%3AABR)|4-[dividend.com](https://www.dividend.com/search/?q=ABR)|5-Summary: [html](https://www.nasdaq.com/market-activity/stocks/ABR)|6-History: [html](https://www.nasdaq.com/market-activity/stocks/ABR/dividend-history)|7-Summary: [json](https://api.nasdaq.com/api/quote/ABR/summary?assetclass=stocks)|8-History: [json](https://api.nasdaq.com/api/quote/ABR/dividends?assetclass=stocks)|
+|1-ABR|2-NYSE|3-[tradingview.com](https://www.tradingview.com/chart/?symbol=NYSE%3AABR)|4-[dividend.com](https://www.dividend.com/search/?q=ABR)|5-Summary: [html](https://www.nasdaq.com/market-activity/stocks/ABR)|6-History: [html](https://www.nasdaq.com/market-activity/stocks/ABR/dividend-history)|7-Summary: [json](https://api.nasdaq.com/api/quote/ABR/summary?assetclass=stocks)|8-History: [json](https://api.nasdaq.com/api/quote/ABR/dividends?assetclass=stocks)|
