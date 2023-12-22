@@ -10,3 +10,15 @@
   description: 
   link: ./index
   style: style="color:gray"
+- name: Fav/REITS/ABR
+  description: 
+  link: ./abr
+  style: style="color:gray"
+- name: Fav/REITS/GAIN
+  description: 
+  link: ./GAIN
+  style: style="color:gray"
+- name: Fav/REITS/ODBC
+  description: 
+  link: ./ODBC
+  style: style="color:gray"
