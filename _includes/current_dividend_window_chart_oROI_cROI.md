@@ -1,22 +1,12 @@
 
-Markdown File Example
-=====================
+#
+=
   
 
-|A|B|
-| :---: | :---: |
-|[(ATHM) NASDAQ Summary](https://www.nasdaq.com/market-activity/stocks/ATHM)|[(ATHM) NASDAQ Summary (json)](https://api.nasdaq.com/api/quote/ATHM/summary?assetclass=stocks)|
-|[(ATHM) NASDAQ Dividends](https://www.nasdaq.com/market-activity/stocks/ATHM/dividend-history)|[(ATHM) NASDAQ Dividends (json)](https://api.nasdaq.com/api/quote/ATHM/dividends?assetclass=stocks)|
-|[(ATHM) dividend.com](https://www.dividend.com/search/?q=ATHM)|[(NYSE:ATHM) tradingview.com](https://www.tradingview.com/chart/?symbol=NYSE%3AATHM)|
-|[(CIB) NASDAQ Summary](https://www.nasdaq.com/market-activity/stocks/CIB)|[(CIB) NASDAQ Summary (json)](https://api.nasdaq.com/api/quote/CIB/summary?assetclass=stocks)|
-|[(CIB) NASDAQ Dividends](https://www.nasdaq.com/market-activity/stocks/CIB/dividend-history)|[(CIB) NASDAQ Dividends (json)](https://api.nasdaq.com/api/quote/CIB/dividends?assetclass=stocks)|
-|[(CIB) dividend.com](https://www.dividend.com/search/?q=CIB)|[(NYSE:CIB) tradingview.com](https://www.tradingview.com/chart/?symbol=NYSE%3ACIB)|
-|[(ARI) NASDAQ Summary](https://www.nasdaq.com/market-activity/stocks/ARI)|[(ARI) NASDAQ Summary (json)](https://api.nasdaq.com/api/quote/ARI/summary?assetclass=stocks)|
-|[(ARI) NASDAQ Dividends](https://www.nasdaq.com/market-activity/stocks/ARI/dividend-history)|[(ARI) NASDAQ Dividends (json)](https://api.nasdaq.com/api/quote/ARI/dividends?assetclass=stocks)|
-|[(ARI) dividend.com](https://www.dividend.com/search/?q=ARI)|[(NYSE:ARI) tradingview.com](https://www.tradingview.com/chart/?symbol=NYSE%3AARI)|
-|[(BXMT) NASDAQ Summary](https://www.nasdaq.com/market-activity/stocks/BXMT)|[(BXMT) NASDAQ Summary (json)](https://api.nasdaq.com/api/quote/BXMT/summary?assetclass=stocks)|
-|[(BXMT) NASDAQ Dividends](https://www.nasdaq.com/market-activity/stocks/BXMT/dividend-history)|[(BXMT) NASDAQ Dividends (json)](https://api.nasdaq.com/api/quote/BXMT/dividends?assetclass=stocks)|
-|[(BXMT) dividend.com](https://www.dividend.com/search/?q=BXMT)|[(NYSE:BXMT) tradingview.com](https://www.tradingview.com/chart/?symbol=NYSE%3ABXMT)|
-|[(PMT) NASDAQ Summary](https://www.nasdaq.com/market-activity/stocks/PMT)|[(PMT) NASDAQ Summary (json)](https://api.nasdaq.com/api/quote/PMT/summary?assetclass=stocks)|
-|[(PMT) NASDAQ Dividends](https://www.nasdaq.com/market-activity/stocks/PMT/dividend-history)|[(PMT) NASDAQ Dividends (json)](https://api.nasdaq.com/api/quote/PMT/dividends?assetclass=stocks)|
-|[(PMT) dividend.com](https://www.dividend.com/search/?q=PMT)|[(NYSE:PMT) tradingview.com](https://www.tradingview.com/chart/?symbol=NYSE%3APMT)|
+|1.Stock|2.Exchange|3.TV|4.DIV|5.n.Summary|6.n.Dividends|7.API 1|8.API 2|
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+|1-ATHM|2-NYSE|3-[tradingview.com](https://www.tradingview.com/chart/?symbol=NYSE%3AATHM)|4-[dividend.com](https://www.dividend.com/search/?q=ATHM)|5-Summary: [html](https://www.nasdaq.com/market-activity/stocks/ATHM)|6-History: [html](https://www.nasdaq.com/market-activity/stocks/ATHM/dividend-history)|7-Summary: [json](https://api.nasdaq.com/api/quote/ATHM/summary?assetclass=stocks)|8-History: [json](https://api.nasdaq.com/api/quote/ATHM/dividends?assetclass=stocks)|
+|1-CIB|2-NYSE|3-[tradingview.com](https://www.tradingview.com/chart/?symbol=NYSE%3ACIB)|4-[dividend.com](https://www.dividend.com/search/?q=CIB)|5-Summary: [html](https://www.nasdaq.com/market-activity/stocks/CIB)|6-History: [html](https://www.nasdaq.com/market-activity/stocks/CIB/dividend-history)|7-Summary: [json](https://api.nasdaq.com/api/quote/CIB/summary?assetclass=stocks)|8-History: [json](https://api.nasdaq.com/api/quote/CIB/dividends?assetclass=stocks)|
+|1-ARI|2-NYSE|3-[tradingview.com](https://www.tradingview.com/chart/?symbol=NYSE%3AARI)|4-[dividend.com](https://www.dividend.com/search/?q=ARI)|5-Summary: [html](https://www.nasdaq.com/market-activity/stocks/ARI)|6-History: [html](https://www.nasdaq.com/market-activity/stocks/ARI/dividend-history)|7-Summary: [json](https://api.nasdaq.com/api/quote/ARI/summary?assetclass=stocks)|8-History: [json](https://api.nasdaq.com/api/quote/ARI/dividends?assetclass=stocks)|
+|1-BXMT|2-NYSE|3-[tradingview.com](https://www.tradingview.com/chart/?symbol=NYSE%3ABXMT)|4-[dividend.com](https://www.dividend.com/search/?q=BXMT)|5-Summary: [html](https://www.nasdaq.com/market-activity/stocks/BXMT)|6-History: [html](https://www.nasdaq.com/market-activity/stocks/BXMT/dividend-history)|7-Summary: [json](https://api.nasdaq.com/api/quote/BXMT/summary?assetclass=stocks)|8-History: [json](https://api.nasdaq.com/api/quote/BXMT/dividends?assetclass=stocks)|
+|1-PMT|2-NYSE|3-[tradingview.com](https://www.tradingview.com/chart/?symbol=NYSE%3APMT)|4-[dividend.com](https://www.dividend.com/search/?q=PMT)|5-Summary: [html](https://www.nasdaq.com/market-activity/stocks/PMT)|6-History: [html](https://www.nasdaq.com/market-activity/stocks/PMT/dividend-history)|7-Summary: [json](https://api.nasdaq.com/api/quote/PMT/summary?assetclass=stocks)|8-History: [json](https://api.nasdaq.com/api/quote/PMT/dividends?assetclass=stocks)|
