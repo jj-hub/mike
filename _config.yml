@@ -5,6 +5,8 @@ description: ""
 baseurl: ""
 url: ""
 
+include: ['_pages','sym']
+
 # Build settings
 lsi: false
 safe: true
