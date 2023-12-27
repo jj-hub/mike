@@ -5,7 +5,7 @@ description: ""
 baseurl: ""
 url: ""
 
-include: ['_pages','sym']
+include: ['_pages','v','ss']
 
 # Build settings
 lsi: false
