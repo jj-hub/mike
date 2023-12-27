@@ -1,0 +1,12 @@
+
+#
+=
+  
+
+|1.Stock|2.Exchange|3.TV|4.DIV|5.n.Summary|6.n.Dividends|7.API 1|8.API 2|
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+|1-DOC|2-NYSE|3-[tradingview.com](https://www.tradingview.com/chart/?symbol=NYSE%3ADOC)|4-[dividend.com](https://www.dividend.com/search/?q=DOC)|5-Summary: [html](https://www.nasdaq.com/market-activity/stocks/DOC)|6-History: [html](https://www.nasdaq.com/market-activity/stocks/DOC/dividend-history)|7-Summary: [json](https://api.nasdaq.com/api/quote/DOC/summary?assetclass=stocks)|8-History: [json](https://api.nasdaq.com/api/quote/DOC/dividends?assetclass=stocks)|
+|1-BXP|2-NYSE|3-[tradingview.com](https://www.tradingview.com/chart/?symbol=NYSE%3ABXP)|4-[dividend.com](https://www.dividend.com/search/?q=BXP)|5-Summary: [html](https://www.nasdaq.com/market-activity/stocks/BXP)|6-History: [html](https://www.nasdaq.com/market-activity/stocks/BXP/dividend-history)|7-Summary: [json](https://api.nasdaq.com/api/quote/BXP/summary?assetclass=stocks)|8-History: [json](https://api.nasdaq.com/api/quote/BXP/dividends?assetclass=stocks)|
+|1-STWD|2-NYSE|3-[tradingview.com](https://www.tradingview.com/chart/?symbol=NYSE%3ASTWD)|4-[dividend.com](https://www.dividend.com/search/?q=STWD)|5-Summary: [html](https://www.nasdaq.com/market-activity/stocks/STWD)|6-History: [html](https://www.nasdaq.com/market-activity/stocks/STWD/dividend-history)|7-Summary: [json](https://api.nasdaq.com/api/quote/STWD/summary?assetclass=stocks)|8-History: [json](https://api.nasdaq.com/api/quote/STWD/dividends?assetclass=stocks)|
+|1-BXMT|2-NYSE|3-[tradingview.com](https://www.tradingview.com/chart/?symbol=NYSE%3ABXMT)|4-[dividend.com](https://www.dividend.com/search/?q=BXMT)|5-Summary: [html](https://www.nasdaq.com/market-activity/stocks/BXMT)|6-History: [html](https://www.nasdaq.com/market-activity/stocks/BXMT/dividend-history)|7-Summary: [json](https://api.nasdaq.com/api/quote/BXMT/summary?assetclass=stocks)|8-History: [json](https://api.nasdaq.com/api/quote/BXMT/dividends?assetclass=stocks)|
+|1-PFE|2-NYSE|3-[tradingview.com](https://www.tradingview.com/chart/?symbol=NYSE%3APFE)|4-[dividend.com](https://www.dividend.com/search/?q=PFE)|5-Summary: [html](https://www.nasdaq.com/market-activity/stocks/PFE)|6-History: [html](https://www.nasdaq.com/market-activity/stocks/PFE/dividend-history)|7-Summary: [json](https://api.nasdaq.com/api/quote/PFE/summary?assetclass=stocks)|8-History: [json](https://api.nasdaq.com/api/quote/PFE/dividends?assetclass=stocks)|

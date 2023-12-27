@@ -1,0 +1,12 @@
+
+#
+=
+  
+
+|1.Stock|2.Exchange|3.TV|4.DIV|5.n.Summary|6.n.Dividends|7.API 1|8.API 2|
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+|1-ATHM|2-NYSE|3-[tradingview.com](https://www.tradingview.com/chart/?symbol=NYSE%3AATHM)|4-[dividend.com](https://www.dividend.com/search/?q=ATHM)|5-Summary: [html](https://www.nasdaq.com/market-activity/stocks/ATHM)|6-History: [html](https://www.nasdaq.com/market-activity/stocks/ATHM/dividend-history)|7-Summary: [json](https://api.nasdaq.com/api/quote/ATHM/summary?assetclass=stocks)|8-History: [json](https://api.nasdaq.com/api/quote/ATHM/dividends?assetclass=stocks)|
+|1-ARI|2-NYSE|3-[tradingview.com](https://www.tradingview.com/chart/?symbol=NYSE%3AARI)|4-[dividend.com](https://www.dividend.com/search/?q=ARI)|5-Summary: [html](https://www.nasdaq.com/market-activity/stocks/ARI)|6-History: [html](https://www.nasdaq.com/market-activity/stocks/ARI/dividend-history)|7-Summary: [json](https://api.nasdaq.com/api/quote/ARI/summary?assetclass=stocks)|8-History: [json](https://api.nasdaq.com/api/quote/ARI/dividends?assetclass=stocks)|
+|1-BXMT|2-NYSE|3-[tradingview.com](https://www.tradingview.com/chart/?symbol=NYSE%3ABXMT)|4-[dividend.com](https://www.dividend.com/search/?q=BXMT)|5-Summary: [html](https://www.nasdaq.com/market-activity/stocks/BXMT)|6-History: [html](https://www.nasdaq.com/market-activity/stocks/BXMT/dividend-history)|7-Summary: [json](https://api.nasdaq.com/api/quote/BXMT/summary?assetclass=stocks)|8-History: [json](https://api.nasdaq.com/api/quote/BXMT/dividends?assetclass=stocks)|
+|1-PMT|2-NYSE|3-[tradingview.com](https://www.tradingview.com/chart/?symbol=NYSE%3APMT)|4-[dividend.com](https://www.dividend.com/search/?q=PMT)|5-Summary: [html](https://www.nasdaq.com/market-activity/stocks/PMT)|6-History: [html](https://www.nasdaq.com/market-activity/stocks/PMT/dividend-history)|7-Summary: [json](https://api.nasdaq.com/api/quote/PMT/summary?assetclass=stocks)|8-History: [json](https://api.nasdaq.com/api/quote/PMT/dividends?assetclass=stocks)|
+|1-RITM|2-NYSE|3-[tradingview.com](https://www.tradingview.com/chart/?symbol=NYSE%3ARITM)|4-[dividend.com](https://www.dividend.com/search/?q=RITM)|5-Summary: [html](https://www.nasdaq.com/market-activity/stocks/RITM)|6-History: [html](https://www.nasdaq.com/market-activity/stocks/RITM/dividend-history)|7-Summary: [json](https://api.nasdaq.com/api/quote/RITM/summary?assetclass=stocks)|8-History: [json](https://api.nasdaq.com/api/quote/RITM/dividends?assetclass=stocks)|
