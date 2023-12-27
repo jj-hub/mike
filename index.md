@@ -20,8 +20,8 @@ my_number: 5
 BUY 
 2. Check Open Windows
 <ul>
-  <li><a target="_blank" href="/mike/current_windows_newer"></a>Newer</li>
-  <li><a target="_blank" href="/mike/current_windows_cheaper"></a>Cheaper</li>
+  <li><a target="_blank" href="/mike/current_windows_newer">Newer</a></li>
+  <li><a target="_blank" href="/mike/current_windows_cheaper">Cheaper</a></li>
 </ul>
 <h5>What is the stock type?</h5>
 <ul>
