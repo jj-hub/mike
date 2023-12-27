@@ -10,7 +10,7 @@ my_number: 5
   <li><a target="_blank" href="https://jj-hub.github.io/mike/current_windows_newer"></a>Newer</li>
   <li><a target="_blank" href="https://jj-hub.github.io/mike/current_windows_cheaper"></a>Cheaper</li>
 </ul>
-<h2>What is the stock type?</h2>
+<h5>What is the stock type?</h5>
 <ul>
   <li><a target="_blank" href="https://jj-hub.github.io/mike/ss/my_selection.ss">Portfolio</a></li>
   <li><a target="_blank" href="https://jj-hub.github.io/mike/ss/energy.ss">Energy</a></li>
@@ -20,17 +20,22 @@ my_number: 5
   <li><a target="_blank" href="https://jj-hub.github.io/mike/ss/utilities.ss">Utilities</a></li>
 </ul>
 
-<h2>Historic View</h2>
-<h3>Number of Dividends in the past 2 years?</h3>
-<h3>Dividend growth during the past 2 years?</h3>
+<h5>Historic View</h2>
+<h6>Number of Dividends in the past 2 years?</h6>
+<h6>Dividend growth during the past 2 years?</h6>
 
-<h2>Is this a well known Brand?</h2>
+<h5>Is this a well known Brand?</h5>
 - Coke? FL
 - McD?
 - EDP?
-<h3>Do you personally consume?</h3>
-<h3>How is the debt?</h3>
+<h6>Do you personally consume?</h6>
+<h6>How is the debt?</h6>
 -------------------------------------------
+<h5>Sets</h2>
+<h6>Best/Worst Performers d/w/m</h6>
+<h6>...</h6>
+-------------------------------------------
+
 <ul>
 {% for post in site.posts %}
   <li>
