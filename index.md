@@ -4,7 +4,7 @@ layout: default
 title: Index
 my_number: 5
 ---
-<h5>1. How is the EUR/USD ?</h5>
+<h5>🗺️👀1. How is the EUR/USD ?</h5>
 (
 <a target="_blank" href="https://www.xe.com/currencycharts/?from=EUR&to=USD&view=1Y">year</a>,
 <a target="_blank" href="https://www.xe.com/currencycharts/?from=EUR&to=USD&view=1M">month</a>,
@@ -17,14 +17,14 @@ my_number: 5
   <li>EUR trend going low? --> USD is gaining value! --> HOLD</li>
   <li>EUR valley? --> Sell all you can. this is the most powerfull USD</li>
 </ul>
-<h5>2. How is your dividend calendar?</h5>
+<h5>🗺️📅2. How is your dividend calendar?</h5>
 - (€1.99/month subscription)
-<h5>3. Check Open Windows</h5>
+<h5>⚔️🏰3. Check Open Windows</h5>
 <ul>
   <li><a target="_blank" href="/mike/current_windows_newer">Newer Strategy</a></li>
   <li><a target="_blank" href="/mike/current_windows_cheaper">Cheaper Strategy</a></li>
 </ul>
-<h5>What is the stock type?</h5>
+<h5>🛡️🐉What is the stock type?</h5>
 - Is this a well known Brand? (consume/not consume)
 - Do you personally consume it?
 <ul>
@@ -38,7 +38,7 @@ my_number: 5
 
 <h5>Reflect</h5>
 <ul>
-  <li><a target="_blank" href="/mike/i_reflect"></a>Reflection Page</li>
+  <li><a target="_blank" href="/mike/i_reflect">Reflection</a> Page</li>
 </ul>
 
 <h5>Historic View</h5>
