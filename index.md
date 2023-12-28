@@ -10,18 +10,19 @@ my_number: 5
 <a target="_blank" href="https://www.xe.com/currencycharts/?from=EUR&to=USD&view=1M">month</a>,
 <a target="_blank" href="https://www.xe.com/currencycharts/?from=EUR&to=USD&view=1W">week</a>,
 <a target="_blank" href="https://www.xe.com/currencycharts/?from=EUR&to=USD&view=1D">day</a>
-)
+) max@D / max@W / max@M /-2%@Y /-3%@2Y /-20%@10Y on 2023/12/28 --> EUR trend is strong & getting stronger
 <ul>
   <li>EUR trend going high? --> HOLD</li>
-  <li>EUR peak? --> Buy all you can</li>
+  <li>EUR peak? --> Buy all you can now!</li>
   <li>EUR trend going low? --> USD is gaining value! --> HOLD</li>
   <li>EUR valley? --> Sell all you can. this is the most powerfull USD</li>
 </ul>
-<h5>2. How is your dividend calendar? (€1.99/month subscription)</h5>
+<h5>2. How is your dividend calendar?</h5>
+- (€1.99/month subscription)
 <h5>3. Check Open Windows</h5>
 <ul>
-  <li><a target="_blank" href="/mike/current_windows_newer"></a>Newer Strategy</li>
-  <li><a target="_blank" href="/mike/current_windows_cheaper"></a>Cheaper Strategy</li>
+  <li><a target="_blank" href="/mike/current_windows_newer">Newer Strategy</a></li>
+  <li><a target="_blank" href="/mike/current_windows_cheaper">Cheaper Strategy</a></li>
 </ul>
 <h5>What is the stock type?</h5>
 - Is this a well known Brand? (consume/not consume)
