@@ -12,7 +12,8 @@ max@<a target="_blank" href="https://www.xe.com/currencycharts/?from=EUR&to=USD&
 -2%@<a target="_blank" href="https://www.xe.com/currencycharts/?from=EUR&to=USD&view=1Y">year</a>,
 -3%@<a target="_blank" href="https://www.xe.com/currencycharts/?from=EUR&to=USD&view=2Y">2 yrs</a>,
 -20%@<a target="_blank" href="https://www.xe.com/currencycharts/?from=EUR&to=USD&view=10Y">10 yrs</a>
-) on 2023/12/28 --> EUR trend is strong & getting stronger
+) on 2023/12/28 --> EUR trend is strong & getting stronger<br>
+<a target="_blank" href="https://xstation5.xtb.com/">xstation5</a>
 <ul>
   <li>EUR trend going high? --> HOLD</li>
   <li>EUR peak? --> Buy all you can now!</li>
