@@ -31,7 +31,7 @@ my_number: 5
 - Is this a well known Brand? (consume/not consume)
 - Do you personally consume it?
 <ul>
-  <li><a target="_blank" href="/mike/ss/my_selection.ss">Portfolio</a>(
+  <li>Is it in your <a target="_blank" href="/mike/ss/my_selection.ss">Portfolio</a>?(
     <a target="_blank" href="/mike/v/ABR.v">ABR</a>,
     <a target="_blank" href="/mike/v/AQN.v">AQN</a>,
     <a target="_blank" href="/mike/v/ARI.v">ARI</a>,
@@ -42,9 +42,9 @@ my_number: 5
     <a target="_blank" href="/mike/v/OBDC.v">OBDC</a>,
     <a target="_blank" href="/mike/v/PMT.v">PMT</a>,ETC.
   )</li>
-  <li><a target="_blank" href="/mike/ss/energy.ss">Energy</a>(EDP)</li>
-  <li><a target="_blank" href="/mike/ss/finance.ss">Finance</a></li>
-  <li><a target="_blank" href="/mike/ss/real_estate.ss">REITs</a></li>
+  <li>Is it a <a target="_blank" href="/mike/ss/real_estate.ss">REIT</a>?</li>
+  <li><a target="_blank" href="/mike/ss/energy.ss">Energy?</a>(EDP)</li>
+  <li><a target="_blank" href="/mike/ss/finance.ss">Finance?</a></li>
   <li><a target="_blank" href="/mike/ss/telecommunications.ss">Telco</a>(VODA,MEO,NOS)</li>
   <li><a target="_blank" href="/mike/ss/utilities.ss">Utilities</a>(McD,COKE,FL,CAR)</li>
 </ul>
@@ -52,6 +52,7 @@ my_number: 5
 <h5>5. ⚜️👁️‍🗨️💬➿Reflect</h5>
 <ul>
   <li><a target="_blank" href="/mike/i_reflect">Reflection</a> Page</li>
+  <li>Check your <a target="_blank" href="/mike/ss/my_selection.ss">Portfolio</a>! Get updated</li>
 </ul>
 
 <h5>Historic View</h5>
