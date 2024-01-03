@@ -5,64 +5,6 @@ title: Index
 my_number: 5
 ---
 <h5>1. 🗺️👀How is the EUR/USD ?</h5>
-<style>
-.⬆️ {
-  color: blue;
-  text-align: center;
-  font-weight: bold;
-}
-.↗️ {
-  color: green;
-  text-align: center;
-  font-weight: bold;
-}
-.↘️ {
-  color: red;
-  text-align: center;
-  font-weight: bold;
-}
-.⬇️ {
-  color: purple;
-  text-align: center;
-  font-weight: bold;
-}
-</style>
-<table id="eurusd_trend" class="display">
-  <thead>
-    <tr>
-      <th>When?</th>
-      <th><a target="_blank" href="https://www.xe.com/currencycharts/?from=EUR&to=USD&view=1D">day</a></th>
-      <th><a target="_blank" href="https://www.xe.com/currencycharts/?from=EUR&to=USD&view=1W">week</a></th>
-      <th><a target="_blank" href="https://www.xe.com/currencycharts/?from=EUR&to=USD&view=1M">month</a></th>
-      <th><a target="_blank" href="https://www.xe.com/currencycharts/?from=EUR&to=USD&view=1Y">year</a></th>
-      <th><a target="_blank" href="https://www.xe.com/currencycharts/?from=EUR&to=USD&view=2Y">2 yrs</a></th>
-      <th><a target="_blank" href="https://www.xe.com/currencycharts/?from=EUR&to=USD&view=10Y">10 yrs</a></th>
-      <th>Comments</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>2024/01/3</td>
-      <td class="↘️">-0.5%</td><!-- day -->
-      <td class="↘️">-1.12%</td><!-- week -->
-      <td class="↗️">+0.52%</td><!-- month -->
-      <td class="↗️">+2.32%</td><!-- year -->
-      <td class="↘️">-3.34%</td><!-- 2yrs -->
-      <td class="↘️">-19.67%</td><!-- 10 yrs -->
-      <td>EUR trend is strong & getting stronger, but reached a local maxima</td><!-- comment -->
-    </tr>
-    <tr>
-      <td>2023/12/28</td>
-      <td class="⬆️">max</td><!-- day -->
-      <td class="⬆️">max</td><!-- week -->
-      <td class="⬆️">max</td><!-- month -->
-      <td class="↘️">-2%</td><!-- year -->
-      <td class="↘️">-3%</td><!-- 2yrs -->
-      <td class="↘️">-20%</td><!-- 10 yrs -->
-      <td>EUR trend is strong & getting stronger, but reached a local maxima</td><!-- comment -->
-    </tr>
-  </tbody>
-</table>
 <a target="_blank" href="https://xstation5.xtb.com/">xstation5</a>
 <ul>
   <li>EUR trend going high? --> HOLD</li>
@@ -70,8 +12,16 @@ my_number: 5
   <li>EUR trend going low? --> USD is gaining value! --> HOLD</li>
   <li>EUR valley? --> Sell all you can. this is the most powerfull USD</li>
 </ul>
+{% include 01_analysis %}
+
+
+<!-- section -->
 <h5>2. 🗺️📅How is your dividend calendar?</h5>
+{% include 02_analysis %}
 - (€1.99/month subscription)
+
+
+<!-- section -->
 <h5>3. ⚔️🏰Check Open Windows</h5>
 <ul>
   <li><a target="_blank" href="/mike/current_windows_newer">Newer Strategy</a></li>
