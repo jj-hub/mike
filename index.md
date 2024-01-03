@@ -31,7 +31,17 @@ max@<a target="_blank" href="https://www.xe.com/currencycharts/?from=EUR&to=USD&
 - Is this a well known Brand? (consume/not consume)
 - Do you personally consume it?
 <ul>
-  <li><a target="_blank" href="/mike/ss/my_selection.ss">Portfolio</a>(<a target="_blank" href="/mike/v/ABR.v">ABR</a>)</li>
+  <li><a target="_blank" href="/mike/ss/my_selection.ss">Portfolio</a>(
+    <a target="_blank" href="/mike/v/ABR.v">ABR</a>,
+    <a target="_blank" href="/mike/v/AQN.v">AQN</a>,
+    <a target="_blank" href="/mike/v/ARI.v">ARI</a>,
+    <a target="_blank" href="/mike/v/CIB.v">CIB</a>,
+    <a target="_blank" href="/mike/v/GAIN.v">GAIN</a>,
+    <a target="_blank" href="/mike/v/JKS.v">JKS</a>,
+    <a target="_blank" href="/mike/v/LNC.v">LNC</a>,
+    <a target="_blank" href="/mike/v/OBDC.v">OBDC</a>,
+    <a target="_blank" href="/mike/v/PMT.v">PMT</a>,ETC.
+  )</li>
   <li><a target="_blank" href="/mike/ss/energy.ss">Energy</a>(EDP)</li>
   <li><a target="_blank" href="/mike/ss/finance.ss">Finance</a></li>
   <li><a target="_blank" href="/mike/ss/real_estate.ss">REITs</a></li>

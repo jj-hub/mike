@@ -1,4 +1,4 @@
 $(document).ready(function() {
-    $('#table_1').DataTable();
+    $('.xrefs').DataTable(); // activates DataTables for xRefs class Tables
     $('#table_2').DataTable();
 });
