@@ -6,14 +6,23 @@ my_number: 5
 ---
 <h5>1. 🗺️👀How is the EUR/USD ?</h5>
 <style>
-.pos {
-  border: 5px outset red;
-  background-color: lightblue;
+.⬆️ {
+  color: blue;
   text-align: center;
   font-weight: bold;
 }
-.neg {
+.↗️ {
+  color: green;
+  text-align: center;
+  font-weight: bold;
+}
+.↘️ {
   color: red;
+  text-align: center;
+  font-weight: bold;
+}
+.⬇️ {
+  color: purple;
   text-align: center;
   font-weight: bold;
 }
@@ -28,27 +37,28 @@ my_number: 5
       <th><a target="_blank" href="https://www.xe.com/currencycharts/?from=EUR&to=USD&view=1Y">year</a></th>
       <th><a target="_blank" href="https://www.xe.com/currencycharts/?from=EUR&to=USD&view=2Y">2 yrs</a></th>
       <th><a target="_blank" href="https://www.xe.com/currencycharts/?from=EUR&to=USD&view=10Y">10 yrs</a></th>
+      <th>Comments</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td>2024/01/3</td>
-      <td class="neg">-0.5%</td><!-- day -->
-      <td class="neg">-1.12%</td><!-- week -->
-      <td class="pos">+0.52%</td><!-- month -->
-      <td class="pos">+2.32%</td><!-- year -->
-      <td class="neg">-3.34%</td><!-- 2yrs -->
-      <td class="neg">-19.67%</td><!-- 10 yrs -->
+      <td class="↘️">-0.5%</td><!-- day -->
+      <td class="↘️">-1.12%</td><!-- week -->
+      <td class="↗️">+0.52%</td><!-- month -->
+      <td class="↗️">+2.32%</td><!-- year -->
+      <td class="↘️">-3.34%</td><!-- 2yrs -->
+      <td class="↘️">-19.67%</td><!-- 10 yrs -->
       <td>EUR trend is strong & getting stronger, but reached a local maxima</td><!-- comment -->
     </tr>
     <tr>
       <td>2023/12/28</td>
-      <td>max</td><!-- day -->
-      <td>max</td><!-- week -->
-      <td>max</td><!-- month -->
-      <td>-2%</td><!-- year -->
-      <td>-3%</td><!-- 2yrs -->
-      <td>-20%</td><!-- 10 yrs -->
+      <td class="⬆️">max</td><!-- day -->
+      <td class="⬆️">max</td><!-- week -->
+      <td class="⬆️">max</td><!-- month -->
+      <td class="↘️">-2%</td><!-- year -->
+      <td class="↘️">-3%</td><!-- 2yrs -->
+      <td class="↘️">-20%</td><!-- 10 yrs -->
       <td>EUR trend is strong & getting stronger, but reached a local maxima</td><!-- comment -->
     </tr>
   </tbody>
