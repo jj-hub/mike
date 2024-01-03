@@ -5,14 +5,54 @@ title: Index
 my_number: 5
 ---
 <h5>1. 🗺️👀How is the EUR/USD ?</h5>
-(
-max@<a target="_blank" href="https://www.xe.com/currencycharts/?from=EUR&to=USD&view=1D">day</a>,
-max@<a target="_blank" href="https://www.xe.com/currencycharts/?from=EUR&to=USD&view=1W">week</a>,
-max@<a target="_blank" href="https://www.xe.com/currencycharts/?from=EUR&to=USD&view=1M">month</a>,
--2%@<a target="_blank" href="https://www.xe.com/currencycharts/?from=EUR&to=USD&view=1Y">year</a>,
--3%@<a target="_blank" href="https://www.xe.com/currencycharts/?from=EUR&to=USD&view=2Y">2 yrs</a>,
--20%@<a target="_blank" href="https://www.xe.com/currencycharts/?from=EUR&to=USD&view=10Y">10 yrs</a>
-) on 2023/12/28 --> EUR trend is strong & getting stronger<br>
+<style>
+.pos {
+  border: 5px outset red;
+  background-color: lightblue;
+  text-align: center;
+  font-weight: bold;
+}
+.neg {
+  color: red;
+  text-align: center;
+  font-weight: bold;
+}
+</style>
+<table id="eurusd_trend" class="display">
+  <thead>
+    <tr>
+      <th>When?</th>
+      <th><a target="_blank" href="https://www.xe.com/currencycharts/?from=EUR&to=USD&view=1D">day</a></th>
+      <th><a target="_blank" href="https://www.xe.com/currencycharts/?from=EUR&to=USD&view=1W">week</a></th>
+      <th><a target="_blank" href="https://www.xe.com/currencycharts/?from=EUR&to=USD&view=1M">month</a></th>
+      <th><a target="_blank" href="https://www.xe.com/currencycharts/?from=EUR&to=USD&view=1Y">year</a></th>
+      <th><a target="_blank" href="https://www.xe.com/currencycharts/?from=EUR&to=USD&view=2Y">2 yrs</a></th>
+      <th><a target="_blank" href="https://www.xe.com/currencycharts/?from=EUR&to=USD&view=10Y">10 yrs</a></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>2024/01/3</td>
+      <td class="neg">-0.5%</td><!-- day -->
+      <td class="neg">-1.12%</td><!-- week -->
+      <td class="pos">+0.52%</td><!-- month -->
+      <td class="pos">+2.32%</td><!-- year -->
+      <td class="neg">-3.34%</td><!-- 2yrs -->
+      <td class="neg">-19.67%</td><!-- 10 yrs -->
+      <td>EUR trend is strong & getting stronger, but reached a local maxima</td><!-- comment -->
+    </tr>
+    <tr>
+      <td>2023/12/28</td>
+      <td>max</td><!-- day -->
+      <td>max</td><!-- week -->
+      <td>max</td><!-- month -->
+      <td>-2%</td><!-- year -->
+      <td>-3%</td><!-- 2yrs -->
+      <td>-20%</td><!-- 10 yrs -->
+      <td>EUR trend is strong & getting stronger, but reached a local maxima</td><!-- comment -->
+    </tr>
+  </tbody>
+</table>
 <a target="_blank" href="https://xstation5.xtb.com/">xstation5</a>
 <ul>
   <li>EUR trend going high? --> HOLD</li>
