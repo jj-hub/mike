@@ -17,7 +17,7 @@ my_number: 5
 - Is this a well known Brand? (consume/not consume)
 - Do you personally consume it?
 
-##### 1.🗺️👀How is the EUR/USD ?</h5>
+##### 1.a 🗺️👀How is the EUR/USD ?
 <a target="_blank" href="https://xstation5.xtb.com/">xstation5</a>
 <ul>
   <li>EUR trend going high? --> HOLD</li>
@@ -27,32 +27,29 @@ my_number: 5
 </ul>
 {% include 01_analysis.html %}
 
-##### 2. 🗺️📅How is our dividend calendar?
+##### 1.b 🗺️📅How is our dividend calendar?
 {% include 02_analysis.html %}
 - (€1.99/month subscription)
 
-##### 3. 🛡️🐉What is our current Position?
+##### 1.c 🛡️🐉What is our current Position?
 
-<ul>
-  <li>Is it in your <a target="_blank" href="/mike/ss/my_selection.ss">Portfolio</a>?(
-    <a target="_blank" href="/mike/v/ABR.v">ABR</a>,
-    <a target="_blank" href="/mike/v/AQN.v">AQN</a>,
-    <a target="_blank" href="/mike/v/ARI.v">ARI</a>,
-    <a target="_blank" href="/mike/v/CIB.v">CIB</a>,
-    <a target="_blank" href="/mike/v/GAIN.v">GAIN</a>,
-    <a target="_blank" href="/mike/v/JKS.v">JKS</a>,
-    <a target="_blank" href="/mike/v/LNC.v">LNC</a>,
-    <a target="_blank" href="/mike/v/OBDC.v">OBDC</a>,
-    <a target="_blank" href="/mike/v/PMT.v">PMT</a>,ETC.
-  )</li>
-</ul>
+- Is it in your <a target="_blank" href="/mike/ss/my_selection.ss">Portfolio?
+ - <a target="_blank" href="/mike/v/ABR.v">ABR</a>
+ - <a target="_blank" href="/mike/v/AQN.v">AQN</a>,
+ - <a target="_blank" href="/mike/v/ARI.v">ARI</a>,
+ - <a target="_blank" href="/mike/v/CIB.v">CIB</a>,
+ - <a target="_blank" href="/mike/v/GAIN.v">GAIN</a>,
+ - <a target="_blank" href="/mike/v/JKS.v">JKS</a>,
+ - <a target="_blank" href="/mike/v/LNC.v">LNC</a>,
+ - <a target="_blank" href="/mike/v/OBDC.v">OBDC</a>,
+ - <a target="_blank" href="/mike/v/PMT.v">PMT</a>
 
 ##### 4. 🛡️🐉How is the lay of the land?
-- [ ] Is it a <a target="_blank" href="/mike/ss/real_estate.ss">REIT</a>?
-- [ ] <a target="_blank" href="/mike/ss/energy.ss">Energy?</a>(EDP)
-- [ ] <a target="_blank" href="/mike/ss/finance.ss">Finance?</a>
-- [ ] <a target="_blank" href="/mike/ss/telecommunications.ss">Telco</a>(VODA,MEO,NOS)
-- [ ] <a target="_blank" href="/mike/ss/utilities.ss">Utilities</a>(McD,COKE,FL,CAR)
+[ ] Is it a <a target="_blank" href="/mike/ss/real_estate.ss">REIT</a>?
+[ ] <a target="_blank" href="/mike/ss/energy.ss">Energy?</a>(EDP)
+[ ] <a target="_blank" href="/mike/ss/finance.ss">Finance?</a>
+[ ] <a target="_blank" href="/mike/ss/telecommunications.ss">Telco</a>(VODA,MEO,NOS)
+[ ] <a target="_blank" href="/mike/ss/utilities.ss">Utilities</a>(McD,COKE,FL,CAR)
 
 ---
 
