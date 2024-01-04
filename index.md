@@ -20,10 +20,10 @@ my_number: 5
 ##### 1.a 🗺️👀How is the EUR/USD ?
 <a target="_blank" href="https://xstation5.xtb.com/">xstation5</a>
 <ul>
-  <li>EUR trend going high? --> HOLD</li>
-  <li>EUR peak? --> Buy all you can now!</li>
-  <li>EUR trend going low? --> USD is gaining value! --> HOLD</li>
-  <li>EUR valley? --> Sell all you can. this is the most powerfull USD</li>
+  <li>↗️↗️📈? --> 🐻 HOLD/refrain from buying ⛔🔥--> EUR is gaining value!</li>
+  <li>↗️↘️? --> 🐂 🔥Buy all you can now!</li>
+  <li>↘️↘️📉? --> 🐻 HOLD/refrain from selling ⛔⚠️ --> USD is gaining value!</li>
+  <li>↘️↗️? --> ⚠️Sell all you can. this is the most powerfull USD</li>
 </ul>
 {% include 01_analysis.html %}
 
@@ -45,11 +45,11 @@ my_number: 5
  - <a target="_blank" href="/mike/v/PMT.v">PMT</a>
 
 ##### 4. 🛡️🐉How is the lay of the land?
-[ ] Is it a <a target="_blank" href="/mike/ss/real_estate.ss">REIT</a>?
-[ ] <a target="_blank" href="/mike/ss/energy.ss">Energy?</a>(EDP)
-[ ] <a target="_blank" href="/mike/ss/finance.ss">Finance?</a>
-[ ] <a target="_blank" href="/mike/ss/telecommunications.ss">Telco</a>(VODA,MEO,NOS)
-[ ] <a target="_blank" href="/mike/ss/utilities.ss">Utilities</a>(McD,COKE,FL,CAR)
+- [ ] <a target="_blank" href="/mike/ss/real_estate.ss">REIT</a>?
+- [ ] <a target="_blank" href="/mike/ss/energy.ss">Energy?</a>(EDP)
+- [ ] <a target="_blank" href="/mike/ss/finance.ss">Finance?</a>
+- [ ] <a target="_blank" href="/mike/ss/telecommunications.ss">Telco</a>(VODA,MEO,NOS)
+- [ ] <a target="_blank" href="/mike/ss/utilities.ss">Utilities</a>(McD,COKE,FL,CAR)
 
 ---
 
