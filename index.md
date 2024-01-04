@@ -12,12 +12,12 @@ my_number: 5
   <li>EUR trend going low? --> USD is gaining value! --> HOLD</li>
   <li>EUR valley? --> Sell all you can. this is the most powerfull USD</li>
 </ul>
-{% include 01_analysis %}
+{% include 01_analysis.html %}
 
 
 <!-- section -->
 <h5>2. 🗺️📅How is your dividend calendar?</h5>
-{% include 02_analysis %}
+{% include 02_analysis.html %}
 - (€1.99/month subscription)
 
 
