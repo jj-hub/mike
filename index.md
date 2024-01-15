@@ -30,7 +30,8 @@ my_number: 5
 
 ##### 1.b 🗺️📅How is our dividend calendar?
 {% include 02_analysis.html %}
-- (€1.99/month subscription)
+- (€1.99/month subscription) <a target="_blank" href="/mike/calendar">Calendar</a>
+
 
 ##### 1.c 🛡️🐉What is our current Position?
 
