@@ -108,6 +108,7 @@ createYear = generate_year_range(1970, 2050);
 document.getElementById("year").innerHTML = createYear;
 
 let calendar = document.getElementById("calendar");
+let calendar2 = document.getElementById("calendar2");
 
 let months = [
 	"January",
@@ -136,6 +137,7 @@ for (dhead in days) {
 $dataHead += "</tr>";
 
 document.getElementById("thead-month").innerHTML = $dataHead;
+document.getElementById("thead-month2").innerHTML = $dataHead;
 
 monthAndYear =
 	document.getElementById("monthAndYear");
@@ -166,9 +168,9 @@ function jump() {
 }
 
 // Function to display the calendar
-function showCalendar(month, year) {
+function showCalendar(str_id,month, year) {
 	let firstDay = new Date(year, month, 1).getDay();
-	tbl = document.getElementById("calendar-body");
+	tbl = document.getElementById(str_id);
 	tbl.innerHTML = "";
 	monthAndYear.innerHTML = months[month] + " " + year;
 	selectYear.value = year;
@@ -270,4 +272,5 @@ function daysInMonth(iMonth, iYear) {
 }
 
 // Call the showCalendar function initially to display the calendar
-showCalendar(currentMonth, currentYear);
+showCalendar("calendar-body",currentMonth, currentYear);
+showCalendar("calendar-body2",currentMonth+1, currentYear);
