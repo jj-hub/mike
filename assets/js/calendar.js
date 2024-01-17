@@ -58,6 +58,7 @@ function deleteEvent(eventId) {
 // Function to display reminders
 function displayReminders() {
 	reminderList.innerHTML = "";
+	events = events.sort((a, b) => (a.date > b.date) ? 1 : -1)
 	for (let i = 0; i < events.length; i++) {
 		let event = events[i];
 		let eventDate = new Date(event.date);
