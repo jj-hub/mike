@@ -272,9 +272,9 @@ function daysInMonth(iMonth, iYear) {
 }
 
 // Call the showCalendar function initially to display the calendar
-function showCalendar(month, year) {
+function showCalendar2(month, year) {
 	showCalendar("calendar-body",month, year);
 	showCalendar("calendar-body2",month+1, year);
 }
 
-showCalendar(currentMonth, currentYear);
+showCalendar2(currentMonth, currentYear);
