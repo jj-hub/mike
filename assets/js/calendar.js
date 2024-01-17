@@ -32,7 +32,7 @@ function addEvent() {
 				description: description
 			}
 		);
-		showCalendar(currentMonth, currentYear);
+		showCalendar2(currentMonth, currentYear);
 		eventDateInput.value = "";
 		eventTitleInput.value = "";
 		eventDescriptionInput.value = "";
@@ -50,7 +50,7 @@ function deleteEvent(eventId) {
 	if (eventIndex !== -1) {
 		// Remove the event from the events array
 		events.splice(eventIndex, 1);
-		showCalendar(currentMonth, currentYear);
+		showCalendar2(currentMonth, currentYear);
 		displayReminders();
 	}
 }
@@ -141,14 +141,14 @@ document.getElementById("thead-month2").innerHTML = $dataHead;
 
 monthAndYear =
 	document.getElementById("monthAndYear");
-showCalendar(currentMonth, currentYear);
+showCalendar2(currentMonth, currentYear);
 
 // Function to navigate to the next month
 function next() {
 	currentYear = currentMonth === 11 ?
 		currentYear + 1 : currentYear;
 	currentMonth = (currentMonth + 1) % 12;
-	showCalendar(currentMonth, currentYear);
+	showCalendar2(currentMonth, currentYear);
 }
 
 // Function to navigate to the previous month
@@ -157,14 +157,14 @@ function previous() {
 		currentYear - 1 : currentYear;
 	currentMonth = currentMonth === 0 ?
 		11 : currentMonth - 1;
-	showCalendar(currentMonth, currentYear);
+	showCalendar2(currentMonth, currentYear);
 }
 
 // Function to jump to a specific month and year
 function jump() {
 	currentYear = parseInt(selectYear.value);
 	currentMonth = parseInt(selectMonth.value);
-	showCalendar(currentMonth, currentYear);
+	showCalendar2(currentMonth, currentYear);
 }
 
 // Function to display the calendar
@@ -272,5 +272,9 @@ function daysInMonth(iMonth, iYear) {
 }
 
 // Call the showCalendar function initially to display the calendar
-showCalendar("calendar-body",currentMonth, currentYear);
-showCalendar("calendar-body2",currentMonth+1, currentYear);
+function showCalendar(month, year) {
+	showCalendar("calendar-body",month, year);
+	showCalendar("calendar-body2",month+1, year);
+}
+
+showCalendar(currentMonth, currentYear);
