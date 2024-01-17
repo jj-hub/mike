@@ -230,13 +230,13 @@ function createEventTooltip(date, month, year) {
 		
 		let eventText = ''
 		if(event.description == 'exx'){
-			eventText += '<FONT COLOR="#ff0000">${event.description}</FONT>';
+			eventText += `<FONT COLOR="#ff0000">${event.description}</FONT>`;
 		}
 		if(event.description == 'rec'){
-			eventText += '<FONT COLOR="#0000ff">${event.description}</FONT>';
+			eventText += `<FONT COLOR="#0000ff">${event.description}</FONT>`;
 		}
 		if(event.description == 'pay'){
-			eventText += '<FONT COLOR="#00ff00">${event.description}</FONT>';
+			eventText += `<FONT COLOR="#00ff00">${event.description}</FONT>`;
 		}
 		eventText += `(<strong>${event.title}</strong>)`;
 		let eventElement = document.createElement("p");
