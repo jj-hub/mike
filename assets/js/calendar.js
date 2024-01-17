@@ -61,15 +61,13 @@ function displayReminders() {
 	for (let i = 0; i < events.length; i++) {
 		let event = events[i];
 		let eventDate = new Date(event.date);
-		if (eventDate.getMonth() ===
-			currentMonth &&
-			eventDate.getFullYear() ===
-			currentYear) {
+		if (eventDate.getMonth() === currentMonth &&
+			eventDate.getFullYear() === currentYear) {
 			let listItem = document.createElement("li");
 			listItem.innerHTML =
 				`<strong>${event.title}</strong> - 
-			${event.description} on 
-			${eventDate.toLocaleDateString()}`;
+			${event.description} on <strong>
+			${eventDate.toISOString().split('T')[0]}</strong>`;
 
 			// Add a delete button for each reminder item
 			let deleteButton =
@@ -228,10 +226,8 @@ function createEventTooltip(date, month, year) {
 	let eventsOnDate = getEventsOnDate(date, month, year);
 	for (let i = 0; i < eventsOnDate.length; i++) {
 		let event = eventsOnDate[i];
-		let eventDate = new Date(event.date);
-		let eventText = `<strong>${event.title}</strong> - 
-			${event.description} on 
-			${eventDate.toLocaleDateString()}`;
+		//let eventDate = new Date(event.date);
+		let eventText = `${event.description}(<strong>${event.title}</strong>)`;
 		let eventElement = document.createElement("p");
 		eventElement.innerHTML = eventText;
 		tooltip.appendChild(eventElement);
