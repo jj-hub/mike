@@ -17,12 +17,12 @@ my_number: 5
 - Is this a well known Brand? (consume/not consume)
 - Do you personally consume it?
 
-##### 1.a 🗺️👀How is the EUR/USD ?
+##### 1.a 🗺️👀How is the EUR/USD 📉📈?
 <ul>
-  <li>↗️ ↗️ 📈? --> 🐻 HOLD/refrain from buying ⛔🔥--> EUR is gaining value!</li>
-  <li>↗️ ↘️ ? --> 🐂 🔥Buy all you can now!</li>
-  <li>↘️ ↘️ 📉? --> 🐻 HOLD/refrain from selling ⛔⚠️ --> USD is gaining value!</li>
-  <li>↘️ ↗️ ? --> ⚠️Sell all you can. this is the most powerfull USD</li>
+  <li>↗️ ↗️🟢🟢 ? then 🐻 HOLD/refrain from buying ⛔🔥--> EUR is gaining value!</li>
+  <li>↗️ ↘️🔴🟢 ? then 🐂 🔥Buy all you can now!</li>
+  <li>↘️ ↘️🔴🔴 ? then 🐻 HOLD/refrain from selling ⛔⚠️ --> USD is gaining value!</li>
+  <li>↘️ ↗️🔴🟢 ? then 🐂 ⚠️Sell all you can. this is the most powerfull USD</li>
 </ul>
 <a target="_blank" href="https://xstation5.xtb.com/">xstation5</a>
 

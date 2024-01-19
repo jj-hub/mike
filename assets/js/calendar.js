@@ -226,44 +226,55 @@ function showCalendar(str_id,month, year) {
 function createEventTooltip(date, month, year) {
 	let tooltip = document.createElement("div");
 	tooltip.className = "event-tooltip";
-	let eventsOnDate = getEventsOnDate(date, month, year);
-	for (let i = 0; i < eventsOnDate.length; i++) {
-		let event = eventsOnDate[i];
-		//let eventDate = new Date(event.date);
-		
-		let eventText = ''
-		if(event.description == 'exx'){
-			eventText += `<FONT COLOR="#ff0000">${event.description}</FONT>`;
-		}
-		if(event.description == 'rec'){
-			eventText += `<FONT COLOR="#0000ff">${event.description}</FONT>`;
-		}
-		if(event.description == 'pay'){
-			eventText += `<FONT COLOR="#00ff00">${event.description}</FONT>`;
-		}
-		eventText += `(<strong>${event.title}</strong>)`;
-		let eventElement = document.createElement("p");
-		eventElement.innerHTML = eventText;
-		tooltip.appendChild(eventElement);
+	l_entries=[]
+	
+	l_evs = getEventsOnDate(date, month, year,'exx')
+	if(l_evs.length){
+		l_entries.push('<b><FONT COLOR="black">X:</FONT></b>')
+		l_evs.forEach((element) => {
+			l_entries.push(`<a target="_blank" href="https://jj-hub.github.io/mike/v/${element.title}.v">${element.description}</a><b>(<FONT COLOR="crimson">${element.title}</FONT>)</b>`)
+		});
 	}
+
+	l_evs = getEventsOnDate(date, month, year,'rec')
+	if(l_evs.length){
+		l_entries.push('<b><FONT COLOR="black">REC:</FONT></b>')
+		l_evs.forEach((element) => {
+			l_entries.push(`<a target="_blank" href="https://jj-hub.github.io/mike/v/${element.title}.v">${element.description}</a><b>(<FONT COLOR="dodgerblue">${element.title}</FONT>)</b>`)
+		});
+	}
+
+	l_evs = getEventsOnDate(date, month, year,'pay')
+	if(l_evs.length){
+		l_entries.push('<b><FONT COLOR="black">PAY:</FONT></b>')
+		l_evs.forEach((element) => {
+			l_entries.push(`<a target="_blank" href="https://jj-hub.github.io/mike/v/${element.title}.v">${element.description}</a><b>(<FONT COLOR="darkgreen">${element.title}</FONT>)</b>`)
+		});
+	}
+	
+	let eventElement = document.createElement("p");
+		eventElement.innerHTML = l_entries.join('<br>');
+	tooltip.appendChild(eventElement);
 	return tooltip;
 }
 
 // Function to get events on a specific date
-function getEventsOnDate(date, month, year) {
+function getEventsOnDate(date, month, year, str_type) {
 	return events.filter(function (event) {
 		let eventDate = new Date(event.date);
 		return (
 			eventDate.getDate() === date &&
 			eventDate.getMonth() === month &&
-			eventDate.getFullYear() === year
+			eventDate.getFullYear() === year &&
+			event.description === str_type
 		);
 	});
 }
 
 // Function to check if there are events on a specific date
 function hasEventOnDate(date, month, year) {
-	return getEventsOnDate(date, month, year).length > 0;
+	num_sum = getEventsOnDate(date, month, year,'exx').length + getEventsOnDate(date, month, year,'rec').length + getEventsOnDate(date, month, year,'pay').length
+	return num_sum > 0;
 }
 
 // Function to get the number of days in a month
