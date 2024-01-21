@@ -35,23 +35,23 @@ my_number: 5
 
 ##### 1.c 🛡️🐉What is our current Position?
 
-- Is it in your <a target="_blank" href="/mike/ss/my_selection.ss">Portfolio?
- - <a target="_blank" href="/mike/v/ABR.v">ABR</a>
- - <a target="_blank" href="/mike/v/AQN.v">AQN</a>,
- - <a target="_blank" href="/mike/v/ARI.v">ARI</a>,
- - <a target="_blank" href="/mike/v/CIB.v">CIB</a>,
- - <a target="_blank" href="/mike/v/GAIN.v">GAIN</a>,
- - <a target="_blank" href="/mike/v/JKS.v">JKS</a>,
- - <a target="_blank" href="/mike/v/LNC.v">LNC</a>,
- - <a target="_blank" href="/mike/v/OBDC.v">OBDC</a>,
- - <a target="_blank" href="/mike/v/PMT.v">PMT</a>
+- Is it in your <a target="_blank" href="/mike/sec/my_selection.sec">Portfolio?
+ - <a target="_blank" href="/mike/stk/ABR.stk">ABR</a>
+ - <a target="_blank" href="/mike/stk/AQN.stk">AQN</a>,
+ - <a target="_blank" href="/mike/stk/ARI.stk">ARI</a>,
+ - <a target="_blank" href="/mike/stk/CIB.stk">CIB</a>,
+ - <a target="_blank" href="/mike/stk/GAIN.stk">GAIN</a>,
+ - <a target="_blank" href="/mike/stk/JKS.stk">JKS</a>,
+ - <a target="_blank" href="/mike/stk/LNC.stk">LNC</a>,
+ - <a target="_blank" href="/mike/stk/OBDC.stk">OBDC</a>,
+ - <a target="_blank" href="/mike/stk/PMT.stk">PMT</a>
 
 ##### 4. 🛡️🐉How is the lay of the land?
-- [ ] <a target="_blank" href="/mike/ss/real_estate.ss">REIT</a>?
-- [ ] <a target="_blank" href="/mike/ss/energy.ss">Energy?</a>(EDP)
-- [ ] <a target="_blank" href="/mike/ss/finance.ss">Finance?</a>
-- [ ] <a target="_blank" href="/mike/ss/telecommunications.ss">Telco</a>(VODA,MEO,NOS)
-- [ ] <a target="_blank" href="/mike/ss/utilities.ss">Utilities</a>(McD,COKE,FL,CAR)
+- [ ] <a target="_blank" href="/mike/sec/real_estate.sec">REIT</a>?
+- [ ] <a target="_blank" href="/mike/sec/energy.sec">Energy?</a>(EDP)
+- [ ] <a target="_blank" href="/mike/sec/finance.sec">Finance?</a>
+- [ ] <a target="_blank" href="/mike/sec/telecommunications.sec">Telco</a>(VODA,MEO,NOS)
+- [ ] <a target="_blank" href="/mike/sec/utilities.sec">Utilities</a>(McD,COKE,FL,CAR)
 
 ---
 
@@ -64,15 +64,15 @@ my_number: 5
 ### 3.Buy
 
 ##### 3.c. Which stocks are cheap + expected to grow ↘️↗️
-<p><a target="_blank" href="/mike/current_windows_cheaper">Cheaper Strategy</a></p>
+<p><a target="_blank" href="/mike/str/cheaper.str">Cheaper Strategy</a></p>
 
 ##### 3.n. ⚔️🏰Check Open Windows
-<p><a target="_blank" href="/mike/current_windows_newer">Newer Strategy</a></p>
+<p><a target="_blank" href="/mike/str/newer.str">Newer Strategy</a></p>
 
 ### 4. ⚜️👁️‍🗨️💬➿Reflect
 <ul>
-  <li><a target="_blank" href="/mike/i_reflect">Reflection</a> Page</li>
-  <li>Check your <a target="_blank" href="/mike/ss/my_selection.ss">Portfolio</a>! Get updated</li>
+  <li><a target="_blank" href="/mike/str/reflections.str">Reflection</a> Page</li>
+  <li>Check your <a target="_blank" href="/mike/sec/my_selection.sec">Portfolio</a>! Get updated</li>
 </ul>
 
 <h5>Historic View</h5>

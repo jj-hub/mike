@@ -5,7 +5,7 @@ description: ""
 baseurl: ""
 url: ""
 
-include: ['_pages','v','ss']
+include: ['_pages','stk','sec','str'] # stock + sector + strategy
 
 # Build settings
 lsi: false
