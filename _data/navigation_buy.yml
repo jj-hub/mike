@@ -1,16 +1,28 @@
-- name: Check Open Windows
-  description: Identify current window opportunities
-  link: ./current_windows_newer
+- name: Monthly Strategy
+  description: ....
+  link: ./str/blsh.str
   style: 
-- name: Do Validity Checklist - //Scoring
+- name: Check Open Windows Strategy
+  description: Identify current window opportunities
+  link: ./str/newer.str
+  style: 
+- name: Cheap Strategy
+  description: Which ones are cheaper?
+  link: ./str/cheaper.str
+  style: 
+- name: Buy Low Sell High Strategy
+  description: ....
+  link: ./str/blsh.str
+  style: 
+- name: Reflections
+  description: ....
+  link: ./str/blsh.str
+  style: 
+- name: Do Validity Checklist - //Scoring Strategy
   description: Before purchase perform this pilot checklist/scoring
   link: ./
   style: style="color:gray"
-- name: Inspect Declaration Date Predictions
+- name: Inspect ➡️  Declaration Date Predictions Strategy
   description: Days past and Average declaration window, for non specific
-  link: ./
+  link: ./str/declaration_date_prediction.str
   style: style="color:gray"
-- name: Cheap Strategy
-  description: Which ones are cheaper?
-  link: ./current_windows_cheaper
-  style: 
