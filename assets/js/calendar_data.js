@@ -120,6 +120,7 @@ events.push({ date: "2024-01-30", title: "LNT", description: "exx", sector: "Uti
 events.push({ date: "2024-01-30", title: "MS", description: "exx", sector: "Finance"});
 events.push({ date: "2024-01-30", title: "NNN", description: "exx", sector: "Real Estate"});
 events.push({ date: "2024-01-30", title: "STAG", description: "exx", sector: "Real Estate"});
+events.push({ date: "2024-01-30", title: "TXN", description: "exx", sector: "Technology"});
 events.push({ date: "2024-01-30", title: "WST", description: "exx", sector: "Health Care"});
 events.push({ date: "2024-01-30", title: "EPR", description: "exx", sector: "Real Estate"});
 events.push({ date: "2023-12-28", title: "ADC", description: "exx", sector: "Real Estate"});
@@ -1415,6 +1416,7 @@ events.push({ date: "2023-08-22", title: "TTEK", description: "exx", sector: "Co
 events.push({ date: "2024-02-14", title: "AGCO", description: "exx", sector: "Industrials"});
 events.push({ date: "2024-02-14", title: "CNP", description: "exx", sector: "Utilities"});
 events.push({ date: "2024-02-14", title: "CTAS", description: "exx", sector: "Consumer Discretionary"});
+events.push({ date: "2024-02-14", title: "KR", description: "exx", sector: "Consumer Staples"});
 events.push({ date: "2024-02-14", title: "LLY", description: "exx", sector: "Health Care"});
 events.push({ date: "2024-02-14", title: "MMS", description: "exx", sector: "Consumer Discretionary"});
 events.push({ date: "2024-02-14", title: "MSFT", description: "exx", sector: "Technology"});
@@ -1774,6 +1776,7 @@ events.push({ date: "2024-02-15", title: "BG", description: "exx", sector: "Cons
 events.push({ date: "2024-02-15", title: "DUK", description: "exx", sector: "Industrials"});
 events.push({ date: "2024-02-15", title: "JEF", description: "exx", sector: "Finance"});
 events.push({ date: "2024-02-15", title: "PPG", description: "exx", sector: "Consumer Discretionary"});
+events.push({ date: "2024-02-15", title: "SJM", description: "exx", sector: "Consumer Staples"});
 events.push({ date: "2024-02-15", title: "TEL", description: "exx", sector: "Technology"});
 events.push({ date: "2023-08-17", title: "AMGN", description: "exx", sector: "Health Care"});
 events.push({ date: "2023-08-17", title: "APO", description: "exx", sector: "Finance"});
@@ -1850,6 +1853,7 @@ events.push({ date: "2024-01-31", title: "CASY", description: "exx", sector: "Co
 events.push({ date: "2024-01-31", title: "FAST", description: "exx", sector: "Consumer Discretionary"});
 events.push({ date: "2024-01-31", title: "GHC", description: "exx", sector: "Real Estate"});
 events.push({ date: "2024-01-31", title: "HAS", description: "exx", sector: "Consumer Discretionary"});
+events.push({ date: "2024-01-31", title: "NRG", description: "exx", sector: "Utilities"});
 events.push({ date: "2024-01-31", title: "O", description: "exx", sector: "Real Estate"});
 events.push({ date: "2024-01-31", title: "PNW", description: "exx", sector: "Utilities"});
 events.push({ date: "2024-01-31", title: "VLO", description: "exx", sector: "Energy"});
@@ -2437,6 +2441,7 @@ events.push({ date: "2023-03-17", title: "HPP", description: "exx", sector: "Fin
 events.push({ date: "2023-03-17", title: "PARA", description: "exx", sector: "Industrials"});
 events.push({ date: "2023-03-17", title: "PHM", description: "exx", sector: "Consumer Discretionary"});
 events.push({ date: "2024-02-01", title: "BRO", description: "exx", sector: "Finance"});
+events.push({ date: "2024-02-01", title: "COST", description: "exx", sector: "Consumer Discretionary"});
 events.push({ date: "2023-08-08", title: "BRO", description: "exx", sector: "Finance"});
 events.push({ date: "2023-08-08", title: "CLX", description: "exx", sector: "Consumer Discretionary"});
 events.push({ date: "2023-08-08", title: "IBN", description: "exx", sector: "Finance"});
@@ -2696,6 +2701,9 @@ events.push({ date: "2023-11-08", title: "TEX", description: "exx", sector: "Ind
 events.push({ date: "2023-11-08", title: "TJX", description: "exx", sector: "Consumer Discretionary"});
 events.push({ date: "2023-11-08", title: "V", description: "exx", sector: "Consumer Discretionary"});
 events.push({ date: "2023-11-08", title: "ZION", description: "exx", sector: "Finance"});
+events.push({ date: "2024-01-22", title: "DELL", description: "exx", sector: "Technology"});
+events.push({ date: "2024-01-22", title: "GAIN", description: "exx", sector: "Finance"});
+events.push({ date: "2024-01-22", title: "LTC", description: "exx", sector: "Real Estate"});
 events.push({ date: "2023-10-23", title: "DELL", description: "exx", sector: "Technology"});
 events.push({ date: "2023-07-24", title: "DELL", description: "exx", sector: "Technology"});
 events.push({ date: "2023-07-24", title: "F", description: "exx", sector: "Consumer Discretionary"});
@@ -2842,8 +2850,6 @@ events.push({ date: "2023-09-21", title: "MDT", description: "exx", sector: "Hea
 events.push({ date: "2023-09-21", title: "SBSW", description: "exx", sector: "Basic Materials"});
 events.push({ date: "2024-03-20", title: "GAIN", description: "exx", sector: "Finance"});
 events.push({ date: "2024-03-20", title: "LTC", description: "exx", sector: "Real Estate"});
-events.push({ date: "2024-01-22", title: "GAIN", description: "exx", sector: "Finance"});
-events.push({ date: "2024-01-22", title: "LTC", description: "exx", sector: "Real Estate"});
 events.push({ date: "2023-06-20", title: "GAIN", description: "exx", sector: "Finance"});
 events.push({ date: "2023-06-20", title: "LUV", description: "exx", sector: "Consumer Discretionary"});
 events.push({ date: "2023-06-20", title: "STX", description: "exx", sector: "Technology"});
@@ -2859,9 +2865,11 @@ events.push({ date: "2023-04-19", title: "LTC", description: "exx", sector: "Rea
 events.push({ date: "2024-03-14", title: "GRMN", description: "exx", sector: "Industrials"});
 events.push({ date: "2024-03-14", title: "PB", description: "exx", sector: "Finance"});
 events.push({ date: "2024-02-28", title: "GS", description: "exx", sector: "Finance"});
+events.push({ date: "2024-02-28", title: "QCOM", description: "exx", sector: "Technology"});
 events.push({ date: "2024-02-28", title: "STAG", description: "exx", sector: "Real Estate"});
 events.push({ date: "2023-03-29", title: "HMC", description: "exx", sector: "Consumer Discretionary"});
 events.push({ date: "2024-02-12", title: "HP", description: "exx", sector: "Energy"});
+events.push({ date: "2024-02-12", title: "PAYX", description: "exx", sector: "Consumer Discretionary"});
 events.push({ date: "2023-07-11", title: "IDCC", description: "exx", sector: "Telecommunications"});
 events.push({ date: "2023-07-11", title: "ORCL", description: "exx", sector: "Technology"});
 events.push({ date: "2023-07-11", title: "PAC", description: "exx", sector: "N/A"});
@@ -2875,7 +2883,11 @@ events.push({ date: "2023-07-21", title: "OPI", description: "exx", sector: "Fin
 events.push({ date: "2023-12-26", title: "INVH", description: "exx", sector: "Finance"});
 events.push({ date: "2023-12-26", title: "TTC", description: "exx", sector: "Consumer Discretionary"});
 events.push({ date: "2023-12-26", title: "ZBH", description: "exx", sector: "Health Care"});
+events.push({ date: "2024-02-08", title: "JBHT", description: "exx", sector: "Industrials"});
+events.push({ date: "2024-02-08", title: "SBUX", description: "exx", sector: "Consumer Discretionary"});
+events.push({ date: "2024-02-08", title: "WTRG", description: "exx", sector: "Utilities"});
 events.push({ date: "2024-02-16", title: "JNJ", description: "exx", sector: "Health Care"});
+events.push({ date: "2024-02-16", title: "SIMO", description: "exx", sector: "Technology"});
 events.push({ date: "2024-02-16", title: "SO", description: "exx", sector: "Utilities"});
 events.push({ date: "2024-02-16", title: "WBA", description: "exx", sector: "Consumer Staples"});
 events.push({ date: "2023-08-28", title: "JWN", description: "exx", sector: "Consumer Discretionary"});
@@ -2908,8 +2920,6 @@ events.push({ date: "2023-04-17", title: "PFLT", description: "exx", sector: "Fi
 events.push({ date: "2023-04-17", title: "PNC", description: "exx", sector: "Finance"});
 events.push({ date: "2023-09-26", title: "PM", description: "exx", sector: "Health Care"});
 events.push({ date: "2023-09-26", title: "SRE", description: "exx", sector: "Utilities"});
-events.push({ date: "2024-02-08", title: "SBUX", description: "exx", sector: "Consumer Discretionary"});
-events.push({ date: "2024-02-08", title: "WTRG", description: "exx", sector: "Utilities"});
 events.push({ date: "2024-01-26", title: "SLP", description: "exx", sector: "Technology"});
 events.push({ date: "2024-03-18", title: "STM", description: "exx", sector: "Technology"});
 events.push({ date: "2024-03-18", title: "TSM", description: "exx", sector: "Technology"});
@@ -3034,6 +3044,7 @@ events.push({ date: "2024-01-31", title: "LNT", description: "rec", sector: "Uti
 events.push({ date: "2024-01-31", title: "MS", description: "rec", sector: "Finance"});
 events.push({ date: "2024-01-31", title: "NNN", description: "rec", sector: "Real Estate"});
 events.push({ date: "2024-01-31", title: "STAG", description: "rec", sector: "Real Estate"});
+events.push({ date: "2024-01-31", title: "TXN", description: "rec", sector: "Technology"});
 events.push({ date: "2024-01-31", title: "WST", description: "rec", sector: "Health Care"});
 events.push({ date: "2024-01-31", title: "EPR", description: "rec", sector: "Real Estate"});
 events.push({ date: "2023-12-29", title: "ADC", description: "rec", sector: "Real Estate"});
@@ -4330,6 +4341,7 @@ events.push({ date: "2023-08-23", title: "TTEK", description: "rec", sector: "Co
 events.push({ date: "2024-02-15", title: "AGCO", description: "rec", sector: "Industrials"});
 events.push({ date: "2024-02-15", title: "CNP", description: "rec", sector: "Utilities"});
 events.push({ date: "2024-02-15", title: "CTAS", description: "rec", sector: "Consumer Discretionary"});
+events.push({ date: "2024-02-15", title: "KR", description: "rec", sector: "Consumer Staples"});
 events.push({ date: "2024-02-15", title: "LLY", description: "rec", sector: "Health Care"});
 events.push({ date: "2024-02-15", title: "MMS", description: "rec", sector: "Consumer Discretionary"});
 events.push({ date: "2024-02-15", title: "MSFT", description: "rec", sector: "Technology"});
@@ -4684,6 +4696,7 @@ events.push({ date: "2024-02-16", title: "BG", description: "rec", sector: "Cons
 events.push({ date: "2024-02-16", title: "DUK", description: "rec", sector: "Industrials"});
 events.push({ date: "2024-02-16", title: "JEF", description: "rec", sector: "Finance"});
 events.push({ date: "2024-02-16", title: "PPG", description: "rec", sector: "Consumer Discretionary"});
+events.push({ date: "2024-02-16", title: "SJM", description: "rec", sector: "Consumer Staples"});
 events.push({ date: "2024-02-16", title: "TEL", description: "rec", sector: "Technology"});
 events.push({ date: "2023-08-18", title: "AMGN", description: "rec", sector: "Health Care"});
 events.push({ date: "2023-08-18", title: "APO", description: "rec", sector: "Finance"});
@@ -4760,6 +4773,7 @@ events.push({ date: "2024-02-01", title: "CASY", description: "rec", sector: "Co
 events.push({ date: "2024-02-01", title: "FAST", description: "rec", sector: "Consumer Discretionary"});
 events.push({ date: "2024-02-01", title: "GHC", description: "rec", sector: "Real Estate"});
 events.push({ date: "2024-02-01", title: "HAS", description: "rec", sector: "Consumer Discretionary"});
+events.push({ date: "2024-02-01", title: "NRG", description: "rec", sector: "Utilities"});
 events.push({ date: "2024-02-01", title: "O", description: "rec", sector: "Real Estate"});
 events.push({ date: "2024-02-01", title: "PNW", description: "rec", sector: "Utilities"});
 events.push({ date: "2024-02-01", title: "VLO", description: "rec", sector: "Energy"});
@@ -5331,6 +5345,7 @@ events.push({ date: "2023-03-20", title: "HPP", description: "rec", sector: "Fin
 events.push({ date: "2023-03-20", title: "PARA", description: "rec", sector: "Industrials"});
 events.push({ date: "2023-03-20", title: "PHM", description: "rec", sector: "Consumer Discretionary"});
 events.push({ date: "2024-02-02", title: "BRO", description: "rec", sector: "Finance"});
+events.push({ date: "2024-02-02", title: "COST", description: "rec", sector: "Consumer Discretionary"});
 events.push({ date: "2023-08-09", title: "BRO", description: "rec", sector: "Finance"});
 events.push({ date: "2023-08-09", title: "CLX", description: "rec", sector: "Consumer Discretionary"});
 events.push({ date: "2023-08-09", title: "IBN", description: "rec", sector: "Finance"});
@@ -5605,6 +5620,9 @@ events.push({ date: "2023-11-09", title: "TEX", description: "rec", sector: "Ind
 events.push({ date: "2023-11-09", title: "TJX", description: "rec", sector: "Consumer Discretionary"});
 events.push({ date: "2023-11-09", title: "V", description: "rec", sector: "Consumer Discretionary"});
 events.push({ date: "2023-11-09", title: "ZION", description: "rec", sector: "Finance"});
+events.push({ date: "2024-01-23", title: "DELL", description: "rec", sector: "Technology"});
+events.push({ date: "2024-01-23", title: "GAIN", description: "rec", sector: "Finance"});
+events.push({ date: "2024-01-23", title: "LTC", description: "rec", sector: "Real Estate"});
 events.push({ date: "2023-10-24", title: "DELL", description: "rec", sector: "Technology"});
 events.push({ date: "2023-07-25", title: "DELL", description: "rec", sector: "Technology"});
 events.push({ date: "2023-07-25", title: "F", description: "rec", sector: "Consumer Discretionary"});
@@ -5761,8 +5779,6 @@ events.push({ date: "2023-09-22", title: "MDT", description: "rec", sector: "Hea
 events.push({ date: "2023-09-22", title: "SBSW", description: "rec", sector: "Basic Materials"});
 events.push({ date: "2024-03-21", title: "GAIN", description: "rec", sector: "Finance"});
 events.push({ date: "2024-03-21", title: "LTC", description: "rec", sector: "Real Estate"});
-events.push({ date: "2024-01-23", title: "GAIN", description: "rec", sector: "Finance"});
-events.push({ date: "2024-01-23", title: "LTC", description: "rec", sector: "Real Estate"});
 events.push({ date: "2023-06-21", title: "GAIN", description: "rec", sector: "Finance"});
 events.push({ date: "2023-06-21", title: "LUV", description: "rec", sector: "Consumer Discretionary"});
 events.push({ date: "2023-06-21", title: "STX", description: "rec", sector: "Technology"});
@@ -5778,9 +5794,11 @@ events.push({ date: "2023-04-20", title: "LTC", description: "rec", sector: "Rea
 events.push({ date: "2024-03-15", title: "GRMN", description: "rec", sector: "Industrials"});
 events.push({ date: "2024-03-15", title: "PB", description: "rec", sector: "Finance"});
 events.push({ date: "2024-02-29", title: "GS", description: "rec", sector: "Finance"});
+events.push({ date: "2024-02-29", title: "QCOM", description: "rec", sector: "Technology"});
 events.push({ date: "2024-02-29", title: "STAG", description: "rec", sector: "Real Estate"});
 events.push({ date: "2023-03-30", title: "HMC", description: "rec", sector: "Consumer Discretionary"});
 events.push({ date: "2024-02-13", title: "HP", description: "rec", sector: "Energy"});
+events.push({ date: "2024-02-13", title: "PAYX", description: "rec", sector: "Consumer Discretionary"});
 events.push({ date: "2023-07-12", title: "IDCC", description: "rec", sector: "Telecommunications"});
 events.push({ date: "2023-07-12", title: "ORCL", description: "rec", sector: "Technology"});
 events.push({ date: "2023-07-12", title: "PAC", description: "rec", sector: "N/A"});
@@ -5799,7 +5817,11 @@ events.push({ date: "2023-10-09", title: "ROP", description: "rec", sector: "Ind
 events.push({ date: "2023-12-27", title: "INVH", description: "rec", sector: "Finance"});
 events.push({ date: "2023-12-27", title: "TTC", description: "rec", sector: "Consumer Discretionary"});
 events.push({ date: "2023-12-27", title: "ZBH", description: "rec", sector: "Health Care"});
+events.push({ date: "2024-02-09", title: "JBHT", description: "rec", sector: "Industrials"});
+events.push({ date: "2024-02-09", title: "SBUX", description: "rec", sector: "Consumer Discretionary"});
+events.push({ date: "2024-02-09", title: "WTRG", description: "rec", sector: "Utilities"});
 events.push({ date: "2024-02-20", title: "JNJ", description: "rec", sector: "Health Care"});
+events.push({ date: "2024-02-20", title: "SIMO", description: "rec", sector: "Technology"});
 events.push({ date: "2024-02-20", title: "SO", description: "rec", sector: "Utilities"});
 events.push({ date: "2024-02-20", title: "WBA", description: "rec", sector: "Consumer Staples"});
 events.push({ date: "2023-08-29", title: "JWN", description: "rec", sector: "Consumer Discretionary"});
@@ -5837,8 +5859,6 @@ events.push({ date: "2023-04-18", title: "PFLT", description: "rec", sector: "Fi
 events.push({ date: "2023-04-18", title: "PNC", description: "rec", sector: "Finance"});
 events.push({ date: "2023-09-27", title: "PM", description: "rec", sector: "Health Care"});
 events.push({ date: "2023-09-27", title: "SRE", description: "rec", sector: "Utilities"});
-events.push({ date: "2024-02-09", title: "SBUX", description: "rec", sector: "Consumer Discretionary"});
-events.push({ date: "2024-02-09", title: "WTRG", description: "rec", sector: "Utilities"});
 events.push({ date: "2024-01-29", title: "SLP", description: "rec", sector: "Technology"});
 events.push({ date: "2024-03-28", title: "STAG", description: "rec", sector: "Real Estate"});
 events.push({ date: "2024-03-19", title: "STM", description: "rec", sector: "Technology"});
@@ -5865,6 +5885,7 @@ events.push({ date: "2024-02-15", title: "LNT", description: "pay", sector: "Uti
 events.push({ date: "2024-02-15", title: "MMC", description: "pay", sector: "Finance"});
 events.push({ date: "2024-02-15", title: "MS", description: "pay", sector: "Finance"});
 events.push({ date: "2024-02-15", title: "NNN", description: "pay", sector: "Real Estate"});
+events.push({ date: "2024-02-15", title: "NRG", description: "pay", sector: "Utilities"});
 events.push({ date: "2024-02-15", title: "O", description: "pay", sector: "Real Estate"});
 events.push({ date: "2024-02-15", title: "OPI", description: "pay", sector: "Finance"});
 events.push({ date: "2024-02-15", title: "PG", description: "pay", sector: "Consumer Discretionary"});
@@ -7296,8 +7317,11 @@ events.push({ date: "2024-03-01", title: "AFL", description: "pay", sector: "Fin
 events.push({ date: "2024-03-01", title: "AWK", description: "pay", sector: "Utilities"});
 events.push({ date: "2024-03-01", title: "BG", description: "pay", sector: "Consumer Staples"});
 events.push({ date: "2024-03-01", title: "FE", description: "pay", sector: "Utilities"});
+events.push({ date: "2024-03-01", title: "KR", description: "pay", sector: "Consumer Staples"});
 events.push({ date: "2024-03-01", title: "PFE", description: "pay", sector: "Health Care"});
 events.push({ date: "2024-03-01", title: "PNW", description: "pay", sector: "Utilities"});
+events.push({ date: "2024-03-01", title: "SIMO", description: "pay", sector: "Technology"});
+events.push({ date: "2024-03-01", title: "SJM", description: "pay", sector: "Consumer Staples"});
 events.push({ date: "2024-03-01", title: "TEL", description: "pay", sector: "Technology"});
 events.push({ date: "2024-03-01", title: "WEC", description: "pay", sector: "Utilities"});
 events.push({ date: "2024-03-01", title: "WTRG", description: "pay", sector: "Utilities"});
@@ -8172,6 +8196,7 @@ events.push({ date: "2023-03-30", title: "PSA", description: "pay", sector: "Rea
 events.push({ date: "2023-03-30", title: "SWBI", description: "pay", sector: "Industrials"});
 events.push({ date: "2023-03-30", title: "TROW", description: "pay", sector: "Finance"});
 events.push({ date: "2024-02-02", title: "BK", description: "pay", sector: "Finance"});
+events.push({ date: "2024-02-02", title: "DELL", description: "pay", sector: "Technology"});
 events.push({ date: "2024-02-02", title: "PDCO", description: "pay", sector: "Health Care"});
 events.push({ date: "2024-02-02", title: "PNR", description: "pay", sector: "Industrials"});
 events.push({ date: "2024-02-02", title: "VOD", description: "pay", sector: "Telecommunications"});
@@ -8344,6 +8369,7 @@ events.push({ date: "2023-01-15", title: "DTE", description: "pay", sector: "Uti
 events.push({ date: "2023-01-15", title: "MLKN", description: "pay", sector: "Consumer Discretionary"});
 events.push({ date: "2023-01-15", title: "SRE", description: "pay", sector: "Utilities"});
 events.push({ date: "2024-02-23", title: "C", description: "pay", sector: "Finance"});
+events.push({ date: "2024-02-23", title: "JBHT", description: "pay", sector: "Industrials"});
 events.push({ date: "2024-02-23", title: "SBUX", description: "pay", sector: "Consumer Discretionary"});
 events.push({ date: "2024-02-23", title: "WSM", description: "pay", sector: "Consumer Discretionary"});
 events.push({ date: "2023-05-26", title: "C", description: "pay", sector: "Finance"});
@@ -8418,6 +8444,7 @@ events.push({ date: "2023-01-06", title: "PEP", description: "pay", sector: "Con
 events.push({ date: "2023-01-06", title: "WKC", description: "pay", sector: "Energy"});
 events.push({ date: "2023-01-06", title: "YY", description: "pay", sector: "Technology"});
 events.push({ date: "2024-02-13", title: "CBRL", description: "pay", sector: "Consumer Discretionary"});
+events.push({ date: "2024-02-13", title: "TXN", description: "pay", sector: "Technology"});
 events.push({ date: "2023-11-07", title: "CBRL", description: "pay", sector: "Consumer Discretionary"});
 events.push({ date: "2023-11-07", title: "MED", description: "pay", sector: "Consumer Discretionary"});
 events.push({ date: "2023-08-08", title: "CBRL", description: "pay", sector: "Consumer Discretionary"});
@@ -8566,6 +8593,8 @@ events.push({ date: "2023-08-11", title: "GD", description: "pay", sector: "Indu
 events.push({ date: "2023-08-11", title: "HXL", description: "pay", sector: "Industrials"});
 events.push({ date: "2023-08-11", title: "NUE", description: "pay", sector: "Industrials"});
 events.push({ date: "2023-08-11", title: "RVTY", description: "pay", sector: "Industrials"});
+events.push({ date: "2024-02-16", title: "COST", description: "pay", sector: "Consumer Discretionary"});
+events.push({ date: "2024-02-16", title: "UNM", description: "pay", sector: "Finance"});
 events.push({ date: "2023-04-20", title: "CPA", description: "pay", sector: "Consumer Discretionary"});
 events.push({ date: "2023-04-20", title: "FMC", description: "pay", sector: "Industrials"});
 events.push({ date: "2023-04-20", title: "NYT", description: "pay", sector: "Consumer Discretionary"});
@@ -8784,6 +8813,7 @@ events.push({ date: "2023-12-27", title: "WRB", description: "pay", sector: "Fin
 events.push({ date: "2023-12-27", title: "MAIN", description: "pay", sector: "Finance"});
 events.push({ date: "2024-02-27", title: "HP", description: "pay", sector: "Energy"});
 events.push({ date: "2024-02-27", title: "JEF", description: "pay", sector: "Finance"});
+events.push({ date: "2024-02-27", title: "PAYX", description: "pay", sector: "Consumer Discretionary"});
 events.push({ date: "2023-08-30", title: "HR", description: "pay", sector: "Real Estate"});
 events.push({ date: "2023-08-30", title: "ORA", description: "pay", sector: "Utilities"});
 events.push({ date: "2023-08-30", title: "RGR", description: "pay", sector: "Industrials"});
@@ -8862,6 +8892,7 @@ events.push({ date: "2024-02-21", title: "MDC", description: "pay", sector: "Con
 events.push({ date: "2023-02-07", title: "MED", description: "pay", sector: "Consumer Discretionary"});
 events.push({ date: "2023-03-12", title: "MMM", description: "pay", sector: "Health Care"});
 events.push({ date: "2024-03-21", title: "MOS", description: "pay", sector: "Industrials"});
+events.push({ date: "2024-03-21", title: "QCOM", description: "pay", sector: "Technology"});
 events.push({ date: "2024-01-09", title: "MTN", description: "pay", sector: "Consumer Discretionary"});
 events.push({ date: "2024-01-09", title: "SEIC", description: "pay", sector: "Finance"});
 events.push({ date: "2024-01-09", title: "STX", description: "pay", sector: "Technology"});
@@ -8899,6 +8930,5 @@ events.push({ date: "2023-12-10", title: "TGT", description: "pay", sector: "Con
 events.push({ date: "2023-09-10", title: "TGT", description: "pay", sector: "Consumer Discretionary"});
 events.push({ date: "2024-04-11", title: "TSM", description: "pay", sector: "Technology"});
 events.push({ date: "2023-05-16", title: "TXN", description: "pay", sector: "Technology"});
-events.push({ date: "2024-02-16", title: "UNM", description: "pay", sector: "Finance"});
 events.push({ date: "2024-03-04", title: "VLO", description: "pay", sector: "Energy"});
 events.push({ date: "2024-01-20", title: "XEL", description: "pay", sector: "Utilities"});
