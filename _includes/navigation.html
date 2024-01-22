@@ -52,7 +52,7 @@
     <ul class="nav flex-column mb-auto">
       {% for item in site.data.navigation_buy %}
       <li class="nav-item">
-        <a class="nav-link d-flex align-items-center gap-2" href="{{ item.link }}" {{ item.style }}>
+        <a class="nav-link d-flex align-items-center gap-2" href="{{ item.link }}" taget="_blank" {{ item.style }}>
           <svg class="bi"><use xlink:href="#file-earmark-text"/></svg>
           {{ item.name }} {% if page.url contains item.link %} --X-- {% endif %}
         </a>
@@ -69,7 +69,7 @@
     <ul class="nav flex-column mb-auto">
       {% for item in site.data.navigation_sell %}
       <li class="nav-item">
-        <a class="nav-link d-flex align-items-center gap-2" href="{{ item.link }}" {{ item.style }}>
+        <a class="nav-link d-flex align-items-center gap-2" href="{{ item.link }}" taget="_blank" {{ item.style }}>
           <svg class="bi"><use xlink:href="#file-earmark-text"/></svg>
           {{ item.name }} {% if page.url contains item.link %} --X-- {% endif %}
         </a>
@@ -86,7 +86,7 @@
     <ul class="nav flex-column mb-auto">
       {% for item in site.data.navigation_keep %}
       <li class="nav-item">
-        <a class="nav-link d-flex align-items-center gap-2" href="{{ item.link }}" {{ item.style }}>
+        <a class="nav-link d-flex align-items-center gap-2" href="{{ item.link }}" taget="_blank" {{ item.style }}>
           <svg class="bi"><use xlink:href="#file-earmark-text"/></svg>
           {{ item.name }} {% if page.url contains item.link %} --X-- {% endif %}
         </a>
