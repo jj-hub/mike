@@ -232,7 +232,7 @@ function createEventTooltip(date, month, year) {
 	if(l_evs.length){
 		l_entries.push('<b><FONT COLOR="black">X:</FONT></b>')
 		l_evs.forEach((element) => {
-			l_entries.push(`<a target="_blank" href="https://jj-hub.github.io/mike/v/${element.title}.v">${element.description}</a><b>(<FONT COLOR="crimson">${element.title}</FONT>)</b>`)
+			l_entries.push(`<a target="_blank" href="https://jj-hub.github.io/mike/stk/${element.title}.stk">${element.description}</a><b>(<FONT COLOR="crimson">${element.title}/${element.sector}</FONT>)</b>`)
 		});
 	}
 
@@ -240,7 +240,7 @@ function createEventTooltip(date, month, year) {
 	if(l_evs.length){
 		l_entries.push('<b><FONT COLOR="black">REC:</FONT></b>')
 		l_evs.forEach((element) => {
-			l_entries.push(`<a target="_blank" href="https://jj-hub.github.io/mike/v/${element.title}.v">${element.description}</a><b>(<FONT COLOR="dodgerblue">${element.title}</FONT>)</b>`)
+			l_entries.push(`<a target="_blank" href="https://jj-hub.github.io/mike/stk/${element.title}.stk">${element.description}</a><b>(<FONT COLOR="dodgerblue">${element.title}/${element.sector}</FONT>)</b>`)
 		});
 	}
 
@@ -248,7 +248,7 @@ function createEventTooltip(date, month, year) {
 	if(l_evs.length){
 		l_entries.push('<b><FONT COLOR="black">PAY:</FONT></b>')
 		l_evs.forEach((element) => {
-			l_entries.push(`<a target="_blank" href="https://jj-hub.github.io/mike/v/${element.title}.v">${element.description}</a><b>(<FONT COLOR="darkgreen">${element.title}</FONT>)</b>`)
+			l_entries.push(`<a target="_blank" href="https://jj-hub.github.io/mike/stk/${element.title}.stk">${element.description}</a><b>(<FONT COLOR="darkgreen">${element.title}/${element.sector}</FONT>)</b>`)
 		});
 	}
 	
