@@ -230,30 +230,39 @@ function createEventTooltip(date, month, year) {
 	
 	l_evs = getEventsOnDate(date, month, year,'exx')
 	if(l_evs.length){
-		l_entries.push('<b><FONT COLOR="black">X:</FONT></b>')
+		l_entries.push('<b><FONT COLOR="black">X:</FONT></b><br>')
+		i=0;
 		l_evs.forEach((element) => {
 			l_entries.push(`<a target="_blank" href="https://jj-hub.github.io/mike/stk/${element.title}.stk">${element.description}</a><b>(<FONT COLOR="crimson">${element.title}/${element.sector}</FONT>)</b>`)
+			i++;
+			if( 0 === (i%2)){l_entries.push('<br>')}
 		});
 	}
-
+	l_entries.push('<br>')
 	l_evs = getEventsOnDate(date, month, year,'rec')
 	if(l_evs.length){
-		l_entries.push('<b><FONT COLOR="black">REC:</FONT></b>')
+		l_entries.push('<b><FONT COLOR="black">REC:</FONT></b><br>')
+		i=0;
 		l_evs.forEach((element) => {
 			l_entries.push(`<a target="_blank" href="https://jj-hub.github.io/mike/stk/${element.title}.stk">${element.description}</a><b>(<FONT COLOR="dodgerblue">${element.title}/${element.sector}</FONT>)</b>`)
+			i++;
+			if( 0 === (i%2)){l_entries.push('<br>')}
 		});
 	}
-
+	l_entries.push('<br>')
 	l_evs = getEventsOnDate(date, month, year,'pay')
 	if(l_evs.length){
-		l_entries.push('<b><FONT COLOR="black">PAY:</FONT></b>')
+		l_entries.push('<b><FONT COLOR="black">PAY:</FONT></b><br>')
+		i=0;
 		l_evs.forEach((element) => {
 			l_entries.push(`<a target="_blank" href="https://jj-hub.github.io/mike/stk/${element.title}.stk">${element.description}</a><b>(<FONT COLOR="darkgreen">${element.title}/${element.sector}</FONT>)</b>`)
+			i++;
+			if( 0 === (i%2)){l_entries.push('<br>')}
 		});
 	}
 	
 	let eventElement = document.createElement("p");
-		eventElement.innerHTML = l_entries.join('<br>');
+		eventElement.innerHTML = l_entries.join('');
 	tooltip.appendChild(eventElement);
 	return tooltip;
 }
@@ -284,8 +293,8 @@ function daysInMonth(iMonth, iYear) {
 
 // Call the showCalendar function initially to display the calendar
 function showCalendar2(month, year) {
-	showCalendar("calendar-body",month, year);
 	showCalendar("calendar-body2",month+1, year);
+	showCalendar("calendar-body",month, year);
 }
 
 showCalendar2(currentMonth, currentYear);
