@@ -2,14 +2,14 @@
   description: ....
   link: ./str/blsh.str
   style: 
-- name: Check Open Windows Strategy
+- name: Newer - Check Open Windows Strategy 
   description: Identify current window opportunities
   link: ./str/newer.str
-  style: 
-- name: Cheap Strategy
+  style: style="color:green"
+- name: Cheaper - Strategy
   description: Which ones are cheaper?
   link: ./str/cheaper.str
-  style: 
+  style: style="color:green"
 - name: Buy Low Sell High Strategy
   description: ....
   link: ./str/blsh.str
@@ -17,7 +17,7 @@
 - name: Reflections
   description: ....
   link: ./str/blsh.str
-  style: 
+  style: style="color:green"
 - name: Do Validity Checklist - //Scoring Strategy
   description: Before purchase perform this pilot checklist/scoring
   link: ./
