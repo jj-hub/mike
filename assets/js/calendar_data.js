@@ -314,15 +314,19 @@ events.push({ date: "2023-07-07", title: "UDR", description: "exx", sector: "Rea
 events.push({ date: "2023-04-06", title: "UDR", description: "exx", sector: "Real Estate"});
 events.push({ date: "2023-01-06", title: "UDR", description: "exx", sector: "Real Estate"});
 events.push({ date: "2023-01-27", title: "VNO", description: "exx", sector: "Real Estate"});
+events.push({ date: "2024-02-15", title: "WY", description: "exx", sector: "Real Estate"});
 events.push({ date: "2023-02-14", title: "WY", description: "exx", sector: "Real Estate"});
 events.push({ date: "2023-11-30", title: "AMR", description: "exx", sector: "Energy"});
 events.push({ date: "2023-09-14", title: "AMR", description: "exx", sector: "Energy"});
 events.push({ date: "2023-09-14", title: "CIVI", description: "exx", sector: "Energy"});
+events.push({ date: "2023-09-14", title: "VTS", description: "exx", sector: "Energy"});
 events.push({ date: "2023-06-14", title: "AMR", description: "exx", sector: "Energy"});
 events.push({ date: "2023-06-14", title: "CIVI", description: "exx", sector: "Energy"});
 events.push({ date: "2023-06-14", title: "HES", description: "exx", sector: "Energy"});
+events.push({ date: "2023-06-14", title: "VTS", description: "exx", sector: "Energy"});
 events.push({ date: "2023-03-14", title: "AMR", description: "exx", sector: "Energy"});
 events.push({ date: "2023-03-14", title: "CIVI", description: "exx", sector: "Energy"});
+events.push({ date: "2023-03-14", title: "VTS", description: "exx", sector: "Energy"});
 events.push({ date: "2024-01-19", title: "APA", description: "exx", sector: "Energy"});
 events.push({ date: "2023-10-20", title: "APA", description: "exx", sector: "Energy"});
 events.push({ date: "2023-07-20", title: "APA", description: "exx", sector: "Energy"});
@@ -351,6 +355,7 @@ events.push({ date: "2023-03-06", title: "DINO", description: "exx", sector: "En
 events.push({ date: "2023-03-06", title: "PR", description: "exx", sector: "Energy"});
 events.push({ date: "2023-12-14", title: "CIVI", description: "exx", sector: "Energy"});
 events.push({ date: "2023-12-14", title: "EOG", description: "exx", sector: "Energy"});
+events.push({ date: "2023-12-14", title: "VTS", description: "exx", sector: "Energy"});
 events.push({ date: "2023-09-27", title: "COP", description: "exx", sector: "Energy"});
 events.push({ date: "2023-08-15", title: "COP", description: "exx", sector: "Energy"});
 events.push({ date: "2023-08-15", title: "MPC", description: "exx", sector: "Energy"});
@@ -479,6 +484,7 @@ events.push({ date: "2023-04-06", title: "T", description: "exx", sector: "Telec
 events.push({ date: "2023-04-06", title: "VZ", description: "exx", sector: "Telecommunications"});
 events.push({ date: "2023-01-09", title: "T", description: "exx", sector: "Telecommunications"});
 events.push({ date: "2023-01-09", title: "VZ", description: "exx", sector: "Telecommunications"});
+events.push({ date: "2024-02-29", title: "TMUS", description: "exx", sector: "Telecommunications"});
 events.push({ date: "2023-11-30", title: "TMUS", description: "exx", sector: "Telecommunications"});
 events.push({ date: "2023-11-22", title: "VOD", description: "exx", sector: "Telecommunications"});
 events.push({ date: "2023-06-08", title: "VOD", description: "exx", sector: "Telecommunications"});
@@ -802,15 +808,19 @@ events.push({ date: "2023-07-10", title: "UDR", description: "rec", sector: "Rea
 events.push({ date: "2023-04-10", title: "UDR", description: "rec", sector: "Real Estate"});
 events.push({ date: "2023-01-09", title: "UDR", description: "rec", sector: "Real Estate"});
 events.push({ date: "2023-01-30", title: "VNO", description: "rec", sector: "Real Estate"});
+events.push({ date: "2024-02-16", title: "WY", description: "rec", sector: "Real Estate"});
 events.push({ date: "2023-02-15", title: "WY", description: "rec", sector: "Real Estate"});
 events.push({ date: "2023-12-01", title: "AMR", description: "rec", sector: "Energy"});
 events.push({ date: "2023-09-15", title: "AMR", description: "rec", sector: "Energy"});
 events.push({ date: "2023-09-15", title: "CIVI", description: "rec", sector: "Energy"});
+events.push({ date: "2023-09-15", title: "VTS", description: "rec", sector: "Energy"});
 events.push({ date: "2023-06-15", title: "AMR", description: "rec", sector: "Energy"});
 events.push({ date: "2023-06-15", title: "CIVI", description: "rec", sector: "Energy"});
 events.push({ date: "2023-06-15", title: "HES", description: "rec", sector: "Energy"});
+events.push({ date: "2023-06-15", title: "VTS", description: "rec", sector: "Energy"});
 events.push({ date: "2023-03-15", title: "AMR", description: "rec", sector: "Energy"});
 events.push({ date: "2023-03-15", title: "CIVI", description: "rec", sector: "Energy"});
+events.push({ date: "2023-03-15", title: "VTS", description: "rec", sector: "Energy"});
 events.push({ date: "2024-01-22", title: "APA", description: "rec", sector: "Energy"});
 events.push({ date: "2023-10-23", title: "APA", description: "rec", sector: "Energy"});
 events.push({ date: "2023-07-21", title: "APA", description: "rec", sector: "Energy"});
@@ -838,6 +848,7 @@ events.push({ date: "2023-03-07", title: "DINO", description: "rec", sector: "En
 events.push({ date: "2023-03-07", title: "PR", description: "rec", sector: "Energy"});
 events.push({ date: "2023-12-15", title: "CIVI", description: "rec", sector: "Energy"});
 events.push({ date: "2023-12-15", title: "EOG", description: "rec", sector: "Energy"});
+events.push({ date: "2023-12-15", title: "VTS", description: "rec", sector: "Energy"});
 events.push({ date: "2023-09-28", title: "COP", description: "rec", sector: "Energy"});
 events.push({ date: "2023-08-16", title: "COP", description: "rec", sector: "Energy"});
 events.push({ date: "2023-08-16", title: "MPC", description: "rec", sector: "Energy"});
@@ -967,6 +978,7 @@ events.push({ date: "2023-04-10", title: "T", description: "rec", sector: "Telec
 events.push({ date: "2023-04-10", title: "VZ", description: "rec", sector: "Telecommunications"});
 events.push({ date: "2023-01-10", title: "T", description: "rec", sector: "Telecommunications"});
 events.push({ date: "2023-01-10", title: "VZ", description: "rec", sector: "Telecommunications"});
+events.push({ date: "2024-03-01", title: "TMUS", description: "rec", sector: "Telecommunications"});
 events.push({ date: "2023-12-01", title: "TMUS", description: "rec", sector: "Telecommunications"});
 events.push({ date: "2023-11-24", title: "VOD", description: "rec", sector: "Telecommunications"});
 events.push({ date: "2023-06-09", title: "VOD", description: "rec", sector: "Telecommunications"});
@@ -1314,6 +1326,7 @@ events.push({ date: "2023-12-27", title: "VNO", description: "pay", sector: "Rea
 events.push({ date: "2023-02-10", title: "VNO", description: "pay", sector: "Real Estate"});
 events.push({ date: "2023-10-10", title: "VRE", description: "pay", sector: "Real Estate"});
 events.push({ date: "2023-01-19", title: "VTR", description: "pay", sector: "Real Estate"});
+events.push({ date: "2024-02-27", title: "WY", description: "pay", sector: "Real Estate"});
 events.push({ date: "2023-06-16", title: "WY", description: "pay", sector: "Real Estate"});
 events.push({ date: "2023-02-27", title: "WY", description: "pay", sector: "Real Estate"});
 events.push({ date: "2023-12-15", title: "AMR", description: "pay", sector: "Energy"});
@@ -1331,6 +1344,7 @@ events.push({ date: "2023-12-19", title: "BP", description: "pay", sector: "Ener
 events.push({ date: "2023-09-22", title: "BP", description: "pay", sector: "Energy"});
 events.push({ date: "2023-06-23", title: "BP", description: "pay", sector: "Energy"});
 events.push({ date: "2023-03-31", title: "BP", description: "pay", sector: "Energy"});
+events.push({ date: "2023-03-31", title: "VTS", description: "pay", sector: "Energy"});
 events.push({ date: "2023-05-23", title: "CEIX", description: "pay", sector: "Energy"});
 events.push({ date: "2023-02-28", title: "CEIX", description: "pay", sector: "Energy"});
 events.push({ date: "2023-02-28", title: "HP", description: "pay", sector: "Energy"});
@@ -1343,8 +1357,10 @@ events.push({ date: "2023-03-21", title: "CHRD", description: "pay", sector: "En
 events.push({ date: "2023-12-29", title: "CIVI", description: "pay", sector: "Energy"});
 events.push({ date: "2023-12-29", title: "EOG", description: "pay", sector: "Energy"});
 events.push({ date: "2023-12-29", title: "HES", description: "pay", sector: "Energy"});
+events.push({ date: "2023-12-29", title: "VTS", description: "pay", sector: "Energy"});
 events.push({ date: "2023-09-29", title: "CIVI", description: "pay", sector: "Energy"});
 events.push({ date: "2023-09-29", title: "HES", description: "pay", sector: "Energy"});
+events.push({ date: "2023-09-29", title: "VTS", description: "pay", sector: "Energy"});
 events.push({ date: "2023-06-29", title: "CIVI", description: "pay", sector: "Energy"});
 events.push({ date: "2023-03-30", title: "CIVI", description: "pay", sector: "Energy"});
 events.push({ date: "2023-03-30", title: "CTRA", description: "pay", sector: "Energy"});
@@ -1416,6 +1432,7 @@ events.push({ date: "2023-03-07", title: "HCC", description: "pay", sector: "Ene
 events.push({ date: "2023-03-07", title: "WWD", description: "pay", sector: "Energy"});
 events.push({ date: "2023-02-27", title: "HCC", description: "pay", sector: "Energy"});
 events.push({ date: "2023-06-30", title: "HES", description: "pay", sector: "Energy"});
+events.push({ date: "2023-06-30", title: "VTS", description: "pay", sector: "Energy"});
 events.push({ date: "2023-12-04", title: "HP", description: "pay", sector: "Energy"});
 events.push({ date: "2023-12-04", title: "WWD", description: "pay", sector: "Energy"});
 events.push({ date: "2024-01-16", title: "OXY", description: "pay", sector: "Energy"});
@@ -1485,6 +1502,7 @@ events.push({ date: "2023-02-01", title: "T", description: "pay", sector: "Telec
 events.push({ date: "2023-02-01", title: "VZ", description: "pay", sector: "Telecommunications"});
 events.push({ date: "2023-03-31", title: "TDS", description: "pay", sector: "Telecommunications"});
 events.push({ date: "2023-07-17", title: "TLK", description: "pay", sector: "Telecommunications"});
+events.push({ date: "2024-03-14", title: "TMUS", description: "pay", sector: "Telecommunications"});
 events.push({ date: "2023-12-15", title: "TMUS", description: "pay", sector: "Telecommunications"});
 events.push({ date: "2024-02-02", title: "VOD", description: "pay", sector: "Telecommunications"});
 events.push({ date: "2023-08-04", title: "VOD", description: "pay", sector: "Telecommunications"});
