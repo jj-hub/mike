@@ -286,6 +286,7 @@ events.push({ date: "2023-04-28", title: "O", description: "exx", sector: "Real 
 events.push({ date: "2023-04-28", title: "OHI", description: "exx", sector: "Real Estate"});
 events.push({ date: "2023-02-28", title: "O", description: "exx", sector: "Real Estate"});
 events.push({ date: "2023-01-31", title: "O", description: "exx", sector: "Real Estate"});
+events.push({ date: "2024-02-02", title: "OHI", description: "exx", sector: "Real Estate"});
 events.push({ date: "2023-02-03", title: "OHI", description: "exx", sector: "Real Estate"});
 events.push({ date: "2023-06-01", title: "PCH", description: "exx", sector: "Real Estate"});
 events.push({ date: "2023-06-01", title: "WY", description: "exx", sector: "Real Estate"});
@@ -420,6 +421,7 @@ events.push({ date: "2023-11-17", title: "PR", description: "exx", sector: "Ener
 events.push({ date: "2023-11-17", title: "WWD", description: "exx", sector: "Energy"});
 events.push({ date: "2023-11-08", title: "MGY", description: "exx", sector: "Energy"});
 events.push({ date: "2023-02-09", title: "MGY", description: "exx", sector: "Energy"});
+events.push({ date: "2024-02-20", title: "MPC", description: "exx", sector: "Energy"});
 events.push({ date: "2023-05-16", title: "MPC", description: "exx", sector: "Energy"});
 events.push({ date: "2023-12-07", title: "OXY", description: "exx", sector: "Energy"});
 events.push({ date: "2023-09-07", title: "OXY", description: "exx", sector: "Energy"});
@@ -780,6 +782,7 @@ events.push({ date: "2023-05-01", title: "O", description: "rec", sector: "Real 
 events.push({ date: "2023-05-01", title: "OHI", description: "rec", sector: "Real Estate"});
 events.push({ date: "2023-03-01", title: "O", description: "rec", sector: "Real Estate"});
 events.push({ date: "2023-02-01", title: "O", description: "rec", sector: "Real Estate"});
+events.push({ date: "2024-02-05", title: "OHI", description: "rec", sector: "Real Estate"});
 events.push({ date: "2023-02-06", title: "OHI", description: "rec", sector: "Real Estate"});
 events.push({ date: "2023-06-02", title: "PCH", description: "rec", sector: "Real Estate"});
 events.push({ date: "2023-06-02", title: "WY", description: "rec", sector: "Real Estate"});
@@ -914,6 +917,7 @@ events.push({ date: "2023-11-20", title: "PR", description: "rec", sector: "Ener
 events.push({ date: "2023-11-20", title: "WWD", description: "rec", sector: "Energy"});
 events.push({ date: "2023-11-09", title: "MGY", description: "rec", sector: "Energy"});
 events.push({ date: "2023-02-10", title: "MGY", description: "rec", sector: "Energy"});
+events.push({ date: "2024-02-21", title: "MPC", description: "rec", sector: "Energy"});
 events.push({ date: "2023-05-17", title: "MPC", description: "rec", sector: "Energy"});
 events.push({ date: "2023-12-08", title: "OXY", description: "rec", sector: "Energy"});
 events.push({ date: "2023-09-08", title: "OXY", description: "rec", sector: "Energy"});
@@ -1086,6 +1090,7 @@ events.push({ date: "2024-02-15", title: "GHC", description: "pay", sector: "Rea
 events.push({ date: "2024-02-15", title: "ILPT", description: "pay", sector: "Real Estate"});
 events.push({ date: "2024-02-15", title: "NNN", description: "pay", sector: "Real Estate"});
 events.push({ date: "2024-02-15", title: "O", description: "pay", sector: "Real Estate"});
+events.push({ date: "2024-02-15", title: "OHI", description: "pay", sector: "Real Estate"});
 events.push({ date: "2024-02-15", title: "STAG", description: "pay", sector: "Real Estate"});
 events.push({ date: "2024-02-15", title: "EPR", description: "pay", sector: "Real Estate"});
 events.push({ date: "2023-12-15", title: "APLE", description: "pay", sector: "Real Estate"});
@@ -1435,6 +1440,7 @@ events.push({ date: "2023-06-30", title: "HES", description: "pay", sector: "Ene
 events.push({ date: "2023-06-30", title: "VTS", description: "pay", sector: "Energy"});
 events.push({ date: "2023-12-04", title: "HP", description: "pay", sector: "Energy"});
 events.push({ date: "2023-12-04", title: "WWD", description: "pay", sector: "Energy"});
+events.push({ date: "2024-03-11", title: "MPC", description: "pay", sector: "Energy"});
 events.push({ date: "2024-01-16", title: "OXY", description: "pay", sector: "Energy"});
 events.push({ date: "2024-01-16", title: "WKC", description: "pay", sector: "Energy"});
 events.push({ date: "2023-10-13", title: "OXY", description: "pay", sector: "Energy"});
