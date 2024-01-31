@@ -452,6 +452,7 @@ events.push({ date: "2023-04-05", title: "WKC", description: "exx", sector: "Ene
 events.push({ date: "2024-02-16", title: "WWD", description: "exx", sector: "Energy"});
 events.push({ date: "2023-11-09", title: "AMX", description: "exx", sector: "Telecommunications"});
 events.push({ date: "2023-07-13", title: "AMX", description: "exx", sector: "Telecommunications"});
+events.push({ date: "2024-04-02", title: "CMCSA", description: "exx", sector: "Telecommunications"});
 events.push({ date: "2024-01-02", title: "CMCSA", description: "exx", sector: "Telecommunications"});
 events.push({ date: "2023-10-03", title: "CMCSA", description: "exx", sector: "Telecommunications"});
 events.push({ date: "2023-10-03", title: "CSCO", description: "exx", sector: "Telecommunications"});
@@ -948,6 +949,7 @@ events.push({ date: "2023-04-06", title: "WKC", description: "rec", sector: "Ene
 events.push({ date: "2024-02-20", title: "WWD", description: "rec", sector: "Energy"});
 events.push({ date: "2023-11-10", title: "AMX", description: "rec", sector: "Telecommunications"});
 events.push({ date: "2023-07-14", title: "AMX", description: "rec", sector: "Telecommunications"});
+events.push({ date: "2024-04-03", title: "CMCSA", description: "rec", sector: "Telecommunications"});
 events.push({ date: "2024-01-03", title: "CMCSA", description: "rec", sector: "Telecommunications"});
 events.push({ date: "2023-10-04", title: "CMCSA", description: "rec", sector: "Telecommunications"});
 events.push({ date: "2023-10-04", title: "CSCO", description: "rec", sector: "Telecommunications"});
@@ -1474,6 +1476,7 @@ events.push({ date: "2024-03-05", title: "WWD", description: "pay", sector: "Ene
 events.push({ date: "2023-08-28", title: "WWD", description: "pay", sector: "Energy"});
 events.push({ date: "2023-06-05", title: "WWD", description: "pay", sector: "Energy"});
 events.push({ date: "2023-11-20", title: "AMX", description: "pay", sector: "Telecommunications"});
+events.push({ date: "2024-04-24", title: "CMCSA", description: "pay", sector: "Telecommunications"});
 events.push({ date: "2024-01-24", title: "CMCSA", description: "pay", sector: "Telecommunications"});
 events.push({ date: "2024-01-24", title: "CSCO", description: "pay", sector: "Telecommunications"});
 events.push({ date: "2024-01-24", title: "IDCC", description: "pay", sector: "Telecommunications"});
