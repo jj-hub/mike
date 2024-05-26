@@ -26,3 +26,23 @@
   description: Days past and Average declaration window, for non specific
   link: ./str/declaration_date_prediction.str
   style: style="color:gray"
+- name: Sector ➡️ Real Estate
+  description: ...
+  link: ./sec/real_estate.sec
+  style: style="color:green"
+- name: Sector ➡️ Finance
+  description: ...
+  link: ./sec/finance.sec
+  style: style="color:green"
+- name: Sector ➡️ Energy
+  description: ...
+  link: ./sec/energy.sec
+  style: style="color:green"
+- name: Sector ➡️ Telecom
+  description: ...
+  link: ./sec/telecommunications.sec
+  style: style="color:green"
+- name: Sector ➡️ My Selection
+  description: ...
+  link: ./sec/my_selection.sec
+  style: style="color:green"
