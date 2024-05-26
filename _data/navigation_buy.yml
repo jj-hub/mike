@@ -16,7 +16,7 @@
   style: 
 - name: Reflections
   description: ....
-  link: ./str/blsh.str
+  link: ./str/reflections.str
   style: style="color:green"
 - name: Do Validity Checklist - //Scoring Strategy
   description: Before purchase perform this pilot checklist/scoring
